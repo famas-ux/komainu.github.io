@@ -2,7 +2,7 @@
 layout: post
 title:  "Bitcoin et son statut juridique en droit islamique"
 date:   2025-11-20 16:05:08 +0000
-categories: [islam]
+categories: [islam, bitcoin]
 ---
 PARTIE I — Fondements théoriques : Définir le māl en fiqh al-muʿāmalāt
 
@@ -176,4 +176,3 @@ Mufti Abdur-Rahman Mangera
 Mufti Zubair Patel
 
 https://pdfhost.io/fr-FR/v/du8csk8S26_Bitcoin_et_les_cryptomonnaies_-_une_%C3%89valuation_islamique
----
