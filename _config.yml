@@ -1,7 +1,4 @@
-title: My GitHub Pages Blog
-description: >-
-  Welcome to your very own GitHub Pages-powered blog!
-baseurl: ""
-url: "https://famas-ux.github.io"
 theme: minima
+title : Komainu Blog
 author: famas-ux
+description: "Journal de bord de komainu"
