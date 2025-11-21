@@ -3,8 +3,10 @@ layout: home
 title: Home
 ---
 
-# Welcome to My Blog
+# Journal de bord
 
-This is your GitHub Pages-powered blog! Create posts by adding files to the `_posts` directory.
+fait avec ❤️ par famas
+
+[MISSION DESTROY FIAT](https://app.bullbitcoin.com/registration/famas)
 
 - [About]({{ "/about" | relative_url }})
