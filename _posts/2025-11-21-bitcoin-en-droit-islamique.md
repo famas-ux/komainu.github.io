@@ -182,4 +182,5 @@ Mufti Abdur-Rahman Mangera
 
 Mufti Zubair Patel
 
-https://pdfhost.io/fr-FR/v/du8csk8S26_Bitcoin_et_les_cryptomonnaies_-_une_%C3%89valuation_islamique
+[source](https://pdfhost.io/fr-FR/v/du8csk8S26_Bitcoin_et_les_cryptomonnaies_-_une_%C3%89valuation_islamique)
+
