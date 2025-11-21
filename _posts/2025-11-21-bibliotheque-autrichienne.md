@@ -17,3 +17,11 @@ categories: [livres, école autrichienne d'économie]
 [Frédéric Bastiat – Correspondance avec la famille Cheuvreux](https://editions.institutcoppet.org/produit/frederic-bastiat-correspondance-avec-la-famille-cheuvreux/)
 
 [Frédéric Bastiat – Sophismes économiques première série](https://editions.institutcoppet.org/produit/frederic-bastiat-sophismes-economiques-premiere-serie/)
+
+[Frédéric Bastiat – Sophismes économiques deuxième série](https://editions.institutcoppet.org/produit/frederic-bastiat-sophismes-economiques-deuxieme-serie/)
+
+[Frédéric Bastiat, La Loi 1850](https://www.institutcoppet.org/frederic-bastiat-la-loi-1850/)
+
+[Ce qu’on voit et ce qu’on ne voit pas Frédéric Bastiat](https://www.institutcoppet.org/wp-content/uploads/2011/03/BASTIAT-Ce_quon_voit.pdf?)
+
+[Böhm-Bawerk, les fondements autrichiens de l’intérêt et du capital 3 tomes](https://www.institutcoppet.org/bohm-bawerk-les-fondements-autrichiens-de-linteret-et-du-capital/)
