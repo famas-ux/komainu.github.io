@@ -3,6 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+Contact / Mail  : satopolys@proton.me
+
+Nostr : npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l
+
+Lightning Adress : Famas@primal.net
+
+
+
+
 
 This is a simple blog built with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
