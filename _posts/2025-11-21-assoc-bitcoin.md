@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin et son statut juridique en droit islamique"
+title:   "Créer une Association loi 1901 « bitcoin »"
 date:   2025-11-21
 categories: [association, adoption]
 ---
