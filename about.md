@@ -9,7 +9,23 @@ Nostr : npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l
 
 Lightning Adress : Famas@primal.net
 
+PLAN B NETWORK - ACADEMY - certif obtenues
 
+BTC101
+
+BTC102
+
+BIZ101
+
+SCU101
+
+PHI101
+
+ECO102
+
+ECO201
+
+ECO203
 
 
 
