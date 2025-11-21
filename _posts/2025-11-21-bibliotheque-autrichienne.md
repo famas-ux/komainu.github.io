@@ -44,3 +44,11 @@ categories: [livres, école autrichienne d'économie]
 
 [Ludwig von Mises – La mentalité anticapitaliste](https://www.institutcoppet.org/ludwig-von-mises-la-mentalite-anticapitaliste-2/)
 
+[Ludwig von Mises – Théorie et histoire](https://www.institutcoppet.org/ludwig-von-mises-theorie-et-histoire/)
+
+[Ludwig von Mises – Le gouvernement omnipotent 1944](https://www.institutcoppet.org/ludwig-von-mises-le-gouvernement-omnipotent/)
+
+[Ludwig von Mises – Les fondements ultimes de la science économique 1978](https://editions.institutcoppet.org/produit/ludwig-von-mises-les-fondements-ultimes-de-la-science-economique/)
+
+[Ludwig von Mises – Politique économique 1978](https://editions.institutcoppet.org/produit/ludwig-von-mises-politique-economique/)
+
