@@ -29,5 +29,5 @@ de manière fiable commence à s’effondrer.
 Anil Patel
 
 ````markdown
-![Mon illustration](assets/IMG_0767.png)
+![Mon illustration](assets/Untitled design.jpeg)
 ````
