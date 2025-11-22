@@ -68,6 +68,8 @@ categories: [livres, école autrichienne d'économie]
 
 [Hans Hermann Hoppe - Libertariens et alt-right : Différences et Stratégies](https://pdfhost.io/fr-FR/v/DsuXGVKvan_Hans-Hermann-Hoppe-Libertariens-et-alt-right)
 
+[Hans Hermann Hoppe - Démocratie, le dieu qui a échoué](https://pdfhost.io/fr-FR/v/H5m7PXSNvE_HHH-democracy-french-2020)
+
 [J. Huerta de Soto – L’école autrichienne](https://editions.institutcoppet.org/produit/j-huerta-de-soto-lecole-autrichienne/)
 
 [Eamonn Butler – Introduction à l’école autrichienne d’économie](https://editions.institutcoppet.org/produit/eamonn-butler-introduction-a-lecole-autrichienne-deconomie/)
