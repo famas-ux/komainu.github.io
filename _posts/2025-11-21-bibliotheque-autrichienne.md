@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   "Bibliothèque pdf et epub autrichienne"
-date:   2025-11-21
+date:   2025-11-22
 categories: [livres, école autrichienne d'économie]
 ---
 [Oresme, Traité de la première invention des monnaies](https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/)
@@ -71,5 +71,7 @@ categories: [livres, école autrichienne d'économie]
 [Henry Hazlitt – L’économie en une leçon](https://editions.institutcoppet.org/produit/henry-hazlitt-leconomie-en-une-lecon/)
 
 [Murray Rothbard – L’éducation gratuite et obligatoire](https://editions.institutcoppet.org/produit/murray-rothbard-leducation-gratuite-et-obligatoire/)
+
+[Murray Rothbard L’anatomie de l’état](https://pdfhost.io/fr-FR/v/upZSVz29LH_Murray-Rothbard-Anatomie-de-l-etat-FR)
 
 [Jörg Guido HÜLSMANN L'éthique de la production d e m o n n a i e Traduit de l'anglais par Lucas Scrive-Félix](https://pdfhost.io/fr-FR/v/PCzJ7JFc45_Hulsmann_-_Ethique-de-la-production-de-la-monnaie)
