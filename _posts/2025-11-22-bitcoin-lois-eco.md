@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Les lois économiques appliquées à Bitcoin."
-date:   2025-11-22
-categories: [economie, Anil Patel]
+title:  "Les lois économiques appliquées à Bitcoin"
+date:   2025-11-22 
+categories: [economie, AnilPatel]
 ---
+
 Les lois économiques appliquées à Bitcoin.
 
 Article inspiré par Anil Patel (Le manuel du bitcoin Concepts clés en économie, technologie et psychologie.)
