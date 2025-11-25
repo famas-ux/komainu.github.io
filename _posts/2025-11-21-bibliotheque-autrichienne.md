@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   "Bibliothèque pdf et epub autrichienne"
-date:   2025-11-22
+date:   2025-11-25
 categories: [livres, école autrichienne d'économie]
 ---
 [Oresme, Traité de la première invention des monnaies](https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/)
@@ -81,3 +81,9 @@ categories: [livres, école autrichienne d'économie]
 [Murray Rothbard L’anatomie de l’état](https://pdfhost.io/fr-FR/v/upZSVz29LH_Murray-Rothbard-Anatomie-de-l-etat-FR)
 
 [Jörg Guido HÜLSMANN L'éthique de la production d e m o n n a i e Traduit de l'anglais par Lucas Scrive-Félix](https://pdfhost.io/fr-FR/v/PCzJ7JFc45_Hulsmann_-_Ethique-de-la-production-de-la-monnaie)
+
+[Pascal Salin - Article - Le libéralisme est le seul vrai humanisme](https://journaldeslibertes.fr/download/JDL16-le-liberalisme-est-le-seul-vrai-humanisme.pdf)
+
+[Pascas Salin - Article - Le mythe de la justice sociale](https://journaldeslibertes.fr/download/JDL12-le-mythe-de-la-justice-sociale.pdf)
+
+[Pascal Salin - Article - Le vrai libéralisme](https://journaldeslibertes.fr/download/JDL7-le-vrai-liberalisme-droite-et-gauche-unies-dans-lerreur.pdf)
