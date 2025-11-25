@@ -95,3 +95,15 @@ categories: [livres, école autrichienne d'économie]
 [Pascal Salin - Article - Dépenses publiques et fiscalité](https://journaldeslibertes.fr/wp-content/uploads/2024/03/JDL9-WEB.pdf)
 
 [Pascal Salin - Article - Promouvoir les idées de la liberté](https://journaldeslibertes.fr/download/JDL1-promouvoir-les-idees-de-la-liberte-2.pdf)
+
+[Pascal Salin - Article - Robert Mundell : un géant intellectuel](https://journaldeslibertes.fr/download/JDL13-robert-mundell-un-geant-intellectuel-qui-tourne-le-dos-au-keynesianisme.pdf)
+
+[Pascal Salin - Article - Daniel Pilisi : un pionnier et un libéral](https://journaldeslibertes.fr/download/JDL13-daniel-pilisi-un-pionnier-et-un-liberal.pdf)
+
+[Pascal Salin - Préface](https://journaldeslibertes.fr/download/JDL6-preface-a-louvrage-letat-de-anthony-de-jasay.pdf)
+
+[Pascal Salin - Article - Que peut-on demander à la politique monétaire](https://www.fondapol.org/app/uploads/2020/05/056-SALIN-2014-07-09-web-Que-peut-on-demander-à-la-politique-monétaire-1.pdf)
+
+[Pascal Salin - Article -Rapport Fondapol contient la note de Salin](https://www.fondapol.org/app/uploads/2021/01/rapport-activite-2014-comp.pdf)
+
+[Pascal Salin - Article - Reformer pour libérer](https://fr.irefeurope.org/wp-content/uploads/reformer_pour_liberer.pdf)
