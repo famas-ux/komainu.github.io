@@ -107,3 +107,29 @@ categories: [livres, école autrichienne d'économie]
 [Pascal Salin - Article -Rapport Fondapol contient la note de Salin](https://www.fondapol.org/app/uploads/2021/01/rapport-activite-2014-comp.pdf)
 
 [Pascal Salin - Article - Reformer pour libérer](https://fr.irefeurope.org/wp-content/uploads/reformer_pour_liberer.pdf)
+
+[Pascal Salin - Article - Crise financière](https://www.confcommercio.it/documents/20126/1138601/Salin-Pascal-doc-02.pdf)
+
+[Pascal Salin - Article - Choosing the Best Policy Mix](https://dei.web.uniroma1.it/sites/default/files/allegati/SALIN.pdf)
+
+[Pascal Salin - Article - The Myth of the Income Effect](https://cdn.mises.org/rae9_1_4_2.pdf)
+
+[Pascal Salin - Extrait officiel La vérité sur la monnaie](https://excerpts.numilog.com/books/9782130435303.pdf)
+
+[Pascal Salin - Article - Compte rendu dans Études internationales](https://www.erudit.org/fr/revues/ei/1983-v14-n3-ei3014/701554ar.pdf)
+
+[Pascal Salin - Article - Version italienne de conférence](https://www.confcommercio.it/documents/20126/1138601/Salin-Pascal-doc-02.pdf)
+
+[Pascal Salin - Article - Illusion de la réduction du temps de travail](https://www.revuedesdeuxmondes.fr/wp-content/uploads/2016/11/3e4bd44426e4b68df3cad50333c3bd09.pdf)
+
+[Pascal Salin - Article - Laudatio Pascal Salin](https://www.uaic.ro/wp-content/uploads/2013/12/LaudatioPascalSalinFRfinal.pdf)
+
+[Pascal Salin - Note & étude liée](https://www.fondapol.org/app/uploads/2020/05/088-PERRIER_II_2016-09-21_w-1.pdf)
+
+[Pascal Salin - Étude Institut Molinari](https://www.institutmolinari.org/wp-content/uploads/2024/07/etude-fardeau-fiscal-eu-2024.pdf)
+
+[Pascal Salin - Article - Numéro JDL 4](https://journaldeslibertes.fr/wp-content/uploads/2024/03/JDL4-WEB-FINAL.pdf)
+
+[Pascal Salin - Article - Numéro JDL 26](https://journaldeslibertes.fr/download/JDL26-le-liberalisme-fragments-dune-reconsideration-de-serge-schweitzer-que-lechange-soit.pdf)
+
+[Pascal Salin - Article - Recension monnaie](https://www.erudit.org/fr/revues/ei/1983-v14-n3-ei3014/701554ar.pdf)
