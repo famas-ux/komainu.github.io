@@ -87,3 +87,11 @@ categories: [livres, école autrichienne d'économie]
 [Pascas Salin - Article - Le mythe de la justice sociale](https://journaldeslibertes.fr/download/JDL12-le-mythe-de-la-justice-sociale.pdf)
 
 [Pascal Salin - Article - Le vrai libéralisme](https://journaldeslibertes.fr/download/JDL7-le-vrai-liberalisme-droite-et-gauche-unies-dans-lerreur.pdf)
+
+[Pascal Salin - Article - Pour une Europe diversifiée mais unie sur les principes](https://journaldeslibertes.fr/download/JDL1-pour-une-europe-diversifiee-mais-unie-sur-les-principes.pdf)
+
+[Pascal Salin - Article - Le retour de la BCE au quantitative easing](https://journaldeslibertes.fr/download/JDL8-le-retour-de-la-bce-au-quantitative-easing-exemple-typique-des-effets-de-la-politique-economique.pdf)
+
+[Pascal Salin - Article - Dépenses publiques et fiscalité](https://journaldeslibertes.fr/wp-content/uploads/2024/03/JDL9-WEB.pdf)
+
+[Pascal Salin - Article - Promouvoir les idées de la liberté](https://journaldeslibertes.fr/download/JDL1-promouvoir-les-idees-de-la-liberte-2.pdf)
