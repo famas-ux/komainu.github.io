@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   "Bibliothèque pdf et epub autrichienne"
-date:   2025-11-25
+date:   2025-11-26
 categories: [livres, école autrichienne d'économie]
 ---
 [Oresme, Traité de la première invention des monnaies](https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/)
@@ -75,6 +75,8 @@ categories: [livres, école autrichienne d'économie]
 [Eamonn Butler – Introduction à l’école autrichienne d’économie](https://editions.institutcoppet.org/produit/eamonn-butler-introduction-a-lecole-autrichienne-deconomie/)
 
 [Henry Hazlitt – L’économie en une leçon](https://editions.institutcoppet.org/produit/henry-hazlitt-leconomie-en-une-lecon/)
+
+[Murray N. Rothbard - Renouer avec la liberté - Le manifeste libertarien - extraits](https://www.institutcoppet.org/wp-content/uploads/2014/11/Renouer-avec-la-libert%C3%A9-Murray-Rothbard.pdf)
 
 [Murray Rothbard – L’éducation gratuite et obligatoire](https://editions.institutcoppet.org/produit/murray-rothbard-leducation-gratuite-et-obligatoire/)
 
