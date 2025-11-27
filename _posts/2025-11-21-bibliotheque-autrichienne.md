@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   "Bibliothèque pdf et epub autrichienne"
-date:   2025-11-26
+date:   2025-11-27
 categories: [livres, école autrichienne d'économie]
 ---
 [Oresme, Traité de la première invention des monnaies](https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/)
@@ -137,3 +137,5 @@ categories: [livres, école autrichienne d'économie]
 [Pascal Salin - Article - Numéro JDL 26](https://journaldeslibertes.fr/download/JDL26-le-liberalisme-fragments-dune-reconsideration-de-serge-schweitzer-que-lechange-soit.pdf)
 
 [Pascal Salin - Article - Recension monnaie](https://www.erudit.org/fr/revues/ei/1983-v14-n3-ei3014/701554ar.pdf)
+
+[L’infini divisé par 21 millions - Knut Svanholm - version française](https://pdfhost.io/fr-FR/v/MaAJqBJzjm_Bitcoin__Everything_divided_by_21_million__French_)
