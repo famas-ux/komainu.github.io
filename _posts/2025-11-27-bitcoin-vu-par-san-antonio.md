@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Béru, Satoshi et le Mystère du Biffeton Fantôme"
-date:   2025-11-28
+date:   2025-11-27
 categories: [bitcoin, definition, Frederic Dard]
 ---
 
