@@ -23,7 +23,7 @@ Ceux qui rendent Bitcoin aussi solide qu’un coffre sans serrure.
 
 ⸻
 
-1. La rareté — la règle d’airain
+La rareté — la règle d’airain
 
 Bitcoin, c’est pas de la pâte à crêpe. On n’en rajoute pas quand il manque une louche. C’est 21 millions, pas un de rab’.
 Dans un monde où l’on crée de la monnaie comme on imprime des prospectus, cette rareté est un étranglement volontaire, un carcan assumé. Satoshi l’a gravée dans le code : ni banquier, ni État, ni consortium ne peut toucher à cette limite. Rigueur militaire. Discipline d’adjudant-chef.
@@ -34,7 +34,7 @@ Le robinet est fermé à clé. Et la clé est perdue pour de bon.
 
 ⸻
 
-2. La neutralité — pas de maître, pas de piston
+La neutralité — pas de maître, pas de piston
 
 Bitcoin, c’est une monnaie qui ne t’appelle pas « monsieur », « madame » ou « contribuable ». Elle se fout de ta tête, de ton pays, de ta généalogie bancaire. Tu veux échanger ? Tu échanges.
 Pas de banquier ventripotent pour vérifier si t’as bien rempli la case 12C-bis.
@@ -48,7 +48,7 @@ Bitcoin ouvre sa gueule, mais jamais sur un refus.
 
 ⸻
 
-3. Transparence et intégrité — la compta gravée au burin
+Transparence et intégrité — la compta gravée au burin
 
 Chaque transaction est inscrite dans un registre public. Pas public façon mairie, avec tampons, retards et placards poussiéreux. Public façon pierre numérique indestructible.
 
@@ -64,7 +64,7 @@ Le rêve humide des contrôleurs, l’enfer des magouilleurs.
 
 ⸻
 
-4. Résistance à la censure — essaye donc pour voir
+Résistance à la censure — essaye donc pour voir
 
 Bitcoin, c’est un savon de caserne : tu veux le saisir, il te file entre les doigts.
 Les États peuvent bien voter des lois, hurler à la fraude, lever des barrières, rien n’y fait.
@@ -79,7 +79,7 @@ Bitcoin, c’est le Jenny l’Éclair de la finance.
 
 ⸻
 
-5. Divisibilité et portabilité — le magot dans la poche
+Divisibilité et portabilité — le magot dans la poche
 
 Un bitcoin, ça se découpe en cent millions de miettes. Le satoshi, c’est le grain de sable qui te permet de payer des cacahuètes en monnaie dure.
 Et pour transporter ton magot ?
@@ -91,7 +91,7 @@ Un code, et basta.
 
 ⸻
 
-6. Durabilité — le fric qui ne s’use pas
+Durabilité — le fric qui ne s’use pas
 
 Bitcoin ne jaunit pas, ne se déchire pas, ne brûle pas.
 Tant qu’un seul nœud reste allumé sur Terre, il survit.
