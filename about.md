@@ -27,7 +27,7 @@ ECO201
 
 ECO203
 
-
+HIS201
 
 This is a simple blog built with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
