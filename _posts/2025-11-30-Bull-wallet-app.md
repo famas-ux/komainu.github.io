@@ -153,11 +153,7 @@ Liens utiles
 
 [Application Bull Bitcoin](https://app.bullbitcoin.com/registration/famas)
 
-[Site officiel](https://www.bullbitcoin.com/fr/buy)
-
 [Tutoriel complet](https://youtu.be/dJY_zyCV7HM)
-
-[Le site officiel](https://www.bullbitcoin.com/fr/buy)
 
 [Introduction à l'approche Bull Bitcoin](https://www.youtube.com/watch?v=khL6womqMY8%5C)
 
@@ -165,4 +161,3 @@ Liens utiles
 
 [Configuration des achats automatiques](https://www.youtube.com/watch?v=X6g0hSB2Y6M%5C)
 
-[Ensemble des tutoriels disponibles](https://www.youtube.com/playlist?list=PLxCb6IvQ216mogwCwh5cUWWVYQ_0NvjrU%5C)
