@@ -138,6 +138,8 @@ categories: [livres, école autrichienne d'économie]
 
 [Pascal Salin - Article - Recension monnaie](https://www.erudit.org/fr/revues/ei/1983-v14-n3-ei3014/701554ar.pdf)
 
+[RICHARD CANTILLON - ESSAI SUR LA NATURE DU COMMERCE EN GÉNÉRAL 1755](https://pdfhost.io/fr-FR/v/DZRFD9qsxZ_Cantillon-Essai)
+
 [L’infini divisé par 21 millions - Knut Svanholm - version française](https://pdfhost.io/fr-FR/v/MaAJqBJzjm_Bitcoin__Everything_divided_by_21_million__French_)
 
 [L’Etat Réseau - Balaji Srinivasan 🇫🇷](https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan)
