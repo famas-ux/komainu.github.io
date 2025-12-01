@@ -76,8 +76,6 @@ categories: [livres, école autrichienne d'économie]
 
 [Henry Hazlitt – L’économie en une leçon](https://editions.institutcoppet.org/produit/henry-hazlitt-leconomie-en-une-lecon/)
 
-[Etat qu’as tu fait de notre monnaie - Murray Rothbard](https://pdfhost.io/fr-FR/v/Gbs2LTBptb_%C3%89tat__qu_as-tu_fait_de_notre_monnaie)
-
 [Murray N Rothbard - Etat qu’as tu fais de notre monnaie](https://www.institutcoppet.org/wp-content/uploads/2011/01/Etat-quas-tu-fait-de-notre-monnaie.pdf)
 
 [Murray N. Rothbard - Renouer avec la liberté - Le manifeste libertarien - extraits](https://www.institutcoppet.org/wp-content/uploads/2014/11/Renouer-avec-la-libert%C3%A9-Murray-Rothbard.pdf)
