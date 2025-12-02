@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   "Bibliothèque pdf et epub autrichienne"
-date:   2025-12-01
+date:   2025-12-02
 categories: [livres, école autrichienne d'économie]
 ---
 [Oresme, Traité de la première invention des monnaies](https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/)
@@ -71,6 +71,8 @@ categories: [livres, école autrichienne d'économie]
 [Hans Hermann Hoppe - Démocratie, le dieu qui a échoué](https://pdfhost.io/fr-FR/v/H5m7PXSNvE_HHH-democracy-french-2020)
 
 [J. Huerta de Soto – L’école autrichienne](https://editions.institutcoppet.org/produit/j-huerta-de-soto-lecole-autrichienne/)
+
+[Jesús Huerta de Soto - MONNAIE, CRÉDIT BANCAIRE ET CYCLES ÉCONOMIQUES](https://pdfhost.io/fr-FR/v/zhfw6s4bSn_Huerta_de_Soto_monnaie_credit_bancaire_et_cycles_economiques)
 
 [Eamonn Butler – Introduction à l’école autrichienne d’économie](https://editions.institutcoppet.org/produit/eamonn-butler-introduction-a-lecole-autrichienne-deconomie/)
 
@@ -143,3 +145,5 @@ categories: [livres, école autrichienne d'économie]
 [L’infini divisé par 21 millions - Knut Svanholm - version française](https://pdfhost.io/fr-FR/v/MaAJqBJzjm_Bitcoin__Everything_divided_by_21_million__French_)
 
 [L’Etat Réseau - Balaji Srinivasan 🇫🇷](https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan)
+
+[Thomas Piketty - Le capital au XXI siècle](https://pdfhost.io/fr-FR/v/GgFnJ2XpT8_le-capital-au-xxie-siecle-thomas-piketty)
