@@ -35,12 +35,16 @@ Ils ont en commun une auto-organisation distribuée, sans contrôle central.
 b) Bitcoin comme réseau soumis à une loi d’échelle
 
 Selon la BPLT, trois grandeurs clés suivent des lois de puissance :
+
 	1.	Adoption (nombre d’utilisateurs / adresses actives)
 → croît approximativement comme t^3
+
 	2.	Prix
 → suit une dynamique proche de la loi de Metcalfe : prix \propto utilisateurs^2
+
 	3.	Hashrate (puissance de calcul)
 → lié au prix : hashrate \propto prix^2
+
 
 En combinant ces relations, on obtient une trajectoire de long terme remarquablement régulière.
 Les bull-runs et les chutes ne seraient que des déviations temporaires autour d’une structure fondamentale.
@@ -141,7 +145,9 @@ Sur le long terme, la dynamique quadratique reste visible.
 d) Cohérence globale : le “tunnel” de croissance
 
 En combinant adoption → prix → hashrate, Santostasi propose un couloir de croissance.
+
 Les données historiques montrent :
+
 	•	2011–2013 : le prix suit la trajectoire
 	•	2014–2017 : le modèle tient malgré la volatilité
 	•	2018–2021 : corrections puis réintégration dans le tunnel
