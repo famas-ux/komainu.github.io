@@ -166,5 +166,5 @@ Elle offre une compréhension du cadre dans lequel Bitcoin évolue, un cadre qui
 
 #BitcoinPowerLowTheory
 
-[Source Article Medium
+[Source Article Medium Giovanni Santostasi](https://giovannisantostasi.medium.com/the-bitcoin-power-law-theory-962dfaf99ee9)
 
