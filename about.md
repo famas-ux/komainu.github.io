@@ -9,6 +9,9 @@ Nostr : npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l
 
 Lightning Adress : Famas@primal.net
 
+---
+
+
 PLAN B NETWORK - ACADEMY - certif obtenues
 
 [BTC101](https://planb.academy/fr/courses/le-parcours-de-bitcoin-2b7dc507-81e3-4b70-88e6-41ed44239966)
@@ -28,6 +31,10 @@ PLAN B NETWORK - ACADEMY - certif obtenues
 [ECO203](https://planb.academy/fr/courses/pensee-economique-de-bastiat-d07b092b-fa9a-4dd7-bf94-0453e479c7df)
 
 [HIS201](https://planb.academy/fr/courses/lhistoire-de-la-creation-de-bitcoin-a51c7ceb-e079-4ac3-bf69-6700b985a082)
+
+[ECO204](https://planb.academy/fr/courses/etudes-de-cas-dhyperinflation-caa75343-ac90-4249-bcca-0e2e57c3a0f1)
+
+---
 
 This is a simple blog built with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
