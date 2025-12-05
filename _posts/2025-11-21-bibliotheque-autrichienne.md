@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   "Bibliothèque pdf et epub autrichienne"
-date:   2025-12-02
+date:   2025-12-05
 categories: [livres, école autrichienne d'économie]
 ---
 [Oresme, Traité de la première invention des monnaies](https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/)
@@ -147,3 +147,11 @@ categories: [livres, école autrichienne d'économie]
 [L’Etat Réseau - Balaji Srinivasan 🇫🇷](https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan)
 
 [Thomas Piketty - Le capital au XXI siècle](https://pdfhost.io/fr-FR/v/GgFnJ2XpT8_le-capital-au-xxie-siecle-thomas-piketty)
+
+[L’élégance de Bitcoin - Ludovic Lars](https://bitcoinelegance.fr/)
+
+[Dictionnaire de Bitcoin - Loïc Morel](https://pandul.fr/dictionnaire/)
+
+[Cryptoeconomie - Éric Voskuil](https://voskuil.org/cryptoeconomics/fr/cryptoéconomie.pdf)
+
+[Mastering Bitcoin en français - Andreas Antonopoulos](https://bitcoin.fr/mastering-bitcoin-fr/)
