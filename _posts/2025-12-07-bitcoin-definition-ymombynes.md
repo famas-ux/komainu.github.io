@@ -268,6 +268,7 @@ Bitcoin est désinflationniste, neutre, non manipulable.
 « Bitcoin permettrait de dépolitiser la monnaie. »
 
 Une monnaie qui n’obéit à personne : c’est une révolution civilisationnelle.
+
 ⸻
 
 VIII. Conclusion : un phénomène incontournable
