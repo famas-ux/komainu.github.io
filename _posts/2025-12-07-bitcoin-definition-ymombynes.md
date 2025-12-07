@@ -125,6 +125,8 @@ Et ce qui frappe le plus, c’est que Bitcoin n’a pas gagné grâce au marketi
 Comme le dit Yorick de Mombynes :
 « Bitcoin est un ovni technologique qui est en train de devenir une monnaie. »
 
+---
+
 I. Bitcoin ne tombe pas du ciel : retour sur 30 ans d’échecs avant la réussite
 
 Le succès de Bitcoin ressemble à un miracle technologique. Pourtant, il est l’aboutissement d’une quête longue et difficile : créer une monnaie numérique sans banque ni État, résistante à la censure et protectrice des libertés individuelles.
