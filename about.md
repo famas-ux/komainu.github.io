@@ -34,6 +34,8 @@ PLAN B NETWORK - ACADEMY - certif obtenues
 
 [ECO204](https://planb.academy/fr/courses/etudes-de-cas-dhyperinflation-caa75343-ac90-4249-bcca-0e2e57c3a0f1)
 
+[HIS204](https://planb.academy/fr/courses/les-origines-du-laissez-faire-economique-ccbd62a8-e90b-4030-95bf-ba735804655d)
+
 ---
 
 This is a simple blog built with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
