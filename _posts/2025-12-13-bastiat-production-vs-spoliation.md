@@ -18,11 +18,11 @@ POINT DE DÉPART
 
 Désir universel de mieux vivre
 
- ↓
+   ↓
  
 Recherche du moyen le plus facile
 
- ↓
+   ↓
  
 Instinct de domination
 
