@@ -12,19 +12,24 @@ Le moteur de l’histoire
 
 
 POINT DE DÉPART
+
 ────────────────
+
 Désir universel de mieux vivre
-        ↓
+ ↓
 Recherche du moyen le plus facile
-        ↓
+ ↓
 Instinct de domination
 
 
 DEUX VOIES POSSIBLES
+
 ───────────────────
 
 PRODUCTION
+
 ──────────
+
 • Dominer la nature
 • Travailler, créer, inventer
 • Échanger librement
@@ -37,7 +42,9 @@ Responsabilité
 
 
 SPOLIATION
+
 ──────────
+
 • Dominer les hommes
 • Force, ruse, contrainte
 • Recevoir sans rendre
@@ -49,7 +56,9 @@ Domination
 
 
 L’ILLUSION DU POUVOIR BIENFAITEUR
+
 ────────────────────────────────
+
 • État présenté comme protecteur et moral
 • Redistribution imposée
 • Assistance obligatoire
@@ -60,15 +69,18 @@ Réduction de la liberté individuelle
 
 
 LES FORMES DE LA SPOLIATION
+
 ──────────────────────────
 
 Spoliation illégale
+
 • Vol
 • Fraude
 • Violence
 → Visible et condamnée
 
 Spoliation légale
+
 • Loi pervertie
 • Impôts excessifs
 • Subventions injustes
@@ -78,13 +90,17 @@ Spoliation légale
 
 
 QUAND L’ÉTAT SE FAIT PRODUCTEUR
+
 ──────────────────────────────
+
 Rôle légitime de l’État :
+
 • Protéger la vie
 • Garantir la propriété
 • Défendre la liberté
 
 Dérives :
+
 • Redistribution forcée
 • Monopoles (éducation, prix)
 • Création monétaire
@@ -96,7 +112,9 @@ Dérives :
 
 
 SORTIR DU CERCLE VICIEUX
+
 ───────────────────────
+
 • Éducation économique et morale
 • Prise de conscience citoyenne
 • Compréhension des mécanismes
@@ -106,11 +124,15 @@ Défense pacifique de la liberté
 
 
 CONCLUSION
+
 ──────────
+
 L’histoire humaine est la lutte :
+
 Spoliation ↔ Liberté
 
 La liberté :
+
 • Ne se décrète pas
 • Ne se donne pas
 • Se comprend
