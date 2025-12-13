@@ -16,9 +16,13 @@ POINT DE DÉPART
 ────────────────
 
 Désir universel de mieux vivre
+
  ↓
+ 
 Recherche du moyen le plus facile
+
  ↓
+ 
 Instinct de domination
 
 
@@ -31,13 +35,21 @@ PRODUCTION
 ──────────
 
 • Dominer la nature
+
 • Travailler, créer, inventer
+
 • Échanger librement
+
 • Service ↔ service
+
         ↓
+        
 Richesse réelle
+
 Prospérité durable
+
 Liberté
+
 Responsabilité
 
 
@@ -46,12 +58,19 @@ SPOLIATION
 ──────────
 
 • Dominer les hommes
+
 • Force, ruse, contrainte
+
 • Recevoir sans rendre
+
         ↓
+        
 Richesse illusoire
+
 Dépendance
+
 Conflits
+
 Domination
 
 
@@ -60,11 +79,17 @@ L’ILLUSION DU POUVOIR BIENFAITEUR
 ────────────────────────────────
 
 • État présenté comme protecteur et moral
+
 • Redistribution imposée
+
 • Assistance obligatoire
+
         ↓
+        
 « Vivre aux dépens de tous »
+
         ↓
+        
 Réduction de la liberté individuelle
 
 
@@ -75,17 +100,25 @@ LES FORMES DE LA SPOLIATION
 Spoliation illégale
 
 • Vol
+
 • Fraude
+
 • Violence
+
 → Visible et condamnée
 
 Spoliation légale
 
 • Loi pervertie
+
 • Impôts excessifs
+
 • Subventions injustes
+
 • Privilèges
+
 • Guerres, dettes, inflation
+
 → La plus dangereuse
 
 
@@ -96,14 +129,19 @@ QUAND L’ÉTAT SE FAIT PRODUCTEUR
 Rôle légitime de l’État :
 
 • Protéger la vie
+
 • Garantir la propriété
+
 • Défendre la liberté
 
 Dérives :
 
 • Redistribution forcée
+
 • Monopoles (éducation, prix)
+
 • Création monétaire
+
 • Endettement public
 
 ⇒ Donner à l’un,
@@ -116,10 +154,14 @@ SORTIR DU CERCLE VICIEUX
 ───────────────────────
 
 • Éducation économique et morale
+
 • Prise de conscience citoyenne
+
 • Compréhension des mécanismes
   de la spoliation
+  
         ↓
+        
 Défense pacifique de la liberté
 
 
@@ -129,14 +171,20 @@ CONCLUSION
 
 L’histoire humaine est la lutte :
 
+
 Spoliation ↔ Liberté
+
 
 La liberté :
 
 • Ne se décrète pas
+
 • Ne se donne pas
+
 • Se comprend
+
 • Se défend
+
 • Se mérite
 
 L’harmonie sociale naît
