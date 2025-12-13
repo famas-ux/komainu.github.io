@@ -7,6 +7,7 @@ categories: [histoire, BASTIAT]
 
 FRÉDÉRIC BASTIAT
 Production vs Spoliation
+
 Le moteur de l’histoire
 (d’après Damien Theillier)
 
