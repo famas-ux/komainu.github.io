@@ -1,29 +1,31 @@
 ---
 layout: post
-title:  "Présentation Express"
-date:   2025-11-20 16:05:08 +0000
+title: "Présentation Express"
+date: 2025-11-20
 categories: [intro]
 ---
 
-CV Express :
-Agé de 56 ans, je suis marié et pére de deux enfants quasi adultes.
+## CV Express
 
-Formation Comptabilité DUT GEA 1992
+Âgé de 56 ans, je suis marié et père de deux enfants quasi adultes.
 
-Expériences en compta : 5 ans. Entreprise et Cabinet d'expertises.
+### Formation
+- Comptabilité – DUT GEA 1992
 
-Gérant du Bar Tabac Presse Jeux Bimbeloterie "La Pipe" (Roanne) : 12 ans.
+### Expériences professionnelles
+- Comptabilité : 5 ans (Entreprise et Cabinet d'expertises)
+- Gérant du Bar Tabac Presse Jeux Bimbeloterie "La Pipe" (Roanne) : 12 ans
+- Vendeur – Rayon Brico Dépôt : 5 ans
+- Mandataire Immobilier (Select83 Immo) : 3 ans
+- Ouvrier qualifié en Tannerie, emploi alimentaire : toujours en poste
 
-Vendeur Rayon  Brico Dépot : 5 ans.
+### Passions
+- Bitcoin
+- Voyages
+- Tir sportif
 
-Mandataire Immobilier (Select83 Immo) : 3 ans.
+### Projet
+- Songe à l'expatriation
 
-Ouvrier qualifié en Tannerie, emploi alimentaire, toujours en poste.
-
-Passions :
-
-Bitcoin, les Voyages, Tir Sportif .
-
-Songe à l'expatriation
-
-Contact/Mail satopolys@proton.me
+### Contact
+- Mail : [satopolys@proton.me](mailto:satopolys@proton.me)
