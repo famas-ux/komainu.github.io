@@ -103,3 +103,16 @@ categories: [bitcoin, veille, France]
     </div>
   </div>
 </div>
+
+  <div class="article-card">
+    <div class="article-icon">🌐</div>
+    <div class="article-content">
+      <a href="https://cryptoxr.fr/" target="_blank" rel="noopener">
+        <h3>CryptoXR – Actualités et analyses</h3>
+        <p>Suivez les publications de CryptoXR sur <a href="https://x.com/cxr2026?s=21" target="_blank" rel="noopener">X / Twitter</a> et les threads 
+        <a href="https://x.com/cxr2026/status/1971155782373868023?s=46" target="_blank" rel="noopener">#1</a>, 
+        <a href="https://x.com/cxr2026/status/2000202239357370770?s=46" target="_blank" rel="noopener">#2</a> pour analyses et tendances Bitcoin en France.</p>
+      </a>
+    </div>
+  </div>
+</div>
