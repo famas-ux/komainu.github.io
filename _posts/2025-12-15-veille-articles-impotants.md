@@ -115,7 +115,6 @@ categories: [bitcoin, veille, France]
       </a>
     </div>
   </div>
-</div>
 
   <div class="article-card">
     <div class="article-icon">⚠️</div>
@@ -127,4 +126,4 @@ categories: [bitcoin, veille, France]
     </div>
   </div>
 
-</div>
+
