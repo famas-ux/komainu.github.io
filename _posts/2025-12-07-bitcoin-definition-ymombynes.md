@@ -1,110 +1,114 @@
 ---
 layout: post
-title:  "Comprendre Bitcoin, 
-d’après l’analyse de Yorick de Mombynes"
-date:   2025-12-07
+title: "Comprendre Bitcoin, d’après l’analyse de Yorick de Mombynes"
+date: 2025-12-07
 categories: [bitcoin, définition, Yorick de Mombynes]
 ---
 
-┌──────────────────────────────────────────┐
-│            BITCOIN : L’ESSENTIEL         │
-│       La monnaie numérique inarrêtable   │
-└──────────────────────────────────────────┘
+## BITCOIN : L’ESSENTIEL  
+### La monnaie numérique inarrêtable
 
             ▄▄▄▄▄▄▄  RÉSEAU  ▄▄▄▄▄▄▄
            ▐  Bitcoin = Infrastructure  ▌
            ▐  bitcoin = Unité monétaire ▌
             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-┌──────────────────────────┐
-│ 1. PROPRIÉTÉS CLÉS       │
-└──────────────────────────┘
-• Décentralisé  
-• Résistant à la censure  
-• Offre limitée : 21M  
-• Divisible : 100M sats  
-• Sécurité record  
-• Public, open-source
+---
 
-      « Tout est public,
-         rien n’est secret. »
+## 1. PROPRIÉTÉS CLÉS
 
-┌──────────────────────────┐
-│ 2. COMMENT ÇA MARCHE ?   │
-└──────────────────────────┘
-Utilisateur → Nœud → Mineur → Blockchain
+- Décentralisé  
+- Résistant à la censure  
+- Offre limitée : **21 millions**  
+- Divisible : **100 millions de satoshis**  
+- Sécurité record  
+- Public, open-source  
 
-• Nœuds = règles  
-• Mineurs = sécurité/PoW  
-• Blocs / 10 minutes  
-• Difficulté ajustée
+> « Tout est public, rien n’est secret. »
 
-   « Le réseau Bitcoin est la plus
-      grande puissance de calcul
-                sur Terre. »
+---
 
-┌──────────────────────────┐
-│ 3. HALVING (4 ANS)       │
-└──────────────────────────┘
-Rareté programmée :  
-2009 : 50  
-2012 : 25  
-2016 : 12,5  
-2020 : 6,25  
-2024 : 3,125  
-2028 : 1,5625…
+## 2. COMMENT ÇA MARCHE ?
 
- « Une hausse de la demande
-    renforce la sécurité. »
+**Utilisateur → Nœud → Mineur → Blockchain**
 
-┌──────────────────────────┐
-│ 4. ADOPTION MONDIALE     │
-└──────────────────────────┘
-• ~200M utilisateurs  
-• Outil vital contre l’arbitraire  
-• Wall Street entre  
-• Salvador : cours légal
+- Nœuds = règles  
+- Mineurs = sécurité / preuve de travail  
+- Blocs toutes les 10 minutes  
+- Difficulté ajustée  
 
-     « Parfois, c’est une
-        question de survie. »
+> « Le réseau Bitcoin est la plus grande puissance de calcul sur Terre. »
 
-┌──────────────────────────┐
-│ 5. MYTHES / RÉALITÉ      │
-└──────────────────────────┘
-❌ “Criminels” → USD domine  
-❌ “On va l’arrêter” → couper Internet  
-❌ “Pollue trop” → surplus énergétiques
+---
 
-┌──────────────────────────┐
-│ 6. QUALITÉS MONÉTAIRES   │
-└──────────────────────────┘
-• Rare • Durable • Portable  
-• Vérifiable • Divisible  
-• Coût énergétique = sécurité  
-• Neutre et apolitique
+## 3. HALVING (tous les 4 ans)
 
-     « Bitcoin permet de
-       dépolitiser la monnaie. »
+Rareté programmée :
 
-┌──────────────────────────┐
-│ 7. LIGHTNING             │
-└──────────────────────────┘
-• Instantané  
-• Frais ≈ 0  
-• Global  
-• Sans énergie en plus  
-• Évolutivité quasi infinie
+- 2009 : 50  
+- 2012 : 25  
+- 2016 : 12,5  
+- 2020 : 6,25  
+- 2024 : 3,125  
+- 2028 : 1,5625…
 
-┌──────────────────────────┐
-│ 8. RÉSUMÉ FINAL          │
-└──────────────────────────┘
-Bitcoin =
-Réseau mondial  
-+ Monnaie rare  
-+ Liberté individuelle  
-+ Sécurité absolue  
-+ Résilience politique  
-+ Programmabilité
+> « Une hausse de la demande renforce la sécurité. »
+
+---
+
+## 4. ADOPTION MONDIALE
+
+- Environ **200 millions d’utilisateurs**  
+- Outil vital contre l’arbitraire  
+- Entrée de Wall Street  
+- Salvador : **cours légal**
+
+> « Parfois, c’est une question de survie. »
+
+---
+
+## 5. MYTHES / RÉALITÉ
+
+- ❌ « Bitcoin est une monnaie de criminels » → le dollar domine  
+- ❌ « On va l’arrêter » → il faudrait couper Internet  
+- ❌ « Bitcoin pollue trop » → valorisation des surplus énergétiques  
+
+---
+
+## 6. QUALITÉS MONÉTAIRES
+
+- Rare  
+- Durable  
+- Portable  
+- Vérifiable  
+- Divisible  
+- Coût énergétique = sécurité  
+- Neutre et apolitique  
+
+> « Bitcoin permet de dépolitiser la monnaie. »
+
+---
+
+## 7. LIGHTNING NETWORK
+
+- Instantané  
+- Frais quasi nuls  
+- Global  
+- Sans énergie supplémentaire  
+- Évolutivité quasi infinie  
+
+---
+
+## 8. RÉSUMÉ FINAL
+
+**Bitcoin, c’est :**
+
+- un réseau mondial  
+- une monnaie rare  
+- la liberté individuelle  
+- une sécurité absolue  
+- une résilience politique  
+- une programmabilité native  
 
            ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
            ▌  Une nouvelle   ▐
