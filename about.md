@@ -74,7 +74,7 @@
 
 <hr>
 
-<h2>PLAN B NETWORK - ACADEMY - Certificats obtenus</h2>
+<h2>PLAN B NETWORK - ACADEMY - Certifications obtenues</h2>
 <ul>
     <li><a href="https://planb.academy/fr/courses/le-parcours-de-bitcoin-2b7dc507-81e3-4b70-88e6-41ed44239966">BTC101</a></li>
     <li><a href="https://planb.academy/fr/courses/obtenir-ses-premiers-bitcoins-f3e3843d-1a1d-450c-96d6-d7232158b81f">BTC102</a></li>
