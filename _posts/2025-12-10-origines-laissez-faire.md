@@ -178,5 +178,4 @@ Ce mouvement fonde la science économique moderne, influence Adam Smith et prép
 
 ## Formation associée
 
-Suivre la formation complète :  
-https://planb.academy/fr/courses/les-origines-du-laissez-faire-economique-ccbd62a8-e90b-4030-95bf-ba735804655d
+[Suivre la formation complète :](https://planb.academy/fr/courses/les-origines-du-laissez-faire-economique-ccbd62a8-e90b-4030-95bf-ba735804655d)
