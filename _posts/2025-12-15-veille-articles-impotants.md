@@ -116,3 +116,15 @@ categories: [bitcoin, veille, France]
     </div>
   </div>
 </div>
+
+  <div class="article-card">
+    <div class="article-icon">⚠️</div>
+    <div class="article-content">
+      <a href="https://bitcoin.fr/un-amendement-pour-vous-forcer-a-declarer-vos-bitcoins/" target="_blank" rel="noopener">
+        <h3>Un amendement pour vous forcer à déclarer vos bitcoins – bitcoin.fr</h3>
+        <p>Décryptage d’un projet d’amendement et de ses implications directes sur la détention et la déclaration de Bitcoin en France.</p>
+      </a>
+    </div>
+  </div>
+
+</div>
