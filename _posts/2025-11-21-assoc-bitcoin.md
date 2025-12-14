@@ -4,32 +4,41 @@ title:   "Créer une Association loi 1901 « bitcoin »"
 date:   2025-11-21
 categories: [association, adoption]
 ---
-Créer une Association loi 1901 « bitcoin »
 
-Pourquoi créer une Association loi 1901 « bitcoin » ?
+# Créer une Association loi 1901 « bitcoin »
 
-- mise en commun d’idées et de ressources, pour aller plus loin sur une idée commune et pour l’intérêt général.
+## Pourquoi créer une Association loi 1901 « bitcoin » ?
 
-- regroupe les gens, favorise la culture, la solidarité, l’éducation.
+Créer une association permet de structurer, légaliser et dynamiser des initiatives autour du bitcoin. Les principaux avantages sont :
 
-- permet un cadre légal avec un fonctionnement structuré, protégeant les membres et clarifiant les responsabilités (sauf en cas de gestion frauduleuse).
+### 1. Mise en commun et intérêt général
+- Favorise le partage d’idées et de ressources.
+- Permet de développer des projets collectifs au service de l’intérêt général.
 
-- fonctionnement clair et transparent des prises de décision.
+### 2. Regroupement et culture
+- Rassemble les personnes autour d’un intérêt commun.
+- Encourage la solidarité et l’éducation sur le bitcoin.
 
-- possibilité d’ouvrir un compte bancaire (attention aux clôtures sans raisons, encore actuellement).
+### 3. Cadre légal et protection
+- Offre un fonctionnement structuré et transparent.
+- Clarifie les responsabilités des membres (hors gestion frauduleuse).
 
-- possibilité de disposer d’un lieu dans lequel réaliser ses réunions (Maison des Associations de sa ville).
+### 4. Gestion et fonctionnement
+- Prise de décision claire et transparente.
+- Possibilité d’ouvrir un compte bancaire (attention aux clôtures sans raison, encore fréquentes).
+- Accès à un lieu pour les réunions (ex : Maison des Associations de votre ville).
 
-- signature de contrats possible, engagement de personnels, …
+### 5. Engagements et contrats
+- Signature de contrats possible.
+- Embauche de personnels.
+- Organisation d’événements à but non lucratif, générant éventuellement de la trésorerie.
 
-- obtention de subventions publiques de l’état, de la territorialité ou d’organismes privés possible, ainsi que des dons permettant des avantages fiscaux de 66%.
+### 6. Financement et reconnaissance
+- Obtention de subventions publiques (État, collectivités) ou privées.
+- Dons ouvrant droit à un avantage fiscal de 66 %.
+- Création d’un réseau de membres avec adhésions payantes pour financer l’association.
+- Reconnaissance officielle grâce à la déclaration en préfecture.
 
-- organisation d’événements à buts non lucratifs, mais permettant de dégager de la trésorerie.
-
-- reconnaissance officielle, car déclarée en préfecture, donc perçue comme légitime.
-
-- création d’un réseau de membres et donc adhésions payantes pour dégager de la trésorerie pour l’association.
-
-[Interview Bitcoin Lille](https://youtu.be/RI4AevL7YaY)
-
-[Script des étapes pour créer une Aassociation loi 1901](https://docs.google.com/document/d/14CX1_69M1wCza9KJ-5UBmDciZ2tOIdyOk6pdP5XIv7A/mobilebasic)
+## Ressources complémentaires
+- [Interview Bitcoin Lille](https://youtu.be/RI4AevL7YaY)  
+- [Script des étapes pour créer une Association loi 1901](https://docs.google.com/document/d/14CX1_69M1wCza9KJ-5UBmDciZ2tOIdyOk6pdP5XIv7A/mobilebasic)
