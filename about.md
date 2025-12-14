@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>About - Komainu</title>
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 <style>
     body {
         font-family: Arial, Helvetica, sans-serif;
@@ -62,8 +62,6 @@
         }
     }
 </style>
-</head>
-<body>
 
 <h1>About</h1>
 
@@ -94,6 +92,3 @@
 <h2>À propos de ce site</h2>
 <p>This is a simple blog built with <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>.</p>
 <p>You can customize this page by editing <code>about.md</code>.</p>
-
-</body>
-</html>
