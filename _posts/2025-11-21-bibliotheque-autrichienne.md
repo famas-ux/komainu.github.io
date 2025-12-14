@@ -125,6 +125,12 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://pandul.fr/dictionnaire/">Dictionnaire de Bitcoin - Loïc Morel</a></li>
 <li><a href="https://voskuil.org/cryptoeconomics/fr/cryptoéconomie.pdf">Cryptoeconomie - Éric Voskuil</a></li>
 <li><a href="https://bitcoin.fr/mastering-bitcoin-fr/">Mastering Bitcoin en français - Andreas Antonopoulos</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/GjDTG5eVms_Les-premieres-communications-publiques-du-createur-de-Bitcoin-Volume-1/">Les premières communications publiques
+du créateur de Bitcoin
+SATOSHI NAKAMOTO - Urbantech21</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/WhAgGBgCYz_TBH_FR-RC3_20231017/">Le manuel
+du bitcoin - Anil Patel</a></li>
+
 </ul>
 
 </div>
