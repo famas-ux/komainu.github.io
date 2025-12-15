@@ -147,7 +147,7 @@ categories: [bitcoin, veille, France]
         <h3>Et si 4 #Bitcoin suffisaient pour une retraite à 50 000 $/an ? – bitcoin.fr</h3>
         <p>
           Calculs et projections basés sur le corridor de croissance historique de BTC, estimant la quantité
-          de BTC nécessaire pour une retraite confortable selon différents scénarios.  [oai_citation:0‡bitcoin.fr](https://bitcoin.fr/prendre-sa-retraite-avec-bitcoin/?utm_source=chatgpt.com)
+          de BTC nécessaire pour une retraite confortable selon différents scénarios.  [oai_citation:0‡bitcoin.fr](https://bitcoin.fr/prendre-sa-retraite-avec-bitcoin/)
         </p>
       </a>
     </div>
