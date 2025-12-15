@@ -117,6 +117,31 @@ categories: [bitcoin, veille, France]
   </div>
 
   <div class="article-card">
+    <div class="article-icon">🌱</div>
+    <div class="article-content">
+      <a href="https://youtu.be/QVaSTsK5GmU" target="_blank" rel="noopener">
+        <h3>Bitcoin, décroissance et écologie – Conversation avec Alexandre Stachtchenko</h3>
+        <p>
+          Discussion approfondie avec HowToBitcoin sur les ponts possibles entre Bitcoin,
+          la décroissance, la question écologique et le positionnement de la gauche.
+        </p>
+        <p style="margin-top:8px; font-size:0.85em; color:#666;">
+          <strong>Commentaire – Ulrich Fromy :</strong><br>
+          La décroissance collective est une chimère impliquant centralisation et coercition.
+          Seule l’action humaine orientée vers l’avenir permet le progrès.
+          Un reset monétaire rétablissant des prix libres est la condition d’un calcul économique sain,
+          intrinsèquement écologique, car il sanctionne le gaspillage.
+          Le libéralisme n’a jamais été pleinement expérimenté, faute de liberté monétaire.
+          La finitude des ressources est un faux problème : l’ingéniosité humaine, l’entrepreneuriat
+          et la connaissance ne sont pas modélisables.
+          Enfin, l’alarmisme écologique relève d’une stratégie politique assumée,
+          héritée notamment de Hans Jonas.
+        </p>
+      </a>
+    </div>
+  </div>
+
+  <div class="article-card">
     <div class="article-icon">⚠️</div>
     <div class="article-content">
       <a href="https://bitcoin.fr/un-amendement-pour-vous-forcer-a-declarer-vos-bitcoins/" target="_blank" rel="noopener">
