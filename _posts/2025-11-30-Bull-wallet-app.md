@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fiche 1 : Obtenir un Portefeuille & un Point d’entrée / sortie. Débutants"
+permalink: /bull-wallet/
 date:   2025-11-30
 categories: [bitcoin, portefeuille, acheter, vendre]
 ---
