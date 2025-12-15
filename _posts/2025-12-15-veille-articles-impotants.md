@@ -126,4 +126,16 @@ categories: [bitcoin, veille, France]
     </div>
   </div>
 
-
+ <div class="article-card">
+    <div class="article-icon">🎓</div>
+    <div class="article-content">
+      <a href="https://youtu.be/QYqX-VoMxiE" target="_blank" rel="noopener">
+        <h3>La meilleure explication du Système Monétaire International (30 min) – Lyn Alden</h3>
+        <p>
+          Présentation pédagogique par <strong>Lyn Alden</strong>, relayée par
+          <em>HowToBitcoin</em>, pour comprendre les mécanismes du système monétaire mondial
+          et les raisons d’être de Bitcoin.
+        </p>
+      </a>
+    </div>
+  </div>
