@@ -1,8 +1,5 @@
 theme: minima
 title : Komainu
 author: famas-ux
-description: "Journal de bord de Famas"
+description: "Journal de Famas"
 
-nav:
-  - title: Bull Wallet
-    url: /bull-wallet/
