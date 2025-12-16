@@ -176,6 +176,20 @@ categories: [bitcoin, veille, France]
   </div>
 
   <div class="article-card">
+    <div class="article-icon">🎥</div>
+    <div class="article-content">
+      <a href="https://youtu.be/5AvE_5TICVU" target="_blank" rel="noopener">
+        <h3>La vidéo #Bitcoin de la semaine – De l'Open Source à Bitcoin Core (Antoine Poinsot)</h3>
+        <p>
+          Décryptage vidéo sur l’évolution de Bitcoin Core et son lien avec les principes Open Source,
+          présenté par Antoine Poinsot. Une ressource essentielle pour comprendre le développement technique
+          et communautaire du protocole Bitcoin.
+        </p>
+      </a>
+    </div>
+  </div>
+
+  <div class="article-card">
     <div class="article-icon">📊</div>
     <div class="article-content">
       <a href="https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe" target="_blank" rel="noopener">
