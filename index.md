@@ -35,4 +35,6 @@ updateBTCPrice();
 setInterval(updateBTCPrice, 60000);
 </script>
 
+
+
 - [About]({{ "/about" | relative_url }})
