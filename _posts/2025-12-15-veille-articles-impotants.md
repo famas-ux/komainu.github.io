@@ -196,11 +196,11 @@ categories: [bitcoin, veille, France]
         <h3>Bitcoin où on en est le 28/11/2025 – Nicolas Cantu (LinkedIn)</h3>
         <p>
           Analyse synthétique et personnelle de l’actualité récente du Bitcoin, couvrant l’évolution des cours,
-          les dynamiques du réseau, l’adoption, la régulation et les tendances macroéconomiques.  [oai_citation:0‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe?utm_source=chatgpt.com)
+          les dynamiques du réseau, l’adoption, la régulation et les tendances macroéconomiques.  [oai_citation:0‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe)
         </p>
         <p style="margin-top:8px; font-size:0.85em; color:#666;">
           L’article présente un tour d’horizon des points clés du moment, sans constituer un conseil financier.
-           [oai_citation:1‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe?utm_source=chatgpt.com)
+           [oai_citation:1‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe)
         </p>
       </a>
     </div>
