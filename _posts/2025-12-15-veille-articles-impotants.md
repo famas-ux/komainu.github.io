@@ -219,6 +219,31 @@ categories: [bitcoin, veille, France]
     </div>
   </div>
 
+<div class="article-card">
+  <div class="article-icon">⭐</div>
+  <div class="article-content">
+    <a href="https://youtu.be/QF23OrF-dKw" target="_blank" rel="noopener">
+      <h3>ESSENTIEL — Présentation complète de Bitcoin — Yorick de Mombynes</h3>
+      <p>
+        Présentation approfondie de Bitcoin par Yorick de Mombynes,
+        magistrat à la Cour des comptes, lors de la conférence Surfin’ Bitcoin.
+        Une synthèse claire pour comprendre pourquoi Bitcoin est devenu incontournable en 2025.
+      </p>
+      <p>
+        Vue d’ensemble de Bitcoin, fonctionnement technique, usages pratiques,
+        et enjeux face aux monnaies traditionnelles et à la régulation.
+        Bitcoin y est présenté comme une infrastructure de paiement sécurisée,
+        décentralisée et rare, dont l’adoption institutionnelle change la donne.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Plus de 400 millions de détenteurs de cryptomonnaies dans le monde :
+        une ressource pédagogique essentielle pour comprendre Bitcoin au-delà
+        de la spéculation.
+      </p>
+    </a>
+  </div>
+</div>
+
   <div class="article-card">
     <div class="article-icon">⭐</div>
     <div class="article-content">
