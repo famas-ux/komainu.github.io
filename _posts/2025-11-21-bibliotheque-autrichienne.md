@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bibliothèque PDF et EPUB autrichienne"
+permalink: /bibliotheque-bitcoin-autrichienne/
 date: 2025-12-14
 categories: [livres, école autrichienne d'économie]
 ---
