@@ -78,9 +78,28 @@ categories: [bitcoin, veille, France]
 </style>
 
 <div class="veille-header">Veille Bitcoin France</div>
-<div class="veille-date">Sélection du 14 décembre 2025</div>
+<div class="veille-date">Sélection de décembre 2025</div>
 
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
+
+<div class="article-card">
+  <div class="article-icon">📈</div>
+  <div class="article-content">
+    <a href="https://whydopricesrise.com/" target="_blank" rel="noopener">
+      <h3>Pourquoi les prix augmentent-ils ? — Comprendre le coût de la vie</h3>
+      <p>
+        Parcours guidé pour comprendre les forces qui façonnent le coût de la vie.
+        Pourquoi les prix continuent-ils d’augmenter alors même que la technologie progresse
+        et que la productivité s’améliore ?
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Ressource pédagogique expliquant les mécanismes monétaires et économiques
+        à l’origine de l’inflation. Référence et diffusion en France notamment par
+        <strong>Renaud Lifchitz</strong>.
+      </p>
+    </a>
+  </div>
+</div>
 
   <div class="article-card">
     <div class="article-icon">🎓</div>
