@@ -176,6 +176,23 @@ categories: [bitcoin, veille, France]
   </div>
 
   <div class="article-card">
+    <div class="article-icon">📊</div>
+    <div class="article-content">
+      <a href="https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe" target="_blank" rel="noopener">
+        <h3>Bitcoin où on en est le 28/11/2025 – Nicolas Cantu (LinkedIn)</h3>
+        <p>
+          Analyse synthétique et personnelle de l’actualité récente du Bitcoin, couvrant l’évolution des cours,
+          les dynamiques du réseau, l’adoption, la régulation et les tendances macroéconomiques.  [oai_citation:0‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe?utm_source=chatgpt.com)
+        </p>
+        <p style="margin-top:8px; font-size:0.85em; color:#666;">
+          L’article présente un tour d’horizon des points clés du moment, sans constituer un conseil financier.
+           [oai_citation:1‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe?utm_source=chatgpt.com)
+        </p>
+      </a>
+    </div>
+  </div>
+
+  <div class="article-card">
     <div class="article-icon">💼</div>
     <div class="article-content">
       <a href="https://bitcoin.fr/prendre-sa-retraite-avec-bitcoin/" target="_blank" rel="noopener">
