@@ -82,6 +82,27 @@ categories: [bitcoin, veille, France]
 
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
+  <div class="article-card">
+    <div class="article-icon">🎓</div>
+    <div class="article-content">
+      <a href="https://youtu.be/8WSOKKb7xgA" target="_blank" rel="noopener">
+        <h3>Live – Ludwig von Mises : vie, œuvre et pensée</h3>
+        <p>
+          Plongée dans l’œuvre de Ludwig von Mises, figure majeure de l’école autrichienne,
+          avec Benoît Malbranque (Institut Coppet), Damien Theillier et Leonardo de Vio.
+        </p>
+        <p style="margin-top:8px; font-size:0.85em; color:#666;">
+          Épisode disponible en vidéo sur YouTube et en podcast :
+          <a href="https://open.spotify.com/show/2cLFN8lpsWRleZzuXgecS2" target="_blank" rel="noopener">Spotify</a>,
+          <a href="https://fountain.fm/show/w4e7RaQlRH3Z79ZcPtvj" target="_blank" rel="noopener">Fountain</a>,
+          <a href="https://podcasts.apple.com/fr/podcast/ulrich-caf%C3%A9-viennois/id1779288798" target="_blank" rel="noopener">Apple Podcasts</a>.
+          Analyse écrite complémentaire sur
+          <a href="https://open.substack.com/pub/ufromy/p/ludwig-von-mises-vie-uvre-et-pensee?r=6vavc9&utm_medium=ios" target="_blank" rel="noopener">Substack</a>.
+        </p>
+      </a>
+    </div>
+  </div>
+
 <div class="article-grid">
   <div class="article-card">
     <div class="article-icon">📰</div>
@@ -92,17 +113,6 @@ categories: [bitcoin, veille, France]
       </a>
     </div>
   </div>
-
-  <div class="article-card">
-    <div class="article-icon">🎥</div>
-    <div class="article-content">
-      <a href="https://www.youtube.com/live/9UW9ET6erZY?si=hbu_JE2cVzSxpaz6" target="_blank" rel="noopener">
-        <h3>Live Bitcoin France – Ulrich Fromy</h3>
-        <p>Regardez le live et compléments sur <a href="https://x.com/ulrichfromy/status/1999812340527534106?s=46" target="_blank" rel="noopener">X / Twitter</a> pour suivre les réactions et analyses.</p>
-      </a>
-    </div>
-  </div>
-</div>
 
   <div class="article-card">
     <div class="article-icon">🌐</div>
