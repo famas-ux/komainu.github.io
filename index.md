@@ -9,9 +9,21 @@ fait avec ❤️ par famas
 
 [MISSION DESTROY FIAT](https://app.bullbitcoin.com/registration/famas)
 
-<div class="btc-price-home">
-  <small>Bitcoin (EUR)</small><br>
-  <strong id="btc-eur">—</strong>
+<div class="card-btc">
+  <div class="card-btc-header">
+    <span class="card-btc-title">Bitcoin · Prix en euros</span>
+    <span class="card-btc-source">donnée temps réel</span>
+  </div>
+
+  <div class="card-btc-price">
+    <span id="btc-eur">—</span>
+  </div>
+
+  <p class="card-btc-text">
+    Le prix affiché correspond au cours moyen du bitcoin exprimé en euros,
+    mis à jour automatiquement. Il reflète l’équilibre instantané entre l’offre
+    et la demande sur les principaux marchés internationaux.
+  </p>
 </div>
 
 <script>
@@ -27,14 +39,12 @@ async function updateBTCPrice() {
         currency: "EUR"
       });
   } catch {
-    document.getElementById("btc-eur").textContent = "Erreur";
+    document.getElementById("btc-eur").textContent = "—";
   }
 }
-
 updateBTCPrice();
 setInterval(updateBTCPrice, 60000);
 </script>
-
 
 
 - [About]({{ "/about" | relative_url }})
