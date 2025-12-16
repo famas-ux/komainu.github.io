@@ -102,6 +102,26 @@ categories: [bitcoin, veille, France]
   </div>
 </div>
 
+<div class="article-card">
+  <div class="article-icon">🤝</div>
+  <div class="article-content">
+    <a href="https://x.com/peachbitcoin/status/1996197174439272500?s=46" target="_blank" rel="noopener">
+      <h3>Peach Bitcoin cherche des utilisateurs et partenaires en France</h3>
+      <p>
+        Peach Bitcoin lance un appel pour développer l’adoption de Bitcoin en France.
+        La plateforme peer-to-peer souhaite recueillir des retours, identifier des utilisateurs
+        actifs et renforcer sa présence locale afin de proposer une alternative simple
+        et non-custodiale pour acheter et vendre des bitcoins.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Participation et retours via le formulaire officiel :
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScLM5N7nyZpZSRyVwJvdEzBcHE0SuMl1wgPs32xyX_uxJKfTQ/viewform"
+           target="_blank" rel="noopener">questionnaire Peach Bitcoin</a>.
+      </p>
+    </a>
+  </div>
+</div>
+
   <div class="article-card">
     <div class="article-icon">🎓</div>
     <div class="article-content">
