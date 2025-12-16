@@ -218,3 +218,22 @@ categories: [bitcoin, veille, France]
       </a>
     </div>
   </div>
+
+  <div class="article-card">
+    <div class="article-icon">⭐</div>
+    <div class="article-content">
+      <a href="https://youtu.be/5dRHjDqL6q8" target="_blank" rel="noopener">
+        <h3>ESSENTIEL — Quel est le problème ? (voix off FR) — Joe Bryan</h3>
+        <p>
+          Le monde se dégrade : coûts en hausse, standards à la baisse, instabilité croissante.
+          La cause centrale ? Un système monétaire défaillant.
+          À travers une histoire claire et accessible, Joe Bryan relie les maux contemporains
+          à leur cause profonde et introduit Bitcoin comme solution.
+        </p>
+        <p style="margin-top:8px; font-size:0.85em; color:#666;">
+          Traduction FR, voix off et montage : Jacques-Edouard Tiberghien (BTC TouchPoint).
+          « Réparer la monnaie, c’est réparer le monde. »
+        </p>
+      </a>
+    </div>
+  </div>
