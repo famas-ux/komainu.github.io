@@ -1,0 +1,45 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches:
+      - main  # ou la branche de ton site GitHub Pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Sitemap
+        run: |
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > sitemap.xml
+          echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> sitemap.xml
+          # Ajoute la page d'accueil
+          echo '  <url>' >> sitemap.xml
+          echo '    <loc>https://famas-ux.github.io/komainu.github.io/</loc>' >> sitemap.xml
+          echo "    <lastmod>$(date +'%Y-%m-%d')</lastmod>" >> sitemap.xml
+          echo '    <priority>1.0</priority>' >> sitemap.xml
+          echo '  </url>' >> sitemap.xml
+          
+          # Générer les URLs des articles automatiquement depuis les fichiers Markdown
+          for file in $(find ./_posts -name "*.md"); do
+            slug=$(basename "$file" .md)
+            date=$(head -n 1 "$file" | grep -oP "(?<=date:   ).*")
+            echo '  <url>' >> sitemap.xml
+            echo "    <loc>https://famas-ux.github.io/komainu.github.io/$slug/</loc>" >> sitemap.xml
+            echo "    <lastmod>$date</lastmod>" >> sitemap.xml
+            echo '    <priority>0.8</priority>' >> sitemap.xml
+            echo '  </url>' >> sitemap.xml
+          done
+          
+          echo '</urlset>' >> sitemap.xml
+
+      - name: Commit and Push sitemap
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Auto-generate sitemap"
+          git push
