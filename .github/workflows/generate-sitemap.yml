@@ -2,8 +2,10 @@ name: Generate Sitemap
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   sitemap:
@@ -19,13 +21,11 @@ jobs:
 
           BASE_URL="https://famas-ux.github.io/komainu.github.io"
 
-          # Page d'accueil
           echo "  <url>" >> sitemap.xml
           echo "    <loc>$BASE_URL/</loc>" >> sitemap.xml
           echo "    <priority>1.0</priority>" >> sitemap.xml
           echo "  </url>" >> sitemap.xml
 
-          # Toutes les pages HTML (sauf erreurs)
           find . -name "*.html" \
             ! -path "./404.html" \
             ! -path "./_site/*" \
@@ -39,10 +39,10 @@ jobs:
 
           echo '</urlset>' >> sitemap.xml
 
-      - name: Commit sitemap
+      - name: Commit and push sitemap
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add sitemap.xml
-          git commit -m "Auto-generate sitemap.xml" || echo "No changes"
+          git commit -m "Auto-generate sitemap.xml" || exit 0
           git push
