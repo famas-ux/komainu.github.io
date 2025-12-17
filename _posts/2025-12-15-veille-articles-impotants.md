@@ -84,6 +84,26 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">🧵</div>
+  <div class="article-content">
+    <a href="https://x.com/omnifinn/status/2000989038354874664?s=46" target="_blank" rel="noopener">
+      <h3>Bitcoin : une révolution monétaire en cours — Konsensus Network</h3>
+      <p>
+        Thread publié par <strong>@omnifinn</strong> (Konsensus Network) expliquant
+        pourquoi Bitcoin ne peut pas être réduit à une simple bulle spéculative.
+        Il s’agit avant tout d’une transformation monétaire profonde :
+        une monnaie rare, neutre et résistante à la censure.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        L’analyse met en avant l’adoption progressive du réseau Bitcoin,
+        les cycles de prix liés à cette adoption et le rôle fondamental de Bitcoin
+        face à la dégradation structurelle des monnaies fiat.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">📈</div>
   <div class="article-content">
     <a href="https://whydopricesrise.com/" target="_blank" rel="noopener">
