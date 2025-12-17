@@ -1,0 +1,48 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate sitemap.xml
+        run: |
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > sitemap.xml
+          echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> sitemap.xml
+
+          BASE_URL="https://famas-ux.github.io/komainu.github.io"
+
+          # Page d'accueil
+          echo "  <url>" >> sitemap.xml
+          echo "    <loc>$BASE_URL/</loc>" >> sitemap.xml
+          echo "    <priority>1.0</priority>" >> sitemap.xml
+          echo "  </url>" >> sitemap.xml
+
+          # Toutes les pages HTML (sauf erreurs)
+          find . -name "*.html" \
+            ! -path "./404.html" \
+            ! -path "./_site/*" \
+            | sed 's|^\./||' \
+            | while read page; do
+                echo "  <url>" >> sitemap.xml
+                echo "    <loc>$BASE_URL/$page</loc>" >> sitemap.xml
+                echo "    <priority>0.8</priority>" >> sitemap.xml
+                echo "  </url>" >> sitemap.xml
+              done
+
+          echo '</urlset>' >> sitemap.xml
+
+      - name: Commit sitemap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Auto-generate sitemap.xml" || echo "No changes"
+          git push
