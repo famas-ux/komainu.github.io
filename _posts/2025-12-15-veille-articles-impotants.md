@@ -84,6 +84,24 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">🌍</div>
+  <div class="article-content">
+    <a href="https://www.bfmtv.com/crypto/bitcoin/le-bhoutan-va-utiliser-10-000-bitcoins-d-une-valeur-d-un-milliard-de-dollars-soit-la-quasi-totalite-de-sa-reserve-pour-financer-une-zone-economique-attractive-pour-les-jeunes-qui-s-exilent-en-masse_AD-202512170395.html" target="_blank" rel="noopener">
+      <h3>Le Bhoutan mise 10 000 Bitcoin pour dynamiser l’économie</h3>
+      <p>
+        Le Bhoutan prévoit d’utiliser 10 000 bitcoins, représentant presque l’intégralité de sa réserve,
+        pour financer une zone économique destinée à attirer les jeunes et freiner l’exode.
+        Une initiative ambitieuse pour transformer les actifs numériques en levier économique réel.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Par <strong>BFMTV</strong> — Article publié le 17 décembre 2025.  
+        Source : <a href="https://www.bfmtv.com/crypto/" target="_blank" rel="noopener">BFMTV Crypto</a>.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">🎥</div>
   <div class="article-content">
     <a href="https://x.com/cxr2026/status/2001602480992375108?s=46" target="_blank" rel="noopener">
