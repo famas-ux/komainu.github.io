@@ -84,6 +84,25 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">🎥</div>
+  <div class="article-content">
+    <a href="https://x.com/cxr2026/status/2001602480992375108?s=46" target="_blank" rel="noopener">
+      <h3>Pourquoi Bitcoin redéfinit la monnaie et la souveraineté</h3>
+      <p>
+        Bitcoin s’impose comme une rupture monétaire majeure face aux systèmes financiers centralisés.
+        Cet éclairage met en évidence le rôle de la monnaie dans l’organisation économique et politique,
+        et pourquoi sa compréhension est devenue un enjeu central à l’ère de l’inflation et de la dette.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Par <strong>@cxr2026</strong> — CryptoXR, Auxerre 2026.  
+        Contenu vidéo associé :
+        <a href="https://youtu.be/FpZqChZz_V8" target="_blank" rel="noopener">YouTube</a>.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">🧵</div>
   <div class="article-content">
     <a href="https://x.com/omnifinn/status/2000989038354874664?s=46" target="_blank" rel="noopener">
