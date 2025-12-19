@@ -50,6 +50,14 @@ permalink: /about/
         margin: 25px 0;
     }
 
+    /* Classe pour l'image centrée et petite */
+    .avatar {
+        width: 100px;
+        height: 100px;
+        display: block;
+        margin: 20px auto;
+    }
+
     @media (max-width: 600px) {
         body {
             padding: 15px;
@@ -65,8 +73,10 @@ permalink: /about/
 
 <h1>About</h1>
 
-<h2>Contact</h2>
+<!-- Image ronde centrée -->
 <img src="https://raw.githubusercontent.com/famas-ux/komainu.github.io/main/IMG_1104.png" alt="gm" class="avatar">
+
+<h2>Contact</h2>
 <p>Mail : <a href="mailto:satopolys@proton.me">satopolys@proton.me</a></p>
 <p>Nostr : npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l</p>
 <p>Lightning Address : Famas@primal.net</p>
