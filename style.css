@@ -22,3 +22,20 @@
 .button:hover {
   background-color: #45a049;
 }
+/* Bandeau Plan B Network */
+.planb-banner {
+    background-color: rgba(255, 140, 0, 0.15); /* orange transparent */
+    border-left: 4px solid #ff8c00;
+    padding: 20px;
+    margin: 30px 0;
+    border-radius: 8px;
+}
+
+.planb-banner h2 {
+    margin-top: 0;
+    color: #cc6a00;
+}
+
+.planb-banner ul {
+    margin-left: 20px;
+}
