@@ -83,7 +83,7 @@ permalink: /about/
 
 <hr>
 
-<div class="planb-banner">
+<div style="background: rgba(255,149,0,0.2); border-left:4px solid orange; padding:20px;">
     <h2>PLAN B NETWORK – ACADEMY  
         <br><small>Certifications obtenues</small>
     </h2>
