@@ -84,6 +84,23 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">♻️</div>
+  <div class="article-content">
+    <a href="https://x.com/nicolascantubk/status/2001775703864578284" target="_blank" rel="noopener">
+      <h3>Présentation de 4NK Waste & Water — Recyclage et innovation</h3>
+      <p>
+        4NK Waste & Water propose des solutions innovantes pour le recyclage des déchets
+        et la gestion durable de l’eau. Une approche combinant efficacité industrielle
+        et conscience environnementale.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>@nicolascantubk / 4NK</strong> — X/Twitter.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">📰</div>
   <div class="article-content">
     <a href="https://www.leparisien.fr/faits-divers/un-investisseur-en-cryptomonnaie-et-sa-compagne-sequestres-a-leur-domicile-de-la-rochelle-des-virements-effectues-par-les-ravisseurs-18-12-2025-KN6YFKOQ2NCCPEGXLZP2ZTYX4A.php" target="_blank" rel="noopener">
