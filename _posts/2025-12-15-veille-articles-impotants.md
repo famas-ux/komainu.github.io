@@ -84,6 +84,24 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">📄</div>
+  <div class="article-content">
+    <a href="https://open.substack.com/pub/ufromy/p/liberalisme-et-conservatisme-alliance?r=6vavc9&utm_medium=ios&shareImageVariant=overlay" target="_blank" rel="noopener">
+      <h3>Libéralisme et conservatisme : alliance ou contradiction ?</h3>
+      <p>
+        Ulrich Fromy analyse les rapports complexes entre libéralisme et conservatisme,
+        souvent présentés comme opposés. L’article interroge leurs convergences possibles,
+        leurs tensions philosophiques et les conditions d’une alliance cohérente face
+        à l’étatisme et au collectivisme.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Ulrich Fromy</strong> — Substack.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">♻️</div>
   <div class="article-content">
     <a href="https://x.com/nicolascantubk/status/2001775703864578284" target="_blank" rel="noopener">
