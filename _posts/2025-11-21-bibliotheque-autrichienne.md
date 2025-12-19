@@ -132,6 +132,7 @@ du créateur de Bitcoin
 SATOSHI NAKAMOTO - Urbantech21</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/WhAgGBgCYz_TBH_FR-RC3_20231017/">Le manuel
 du bitcoin - Anil Patel</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/5Vzd3CQPzm_Le_Prix_de_Demain_-_Jeff_Booth"> Le Prix de Demain - Jeff Booth</a></li>
 
 </ul>
 
