@@ -2,7 +2,7 @@
 layout: post
 title: "Bibliothèque PDF et EPUB autrichienne"
 permalink: /bibliotheque-bitcoin-autrichienne/
-date: 2025-12-14
+date: 2025-12-19
 categories: [livres, école autrichienne d'économie]
 ---
 
@@ -119,6 +119,7 @@ categories: [livres, école autrichienne d'économie]
 
 <h2 style="color:#004080;">📚 Autres ouvrages contemporains / Bitcoin et cryptomonnaies</h2>
 <ul>
+<li><a href="https://pdfhost.io/fr-FR/v/mGc3sBPgDL_Dieu_merci_pour_bitcoin_Lyle_Pratt__George_Mekhail__Jimmy_Song_"> Dieu merci pour bitcoin - Lyle Pratt</a></li>  
 <li><a href="https://pdfhost.io/fr-FR/v/MaAJqBJzjm_Bitcoin__Everything_divided_by_21_million__French_">L’infini divisé par 21 millions - Knut Svanholm</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan">L’Etat Réseau - Balaji Srinivasan</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/GgFnJ2XpT8_le-capital-au-xxie-siecle-thomas-piketty">Thomas Piketty - Le capital au XXI siècle</a></li>
