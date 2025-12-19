@@ -1,2 +1,2 @@
 # komainu.github.io
-journal de bord
+journal de famas
