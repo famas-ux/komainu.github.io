@@ -5,76 +5,101 @@ permalink: /about/
 ---
 
 <style>
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        background-color: #f9f9f9;
-        margin: 0;
-        padding: 20px;
-        color: #1c1c1e;
-        line-height: 1.8;
-    }
+/* Base */
+.page-content {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1c1c1e;
+    line-height: 1.8;
+}
 
+h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: #222222;
+}
+
+h2 {
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #333333;
+}
+
+p {
+    margin: 10px 0;
+}
+
+ul {
+    margin: 10px 0 20px 20px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #cccccc;
+    margin: 25px 0;
+}
+
+/* Avatar */
+.avatar {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Bandeau Plan B Network */
+.planb-banner {
+    background: rgba(255, 149, 0, 0.15); /* orange transparent */
+    border-left: 4px solid #ff9500;
+    padding: 20px;
+    margin: 30px 0;
+    border-radius: 8px;
+}
+
+.planb-banner h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #b85c00;
+}
+
+.planb-banner ul {
+    margin-left: 20px;
+}
+
+.planb-banner a {
+    color: #b85c00;
+    font-weight: 500;
+}
+
+.planb-banner a:hover {
+    text-decoration: underline;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
     h1 {
-        font-size: 30px;
-        margin-bottom: 15px;
-        color: #222222;
+        font-size: 26px;
     }
-
     h2 {
-        font-size: 22px;
-        margin-top: 30px;
-        margin-bottom: 10px;
-        color: #333333;
+        font-size: 20px;
     }
-
-    p {
-        margin: 10px 0;
-    }
-
-    ul {
-        margin: 10px 0 20px 20px;
-    }
-
-    a {
-        color: #0066cc;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
-    hr {
-        border: 0;
-        border-top: 1px solid #cccccc;
-        margin: 25px 0;
-    }
-
-    /* Classe pour l'image centrée et petite */
-    .avatar {
-        width: 100px;
-        height: 100px;
-        display: block;
-        margin: 20px auto;
-    }
-
-    @media (max-width: 600px) {
-        body {
-            padding: 15px;
-        }
-        h1 {
-            font-size: 26px;
-        }
-        h2 {
-            font-size: 20px;
-        }
-    }
+}
 </style>
 
 <h1>About</h1>
 
-<!-- Image ronde centrée -->
-<img src="https://raw.githubusercontent.com/famas-ux/komainu.github.io/main/IMG_1104.png" alt="gm" class="avatar">
+<img src="https://raw.githubusercontent.com/famas-ux/komainu.github.io/main/IMG_1104.png" alt="avatar" class="avatar">
 
 <h2>Contact</h2>
 <p>Mail : <a href="mailto:satopolys@proton.me">satopolys@proton.me</a></p>
@@ -83,9 +108,9 @@ permalink: /about/
 
 <hr>
 
-<div style="background: rgba(255,149,0,0.2); border-left:4px solid orange; padding:20px;">
-    <h2>PLAN B NETWORK – ACADEMY  
-        <br><small>Certifications obtenues</small>
+<div class="planb-banner">
+    <h2>PLAN B NETWORK – ACADEMY<br>
+        <small>Certifications obtenues</small>
     </h2>
 
     <ul>
