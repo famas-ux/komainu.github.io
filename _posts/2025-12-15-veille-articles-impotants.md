@@ -84,6 +84,23 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">📰</div>
+  <div class="article-content">
+    <a href="https://www.leparisien.fr/faits-divers/un-investisseur-en-cryptomonnaie-et-sa-compagne-sequestres-a-leur-domicile-de-la-rochelle-des-virements-effectues-par-les-ravisseurs-18-12-2025-KN6YFKOQ2NCCPEGXLZP2ZTYX4A.php" target="_blank" rel="noopener">
+      <h3>Un investisseur crypto séquestré à La Rochelle</h3>
+      <p>
+        Un investisseur en cryptomonnaies et sa compagne ont été séquestrés à leur domicile à La Rochelle.
+        Les ravisseurs ont contraint la victime à effectuer des virements avant de prendre la fuite.
+        L’enquête est en cours.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Le Parisien</strong> — Faits divers.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">🎙️</div>
   <div class="article-content">
     <a href="https://www.youtube.com/live/YB6kbHDZHHM?si=UJBpk94E0MUWpp5s" target="_blank" rel="noopener">
