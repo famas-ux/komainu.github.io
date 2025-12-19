@@ -2,7 +2,7 @@
 layout: post
 title: "Veille Bitcoin France : les articles incontournables des leaders du secteur"
 permalink: /veille-bitcoin-france/
-date: 2025-12-14
+date: 2025-12-19
 categories: [bitcoin, veille, France]
 ---
 
