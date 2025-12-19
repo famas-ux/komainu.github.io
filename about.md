@@ -66,7 +66,6 @@ permalink: /about/
 <h1>About</h1>
 
 <h2>Contact</h2>
-<img src="id.png" alt="gm" style="width:150px; height:150px; border-radius:50%; display:block; margin:20px auto;">
 <p>Mail : <a href="mailto:satopolys@proton.me">satopolys@proton.me</a></p>
 <p>Nostr : npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l</p>
 <p>Lightning Address : Famas@primal.net</p>
