@@ -86,6 +86,24 @@ hr {
     text-decoration: underline;
 }
 
+/* Bandeaux Nostr */
+.nostr-banner {
+    display: block;                     /* essentiel pour le fond */
+    background: rgba(155, 89, 182, 0.18);
+    border-left: 4px solid #9b59b6;
+    padding: 18px 20px;
+    margin: 25px 0;
+    border-radius: 8px;
+    color: #6d2c91;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.nostr-banner:hover {
+    background: rgba(155, 89, 182, 0.25);
+    text-decoration: none;
+}
+
 /* Mobile */
 @media (max-width: 600px) {
     h1 {
@@ -99,6 +117,7 @@ hr {
 
 <h1>About</h1>
 
+<!-- Avatar rond centré -->
 <img src="https://raw.githubusercontent.com/famas-ux/komainu.github.io/main/IMG_1104.png" alt="avatar" class="avatar">
 
 <h2>Contact</h2>
@@ -108,6 +127,7 @@ hr {
 
 <hr>
 
+<!-- Bandeaux Nostr -->
 <a class="nostr-banner"
    href="https://nstart.me/fr?s=npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l&rn=Famas">
    Bienvenue sur Nostr
@@ -118,6 +138,7 @@ hr {
    Mon profil Nostr
 </a>
 
+<!-- Bandeau Plan B Network -->
 <div class="planb-banner">
     <h2>PLAN B NETWORK – ACADEMY<br>
         <small>Certifications obtenues</small>
