@@ -73,3 +73,20 @@
 .nostr-banner a:hover {
     text-decoration: underline;
 }
+/* Bandeaux Nostr */
+.nostr-banner {
+    display: block;                 /* OBLIGATOIRE */
+    background: rgba(155, 89, 182, 0.18);
+    border-left: 4px solid #9b59b6;
+    padding: 18px 20px;
+    margin: 25px 0;
+    border-radius: 8px;
+    color: #6d2c91;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.nostr-banner:hover {
+    background: rgba(155, 89, 182, 0.25);
+    text-decoration: none;
+}
