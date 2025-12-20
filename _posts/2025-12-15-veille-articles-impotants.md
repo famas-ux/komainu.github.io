@@ -84,6 +84,24 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">🚨</div>
+  <div class="article-content">
+    <a href="https://bonjourlafuite.org" target="_blank" rel="noopener">
+      <h3>2025 : l’année où toutes nos données ont fuité</h3>
+      <p>
+        Santé, administrations, banques, télécoms, e-commerce, réseaux sociaux :
+        l’année 2025 a été marquée par une succession inédite de fuites de données,
+        touchant des dizaines de millions de Français. Identités, NIR, IBAN,
+        données médicales et historiques de paiement ont été exposés à grande échelle.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>BonjourLaFuite.org</strong> — compilation publiée le 19/12/2025.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">🌍</div>
   <div class="article-content">
     <a href="https://x.com/sqywallet/status/2001268001836818544?s=46" target="_blank" rel="noopener">
