@@ -108,17 +108,15 @@ hr {
 
 <hr>
 
-<div class="nostr-banner">
-    <a href="https://nstart.me/fr?s=npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l&rn=Famas">
-        Bienvenue sur Nostr
-    </a>
-</div>
+<a class="nostr-banner"
+   href="https://nstart.me/fr?s=npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l&rn=Famas">
+   Bienvenue sur Nostr
+</a>
 
-<div class="nostr-banner">
-    <a href="https://primal.net/Famas">
-        Mon profil Nostr
-    </a>
-</div>
+<a class="nostr-banner"
+   href="https://primal.net/Famas">
+   Mon profil Nostr
+</a>
 
 <div class="planb-banner">
     <h2>PLAN B NETWORK – ACADEMY<br>
