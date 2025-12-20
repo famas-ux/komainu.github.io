@@ -84,6 +84,29 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">🌍</div>
+  <div class="article-content">
+    <a href="https://primal.net/e/nevent1qqs9u8dl8ukc8m08k5me42nyv3f0jeax85d6a5zmn5y6z8vhthp6rkgm8xyqc"
+       target="_blank" rel="noopener">
+      <h3>Là où Bitcoin devient un ascenseur social</h3>
+      <p>
+        Au Mali, un artisan de bogolan et de tissus 100&nbsp;% faits main
+        vend désormais ses créations à l’international grâce à
+        <strong>Nostr</strong> et <strong>Bitcoin</strong>.
+        Un exemple concret d’émancipation économique, sans intermédiaire,
+        reliant artisanat local et marché mondial.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Nostr / Primal</strong> — Auteur : <strong>@diawara</strong>
+      </p>
+    </a>
+    <p style="margin-top:6px; font-size:0.85em;">
+      🔗 Projet : <a href="https://diawara.univer.se/" target="_blank" rel="noopener">diawara.univer.se</a>
+    </p>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">🧠</div>
   <div class="article-content">
     <a href="https://primal.net/e/nevent1qqs8mptdjxq90lnws94g4u248em7skgdtpy4mun0s2pkn2axtx2hd7sdgdltl"
