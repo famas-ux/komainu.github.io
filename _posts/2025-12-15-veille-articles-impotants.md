@@ -84,6 +84,23 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">🧠</div>
+  <div class="article-content">
+    <a href="https://yakihonne.com/note/nevent1qqswa0rl7rgksjp03x6zjqnahtfrgenpesmtx7e7fewk3vrkm7j4hgcpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3q8s03s39fa80ce2n3cmm0zme3jqehc82h6ld9sxq03uejqm3d05gsxpqqqqqqzyjjffw" target="_blank" rel="noopener">
+      <h3>Bitcoin : réflexion stratégique de long terme</h3>
+      <p>
+        Analyse approfondie des enjeux monétaires, économiques et politiques de Bitcoin,
+        présenté comme une infrastructure de souveraineté et de transformation systémique,
+        au-delà de sa seule dimension financière.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Yakihonne (Nostr)</strong> — relayé par <strong>Nicolas Cantu</strong>.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">📘</div>
   <div class="article-content">
     <a href="https://editions.institutcoppet.org/produit/benoit-malbranque-le-marquis-de-mirabeau/" target="_blank" rel="noopener">
