@@ -86,6 +86,26 @@ categories: [bitcoin, veille, France]
 <div class="article-card">
   <div class="article-icon">🧠</div>
   <div class="article-content">
+    <a href="https://yakihonne.com/note/nevent1qqswa0rl7rgksjp03x6zjqnahtfrgenpesmtx7e7fewk3vrkm7j4hgcpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3q8s03s39fa80ce2n3cmm0zme3jqehc82h6ld9sxq03uejqm3d05gsxpqqqqqqzyjjffw"
+       target="_blank" rel="noopener">
+      <h3>Pourquoi le calcul quantique est inadapté au minage Bitcoin</h3>
+      <p>
+        Nicolas Cantu montre que le « quantum mining » est un mirage :
+        l’algorithme de Grover n’offre qu’un gain quadratique insuffisant,
+        les contraintes matérielles et énergétiques sont rédhibitoires,
+        et l’ajustement de difficulté de Bitcoin neutralise tout avantage
+        théorique.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Nostr / Yakihonne</strong> — Auteur : <strong>Nicolas Cantu</strong>
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
+  <div class="article-icon">🧠</div>
+  <div class="article-content">
     <a href="https://yakihonne.com/note/nevent1qqswa0rl7rgksjp03x6zjqnahtfrgenpesmtx7e7fewk3vrkm7j4hgcpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3q8s03s39fa80ce2n3cmm0zme3jqehc82h6ld9sxq03uejqm3d05gsxpqqqqqqzyjjffw" target="_blank" rel="noopener">
       <h3>Bitcoin : réflexion stratégique de long terme</h3>
       <p>
