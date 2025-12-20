@@ -103,6 +103,28 @@ categories: [bitcoin, veille, France]
   </div>
 </div>
 
+<div class="article-card high-level">
+  <div class="article-icon">🔐</div>
+  <div class="article-content">
+    <a href="https://primal.net/e/nevent1qqs0mmn6hf0zjmy2vkyqhtm9f8rzjnasgg7reet8gmks045k9ddzs7cghqlae"
+       target="_blank" rel="noopener">
+      <h3>Adresse Bitcoin : ce qu’elle révèle avant et après une dépense</h3>
+      <p>
+        Nicolas Cantu explique pourquoi la réutilisation d’une adresse Bitcoin
+        n’est pas seulement un problème de confidentialité, mais un risque
+        cryptographique réel. Une fois un UTXO dépensé, la clé publique est
+        révélée on-chain (P2PKH, SegWit, Taproot). Réutiliser la même clé
+        multiplie les signatures, accroît la surface d’attaque en cas de défaut
+        de nonce, de faille matérielle ou d’évolution de la cryptanalyse, et
+        concentre le risque sur tous les fonds associés.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Nostr / Primal</strong> — Auteur : <strong>Nicolas Cantu</strong>
+      </p>
+    </a>
+  </div>
+</div>
+
 <div class="article-card">
   <div class="article-icon">🧠</div>
   <div class="article-content">
