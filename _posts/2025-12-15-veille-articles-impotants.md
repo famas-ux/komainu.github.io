@@ -84,6 +84,25 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">📘</div>
+  <div class="article-content">
+    <a href="https://editions.institutcoppet.org/produit/benoit-malbranque-le-marquis-de-mirabeau/" target="_blank" rel="noopener">
+      <h3>Benoît Malbranque — Le marquis de Mirabeau (1715–1789)</h3>
+      <p>
+        Éclipsé par Quesnay et par son fils révolutionnaire, le marquis de Mirabeau
+        demeure pourtant une figure cardinale de la pensée économique française.
+        Cet ouvrage met en lumière un libéralisme structuré autour de la propriété,
+        de l’ordre naturel et du laissez-faire, au cœur de la doctrine physiocratique.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Institut Coppet</strong> — Benoît Malbranque, décembre 2025.
+        PDF disponible gratuitement.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">🚨</div>
   <div class="article-content">
     <a href="https://bonjourlafuite.org" target="_blank" rel="noopener">
