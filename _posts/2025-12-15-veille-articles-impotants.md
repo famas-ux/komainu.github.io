@@ -84,6 +84,24 @@ categories: [bitcoin, veille, France]
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
+  <div class="article-icon">🌍</div>
+  <div class="article-content">
+    <a href="https://x.com/sqywallet/status/2001268001836818544?s=46" target="_blank" rel="noopener">
+      <h3>Sommet Francophone de Bitcoin : unir les voix Bitcoin en français</h3>
+      <p>
+        Initiative visant à rassembler la francophonie Bitcoin autour d’un sommet en ligne
+        (20–21 février), pour connecter communautés, éducateurs et entrepreneurs, partager
+        les réalités locales et construire des ponts autour d’un protocole commun.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>@sqywallet</strong> (X).  
+        Vidéo YouTube : Sommet Francophone de Bitcoin.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">📄</div>
   <div class="article-content">
     <a href="https://open.substack.com/pub/ufromy/p/liberalisme-et-conservatisme-alliance?r=6vavc9&utm_medium=ios&shareImageVariant=overlay" target="_blank" rel="noopener">
