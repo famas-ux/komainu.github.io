@@ -102,6 +102,24 @@ categories: [bitcoin, veille, France]
 </div>
 
 <div class="article-card">
+  <div class="article-icon">📉</div>
+  <div class="article-content">
+    <a href="https://cryptoast.fr/3482-milliards-euros-dette-publique-france-atteint-nouveau-record/" target="_blank" rel="noopener">
+      <h3>3 482 milliards d’euros : la dette publique française bat un nouveau record</h3>
+      <p>
+        La dette publique de la France atteint un sommet historique à
+        <strong>3 482 milliards d’euros</strong>. Une trajectoire qui met en lumière
+        les limites du modèle budgétaire actuel et les déséquilibres structurels
+        liés au financement par la dette.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Cryptoast</strong>.
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card">
   <div class="article-icon">🌍</div>
   <div class="article-content">
     <a href="https://x.com/sqywallet/status/2001268001836818544?s=46" target="_blank" rel="noopener">
