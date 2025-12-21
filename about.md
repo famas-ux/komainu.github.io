@@ -12,7 +12,7 @@ permalink: /about/
 <!-- Introduction à Nostr et Bitcoin -->
 <div style="text-align:center; margin: 20px auto; max-width: 700px;">
     <p>
-        Nostr est un protocole décentralisé de communication et de réseau social, conçu pour fonctionner de manière native avec Bitcoin.
+        Nostr est un protocole décentralisé de communication, conçu pour fonctionner de manière native avec Bitcoin.
     </p>
     <p>
         Vous cherchez un accès simple à Nostr ? Cliquez sur l’icône : 
