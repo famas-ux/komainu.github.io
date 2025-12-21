@@ -78,7 +78,7 @@ categories: [bitcoin, outils]
   <a href="#protonmail">Proton Mail</a>
   <a href="#protonauth">Authenticator</a>
   <a href="#protondrive">Proton Drive</a>
-  <a href="#protonwallet">Bitcoin par mail</a>
+  <a href="#protonwallet">Proton Wallet</a>
   <a href="#aiscience">AI Science</a>
   <a href="#nostr">Nostr</a>
 </nav>
@@ -143,7 +143,7 @@ categories: [bitcoin, outils]
 </div>
 
 <div class="card" id="protonwallet">
-  <h2>Envoyer bitcoin par mail</h2>
+  <h2>Proton Wallet</h2>
   <ul>
     <li>Envoi de bitcoin via email</li>
     <li>Intégré à l’écosystème Proton</li>
