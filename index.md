@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -23,7 +23,7 @@
   }
 
   .pastille-photo {
-    width: 90px;             /* un peu plus grande */
+    width: 90px;             /* taille un peu plus grande */
     height: 90px;
     border-radius: 50%;
     object-fit: cover;
@@ -68,7 +68,9 @@
   <strong id="btc-eur">—</strong>
 </div>
 
+<!-- Menu -->
 <ul>
+  <li><a href="/">Home</a></li>
   <li><a href="/about/">About</a></li>
 </ul>
 
