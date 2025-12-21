@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<!-- Menu -->
-- [Home](/)
-- [About](/about/)
-- [Bull Wallet](/bull-wallet/)
-
 <!-- Image centrée en haut -->
 <div style="text-align:center; margin: 30px 0;">
     <img src="../IMG_1104.png" alt="Photo About" class="about-photo">
