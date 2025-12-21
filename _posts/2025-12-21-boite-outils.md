@@ -8,7 +8,7 @@ categories: [bitcoin, outils]
 
 ## Menu des outils
 
-<nav>
+<nav class="boite-menu">
   <a href="#temp-mail">Temp-Mail</a>
 </nav>
 
@@ -16,9 +16,9 @@ categories: [bitcoin, outils]
 
 ## Outil 1 : Temp-Mail {#temp-mail}
 
-<div class="container">
-  <div class="card temp">
-    <div class="card-header">Temp-Mail</div>
+<div class="boite-container">
+  <div class="boite-card temp">
+    <div class="boite-card-header">Temp-Mail</div>
     <ul>
       <li>Temporaire</li>
       <li>Anonyme</li>
@@ -28,7 +28,7 @@ categories: [bitcoin, outils]
     </ul>
   </div>
 
-  <div class="advantages">
+  <div class="boite-advantages">
     <span class="temp">✔ Recevez vos emails sans exposer votre vraie boîte</span>
     <span class="temp">✔ Testez des services sans spam ni risque</span>
     <span class="temp">✔ Créez des comptes multiples facilement</span>
