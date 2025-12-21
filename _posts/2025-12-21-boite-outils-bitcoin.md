@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
 date: 2025-12-21
