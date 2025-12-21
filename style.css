@@ -24,11 +24,9 @@
   background-color: #45a049;
 }
 
-/* ==========================
-   Bandeau Plan B Network
-   ========================== */
+/* Bandeau Plan B Network */
 .planb-banner {
-  background: rgba(255, 149, 0, 0.15); /* orange doux */
+  background: rgba(255, 149, 0, 0.15);
   border-left: 4px solid #ff9500;
   padding: 20px;
   margin: 30px 0;
@@ -54,11 +52,10 @@
 .planb-banner a:hover {
   text-decoration: underline;
 }
-/* ==========================
-   Bandeaux Nostr
-   ========================== */
+
+/* Bandeaux Nostr */
 .nostr-banner {
-  display: block;                     /* essentiel */
+  display: block;
   background: rgba(155, 89, 182, 0.18);
   border-left: 4px solid #9b59b6;
   padding: 18px 20px;
@@ -73,16 +70,17 @@
   background: rgba(155, 89, 182, 0.25);
   text-decoration: none;
 }
+
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #ffffff; /* fond blanc */
-  color: #000000;           /* texte noir */
+  background-color: #ffffff;
+  color: #000000;
   line-height: 1.8;
   padding: 20px;
 }
 
 a {
-  color: #00ff00;           /* liens verts fluo */
+  color: #00ff00;
   text-decoration: none;
 }
 
