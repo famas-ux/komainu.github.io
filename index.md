@@ -1,7 +1,7 @@
 <!-- Menu -->
 <ul>
-  <li><a href="./">Home</a></li>
-  <li><a href="about.md">About</a></li>
+  <li><a href="https://famas-ux.github.io/komainu.github.io/index.html">Home</a></li>
+  <li><a href="https://famas-ux.github.io/komainu.github.io/about.html">About</a></li>
 </ul>
 
 <!-- Pastille photo -->
