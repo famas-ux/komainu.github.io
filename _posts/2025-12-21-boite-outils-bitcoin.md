@@ -111,6 +111,7 @@
     <li>Accessible depuis le web, mobile ou client IMAP compatible.</li>
   </ul>
 
+ <p><a href="https://proton.me/fr/mail" target="_blank">Source officielle Proton Mail 🔗</a></p>
   <p><a href="https://planb.academy/fr/tutorials/computer-security/communication/proton-mail-c3b010ce-254d-4546-b382-19ab9261c6a2" target="_blank">Source : PlanB Academy 🔗</a></p>
 </div>
 
