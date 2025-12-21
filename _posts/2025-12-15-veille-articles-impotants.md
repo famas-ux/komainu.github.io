@@ -541,6 +541,25 @@ categories: [bitcoin, veille, France]
     </div>
   </div>
 
+<div class="article-card essentiel">
+  <div class="article-icon">⭐</div>
+  <div class="article-content">
+    <a href="https://x.com/edouard_knw/status/1984193206553297243"
+       target="_blank" rel="noopener">
+      <h3>Bitcoin, 17 ans après le white paper</h3>
+      <p>
+        En 7 points-clés, @edouard_knw rappelle pourquoi Bitcoin est un système
+        d’argent liquide électronique pair-à-pair : suppression des tiers de
+        confiance, preuve de travail, rareté absolue, sécurité cryptographique
+        et souveraineté monétaire.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>X (Twitter)</strong> — Auteur : <strong>@edouard_knw</strong>
+      </p>
+    </a>
+  </div>
+</div>
+
 <div class="article-card">
   <div class="article-icon">⭐</div>
   <div class="article-content">
