@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Boîte à outils : Temp-Mail"
+title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
 date: 2025-12-21
 categories: [bitcoin, outils]
 ---
 
-<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
