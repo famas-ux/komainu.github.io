@@ -46,8 +46,16 @@
     font-size: 24px;
   }
 
-  ul {
-    padding-left: 20px;
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    display: flex;
+    gap: 20px;
+  }
+
+  nav ul li a {
+    font-weight: bold;
   }
 </style>
 </head>
@@ -69,10 +77,12 @@
 </div>
 
 <!-- Menu -->
-<ul>
-  <li><a href="/">Home</a></li>
-  <li><a href="/about/">About</a></li>
-</ul>
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about/">About</a></li>
+  </ul>
+</nav>
 
 <script>
 async function updateBTCPrice() {
@@ -97,3 +107,4 @@ setInterval(updateBTCPrice, 60000);
 
 </body>
 </html>
+
