@@ -1,161 +1,95 @@
 ---
 layout: post
-title: "Boîte à outils : les indispensables"
-permalink: /boite-outils-bitcoin/
-date: 2025-12-22
+title: "Boîte à outils : Temp-Mail"
+permalink: /boite-outils-bitcoin/temp-mail/
+date: 2025-12-21
 categories: [bitcoin, outils]
 ---
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Temp-Mail | Boîte à outils Bitcoin France</title>
 <style>
-/* ========================
-   Style intégré Boîte à outils
-   ======================== */
-.boite-container {
-  max-width: 400px;
-  margin: 20px auto;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.boite-card {
-  border: 2px solid #f7931a;
-  border-radius: 12px;
-  padding: 18px;
-  margin-bottom: 20px;
-  background-color: #222;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  color: #fff;
-}
-
-.boite-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-}
-
-.boite-card.temp {
-  border-color: #00cc66;
-  background-color: #111;
-}
-
-.boite-card-header {
-  font-weight: bold;
-  text-align: center;
-  border-bottom: 1px solid #f7931a;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
-  font-size: 1.2em;
-  color: #f7931a;
-}
-
-.boite-card.temp .boite-card-header {
-  border-color: #00cc66;
-  color: #00cc66;
-}
-
-.boite-card ul {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-.boite-card ul li::before {
-  content: "⚡ ";
-  color: #f7931a;
-}
-
-.boite-card.temp ul li::before {
-  content: "✔ ";
-  color: #00cc66;
-}
-
-.boite-advantages {
-  max-width: 400px;
-  margin: 0 auto 20px auto;
-  padding: 0 16px;
-  line-height: 1.5;
-  font-size: 0.95em;
-}
-
-.boite-advantages ul {
-  list-style: none;
-  padding-left: 16px;
-  margin: 0;
-}
-
-.boite-advantages ul li {
-  margin-bottom: 6px;
-}
-
-.boite-advantages ul li.temp {
-  color: #00cc66;
-}
-
-.boite-menu {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.boite-menu a {
-  margin: 0 10px;
-  color: #f7931a;
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.2s ease;
-}
-
-.boite-menu a:hover {
-  color: #00cc66;
-}
-
-@media (max-width: 450px) {
-  .boite-container, .boite-advantages {
-    max-width: 100%;
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1c1c1e;
+    color: #f1f1f1;
+    margin: 0;
+    padding: 20px 10px;
+    line-height: 1.8;
   }
-  .boite-card {
-    padding: 14px;
+  .container {
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
   }
-  .boite-card-header {
-    font-size: 1.1em;
+  h1, h2, h3 {
+    text-align: center;
+    color: #f7931a;
   }
-}
+  .card {
+    background-color: #222;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 4px solid #00cc66;
+  }
+  .card h2 {
+    margin-top: 0;
+    color: #00cc66;
+    text-align: left;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  ul li {
+    margin-bottom: 8px;
+  }
+  a {
+    color: #00cc66;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  @media (max-width: 450px) {
+    body { padding: 10px 5px; }
+    .card { padding: 16px; }
+  }
 </style>
+</head>
+<body>
+<div class="container">
 
-## Menu des outils
+<h1>Boîte à outils Bitcoin</h1>
+<h2>Temp-Mail</h2>
 
-<nav class="boite-menu">
-  <a href="#temp-mail">Temp-Mail</a>
-</nav>
+<div class="card">
+  <h2>Avantages</h2>
+  <ul>
+    <li>Temporaire</li>
+    <li>Anonyme</li>
+    <li>Zéro spam</li>
+    <li>Sécurisé</li>
+    <li>Multi-comptes faciles</li>
+  </ul>
 
----
+  <h2>Points clés</h2>
+  <ul>
+    <li>Fournit une adresse email temporaire et anonyme.</li>
+    <li>Permet de s’inscrire sur des sites sans divulguer sa vraie identité.</li>
+    <li>Réduit le spam et protège la boîte principale.</li>
+    <li>Idéal pour tester des services ou profiter d’essais gratuits.</li>
+    <li>Les emails s’autodétruisent après un certain temps pour plus de sécurité.</li>
+  </ul>
 
-## Outil 1 : Temp-Mail {#temp-mail}
-
-<div class="boite-container">
-  <div class="boite-card temp">
-    <div class="boite-card-header">Temp-Mail</div>
-    <ul>
-      <li>Temporaire</li>
-      <li>Anonyme</li>
-      <li>Zéro spam</li>
-      <li>Sécurisé</li>
-      <li>Multi-comptes faciles</li>
-    </ul>
-  </div>
-
-  <div class="boite-advantages">
-    <ul>
-      <li class="temp">✔ Recevez vos emails sans exposer votre vraie boîte</li>
-      <li class="temp">✔ Testez des services sans spam ni risque</li>
-      <li class="temp">✔ Créez des comptes multiples facilement</li>
-    </ul>
-  </div>
+  <p><a href="https://temp-mail.org/fr/" target="_blank">Accéder à Temp-Mail 🔗</a></p>
 </div>
 
-### Points clés de Temp-Mail
-
-- Fournit une adresse email temporaire et anonyme.  
-- Permet de s’inscrire sur des sites sans divulguer sa vraie identité.  
-- Réduit le spam et protège la boîte principale.  
-- Idéal pour tester des services ou profiter d’essais gratuits.  
-- Les emails s’autodétruisent après un certain temps pour plus de sécurité.  
-
-[Accéder à Temp-Mail](https://temp-mail.org/fr/) 🔗
+</div>
+</body>
+</html>
