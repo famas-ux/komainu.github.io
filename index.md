@@ -9,8 +9,10 @@ permalink: /
 - [About](/about/)
 - [Bull Wallet](/bull-wallet/)
 
-<!-- Pastille Komainu (optionnelle) -->
-<!-- ![Komainu](Komainu.PNG){: style="width:90px;height:90px;border-radius:50%;border:2px solid #0f0;margin-bottom:20px;"} -->
+<!-- Pastille Komainu centrée -->
+<p style="text-align:center;">
+  <img src="Komainu.PNG" alt="Komainu" style="width:120px;height:120px;border-radius:50%;border:2px solid #0f0;margin-bottom:20px;">
+</p>
 
 # Journal de bord
 
@@ -43,3 +45,9 @@ async function updateBTCPrice() {
 updateBTCPrice();
 setInterval(updateBTCPrice, 60000);
 </script>
+
+## Derniers posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%d %B %Y" }}
+{% endfor %}
