@@ -11,7 +11,7 @@ permalink: /about/
 
 <!-- Image centrée en haut -->
 <div style="text-align:center; margin: 30px 0;">
-    <img src="/IMG_1104.png" alt="Photo About" class="about-photo">
+    <img src="../IMG_1104.png" alt="Photo About" class="about-photo">
 </div>
 
 # About
@@ -22,7 +22,7 @@ Page About de votre journal de bord.
 /* Fond blanc pour la page */
 body {
     background-color: #ffffff;   /* fond blanc */
-    color: #1c1c1e;              /* texte sombre pour contraste */
+    color: #1c1c1e;              /* texte sombre */
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
 }
@@ -30,8 +30,8 @@ body {
 /* Image responsive */
 .about-photo {
     width: 35vw;                 /* proportionnelle à l’écran */
-    max-width: 180px;            /* taille max */
-    min-width: 120px;            /* taille min */
+    max-width: 300px;            /* taille max */
+    min-width: 150px;            /* taille min */
     height: auto;
     object-fit: contain;         /* affiche l’image entièrement */
     display: block;
