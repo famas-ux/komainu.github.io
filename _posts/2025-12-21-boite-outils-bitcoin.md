@@ -2,7 +2,7 @@
 layout: post
 title: "Boîte à outils : les indispensables"
 permalink: /boite-outils-bitcoin/
-date: 2025-12-22
+date: 2025-12-21
 categories: [bitcoin, outils]
 ---
 
