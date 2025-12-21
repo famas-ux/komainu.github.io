@@ -80,6 +80,7 @@ categories: [bitcoin, outils]
   <a href="#protondrive">Proton Drive</a>
   <a href="#protonwallet">Bitcoin par mail</a>
   <a href="#aiscience">AI Science</a>
+  <a href="#nostr">Nostr</a>
 </nav>
 
 <div class="card" id="tempmail">
@@ -170,6 +171,28 @@ categories: [bitcoin, outils]
       Source 🔗
     </a><br>
     <em>Cité par Renaud Lifchitz</em>
+  </p>
+</div>
+
+<div class="card" id="nostr">
+  <h2>Nostr – Réseau social décentralisé</h2>
+  <ul>
+    <li>Protocole ouvert et sans autorité centrale</li>
+    <li>Résistant à la censure</li>
+    <li>Identité basée sur des clés cryptographiques</li>
+    <li>Interopérable entre clients</li>
+    <li>Alternative à Twitter et Telegram</li>
+  </ul>
+  <p>
+    <a href="https://speakerdeck.com/rlifchitz/nostr-reseau-social-et-espace-de-liberte-decentralise" target="_blank">
+      Présentation – Renaud Lifchitz 🔗
+    </a><br>
+    <a href="https://planb.academy/fr/tutorials/node/others/nostr-f6d21a64-9b04-4f21-ba1c-02c98cc91f98" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://nostr.fr/" target="_blank">
+      Site francophone 🔗
+    </a>
   </p>
 </div>
 
