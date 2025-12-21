@@ -9,6 +9,17 @@ permalink: /about/
     <img src="../IMG_1104.png" alt="Photo About" class="about-photo">
 </div>
 
+<!-- Introduction à Nostr et Bitcoin -->
+<div style="text-align:center; margin: 20px auto; max-width: 700px;">
+    <p>
+        Nostr est un protocole décentralisé de communication et de réseau social, conçu pour fonctionner de manière native avec Bitcoin.
+    </p>
+    <p>
+        Vous cherchez un accès simple à Nostr ? Cliquez sur l’icône : 
+        <a href="https://nstart.me/fr?s=npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l&rn=Famas" target="_blank" style="font-size: 1.5rem;">🔗</a>
+    </p>
+</div>
+
 # About
 
 Page About de votre journal de bord.
@@ -16,21 +27,21 @@ Page About de votre journal de bord.
 <style>
 /* Fond blanc pour la page */
 body {
-    background-color: #ffffff;   /* fond blanc */
-    color: #1c1c1e;              /* texte sombre */
+    background-color: #ffffff;
+    color: #1c1c1e;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
 }
 
 /* Image responsive */
 .about-photo {
-    width: 35vw;                 /* proportionnelle à l’écran */
-    max-width: 300px;            /* taille max */
-    min-width: 150px;            /* taille min */
+    width: 35vw;
+    max-width: 300px;
+    min-width: 150px;
     height: auto;
-    object-fit: contain;         /* affiche l’image entièrement */
+    object-fit: contain;
     display: block;
-    margin: 0 auto;              /* centrage */
+    margin: 0 auto;
 }
 
 /* Titres */
