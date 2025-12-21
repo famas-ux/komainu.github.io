@@ -1,11 +1,3 @@
----
-layout: post
-title: "Boîte à outils"
-permalink: /boite-outils-bitcoin/
-date: 2025-12-21
-categories: [bitcoin, outils]
----
-
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -14,8 +6,8 @@ categories: [bitcoin, outils]
 <style>
   body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #1c1c1e;
-    color: #f1f1f1;
+    background-color: #ffffff;
+    color: #1c1c1e;
     margin: 0;
     padding: 20px 10px;
     line-height: 1.8;
@@ -30,11 +22,12 @@ categories: [bitcoin, outils]
     color: #f7931a;
   }
   .card {
-    background-color: #222;
+    background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
     margin: 20px 0;
     border-left: 4px solid #00cc66;
+    color: #1c1c1e;
   }
   .card h2 {
     margin-top: 0;
