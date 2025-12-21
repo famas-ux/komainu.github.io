@@ -19,6 +19,13 @@ permalink: /about/
         <a href="https://nstart.me/fr?s=npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l&rn=Famas" target="_blank" style="font-size: 1.5rem;">🔗</a>
     </p>
 </div>
+<!-- Suivre sur Nostr -->
+<div style="text-align:center; margin: 20px auto; max-width: 700px;">
+    <p>
+        Me suivre sur Nostr ❓ 
+        <a href="https://primal.net/famas" target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗</a>
+    </p>
+</div>
 
 # About
 
