@@ -80,7 +80,6 @@ categories: [bitcoin, outils]
   <a href="#protondrive">Proton Drive</a>
   <a href="#protonwallet">Bitcoin par mail</a>
   <a href="#aiscience">AI Science</a>
-  <a href="#nostr">Nostr</a>
 </nav>
 
 <div class="card" id="tempmail">
@@ -171,40 +170,6 @@ categories: [bitcoin, outils]
       Source 🔗
     </a><br>
     <em>Cité par Renaud Lifchitz</em>
-  </p>
-</div>
-
-<div class="card" id="nostr">
-  <h2>Nostr – Réseau social décentralisé</h2>
-
-  <h3>Avantages</h3>
-  <ul>
-    <li>Résistant à la censure</li>
-    <li>Protocole ouvert et simple</li>
-    <li>Pas d’autorité centrale</li>
-    <li>Interopérable entre applications</li>
-    <li>Alternative crédible à Twitter et Telegram</li>
-  </ul>
-
-  <h3>Points clés</h3>
-  <ul>
-    <li>Nostr est un protocole permettant de créer un réseau social mondial décentralisé.</li>
-    <li>Les utilisateurs possèdent leurs clés et donc leur identité.</li>
-    <li>Les messages sont diffusés via des relais, sans plateforme centrale.</li>
-    <li>Favorise la liberté d’expression et la résilience face à la censure.</li>
-    <li>Étroitement lié à l’écosystème Bitcoin.</li>
-  </ul>
-
-  <p>
-    <a href="https://speakerdeck.com/rlifchitz/nostr-reseau-social-et-espace-de-liberte-decentralise" target="_blank">
-      Source : présentation Renaud Lifchitz 🔗
-    </a><br>
-    <a href="https://planb.academy/fr/tutorials/node/others/nostr-f6d21a64-9b04-4f21-ba1c-02c98cc91f98" target="_blank">
-      Source : PlanB Academy 🔗
-    </a><br>
-    <a href="https://nostr.fr/" target="_blank">
-      Site francophone 🔗
-    </a>
   </p>
 </div>
 
