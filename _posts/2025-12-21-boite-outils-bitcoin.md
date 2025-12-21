@@ -12,6 +12,10 @@
     padding: 20px 10px;
     line-height: 1.8;
   }
+  <!-- Menu ancre Outils -->
+<div style="text-align:center; margin-bottom:20px;">
+  <a href="#outils" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔧 Outils</a>
+</div>
   .container {
     max-width: 600px;
     margin: auto;
@@ -29,6 +33,10 @@
     border-left: 4px solid #00cc66;
     color: #1c1c1e;
   }
+  <div class="card" id="outils">
+  <h2>Avantages</h2>
+  ...
+</div>
   .card h2 {
     margin-top: 0;
     color: #00cc66;
