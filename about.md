@@ -11,7 +11,7 @@ permalink: /about/
 
 <!-- Image centrée en haut -->
 <div style="text-align:center; margin: 30px 0;">
-    <img src="IMG_1104.png" alt="Photo About" class="about-photo">
+    <img src="/IMG_1104.png" alt="Photo About" class="about-photo">
 </div>
 
 # About
@@ -19,10 +19,10 @@ permalink: /about/
 Page About de votre journal de bord.
 
 <style>
-/* Style général page cypherpunk */
+/* Fond blanc pour la page */
 body {
-    background-color: #1c1c1e;   /* fond sombre */
-    color: #00ff66;              /* texte fluo vert */
+    background-color: #ffffff;   /* fond blanc */
+    color: #1c1c1e;              /* texte sombre pour contraste */
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
 }
@@ -33,7 +33,7 @@ body {
     max-width: 180px;            /* taille max */
     min-width: 120px;            /* taille min */
     height: auto;
-    object-fit: cover;           /* garde proportions */
+    object-fit: contain;         /* affiche l’image entièrement */
     display: block;
     margin: 0 auto;              /* centrage */
 }
