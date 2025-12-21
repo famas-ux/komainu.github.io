@@ -73,3 +73,41 @@
   background: rgba(155, 89, 182, 0.25);
   text-decoration: none;
 }
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ffffff; /* fond blanc */
+  color: #000000;           /* texte noir */
+  line-height: 1.8;
+  padding: 20px;
+}
+
+a {
+  color: #00ff00;           /* liens verts fluo */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.btc-price-home small {
+  display: block;
+  color: #0f0;
+}
+
+.btc-price-home strong {
+  font-size: 24px;
+}
+
+/* Menu horizontal simple */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+  display: flex;
+  gap: 20px;
+}
+
+ul li a {
+  font-weight: bold;
+}
