@@ -544,6 +544,25 @@ categories: [bitcoin, veille, France]
 <div class="article-card essentiel">
   <div class="article-icon">⭐</div>
   <div class="article-content">
+    <a href="https://x.com/nicolascantubk/status/1986114077991764062"
+       target="_blank" rel="noopener">
+      <h3>Bitcoin : la puissance de la simplicité</h3>
+      <p>
+        En 9 messages, Nicolas Cantu explique pourquoi Bitcoin est difficile à
+        améliorer sans le fragiliser : on peut toujours complexifier un système,
+        mais il est presque impossible de le rendre plus simple — et donc plus
+        fiable — que ce qu’il est déjà.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>X (Twitter)</strong> — Auteur : <strong>Nicolas Cantu</strong>
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card essentiel">
+  <div class="article-icon">⭐</div>
+  <div class="article-content">
     <a href="https://x.com/edouard_knw/status/1984193206553297243"
        target="_blank" rel="noopener">
       <h3>Bitcoin, 17 ans après le white paper</h3>
