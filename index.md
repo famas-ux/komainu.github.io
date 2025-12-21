@@ -1,3 +1,17 @@
+---
+layout: page
+title: Journal de bord
+permalink: /
+---
+
+<!-- Menu -->
+- [Home](/)
+- [About](/about/)
+- [Bull Wallet](/bull-wallet/)
+
+<!-- Pastille Komainu (optionnelle) -->
+<!-- ![Komainu](Komainu.PNG){: style="width:90px;height:90px;border-radius:50%;border:2px solid #0f0;margin-bottom:20px;"} -->
+
 # Journal de bord
 
 fait avec ❤️ par famas
@@ -8,10 +22,6 @@ fait avec ❤️ par famas
   <small>Bitcoin (EUR)</small><br>
   <strong id="btc-eur">—</strong>
 </div>
-
-<ul>
-  <li><a href="/about/">About</a></li>
-</ul>
 
 <script>
 async function updateBTCPrice() {
@@ -33,4 +43,3 @@ async function updateBTCPrice() {
 updateBTCPrice();
 setInterval(updateBTCPrice, 60000);
 </script>
-
