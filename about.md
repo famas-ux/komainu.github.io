@@ -10,8 +10,8 @@ permalink: /about/
 - [Bull Wallet](/bull-wallet/)
 
 <!-- Image centrée en haut -->
-<div style="text-align:center; margin: 20px 0;">
-    <img src="/IMG_1104.png" alt="Photo About" class="about-photo">
+<div style="text-align:center; margin: 30px 0;">
+    <img src="IMG_1104.png" alt="Photo About" class="about-photo">
 </div>
 
 # About
@@ -19,14 +19,32 @@ permalink: /about/
 Page About de votre journal de bord.
 
 <style>
-/* Pastille photo responsive */
+/* Style général page cypherpunk */
+body {
+    background-color: #1c1c1e;   /* fond sombre */
+    color: #00ff66;              /* texte fluo vert */
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+/* Image responsive */
 .about-photo {
     width: 35vw;                 /* proportionnelle à l’écran */
     max-width: 180px;            /* taille max */
     min-width: 120px;            /* taille min */
     height: auto;
-    object-fit: cover;
+    object-fit: cover;           /* garde proportions */
     display: block;
-    margin: 0 auto;
+    margin: 0 auto;              /* centrage */
+}
+
+/* Titres */
+h1 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 1rem;
 }
 </style>
