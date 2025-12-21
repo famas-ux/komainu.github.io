@@ -65,7 +65,7 @@
   <a href="#protonmail" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔒 Proton Mail</a> | 
   <a href="#protonauthenticator" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔑 Proton Authenticator</a> | 
   <a href="#protondrive" style="color:#00cc66; font-weight:bold; text-decoration:none;">💾 Proton Drive</a> | 
-  <a href="#protonwallet" style="color:#00cc66; font-weight:bold; text-decoration:none;">📧 Envoyer Bitcoin</a>
+  <a href="#protonwallet" style="color:#00cc66; font-weight:bold; text-decoration:none;">📧 Envoyer Bitcoin : Proton Wallet</a>
 </div>
 
 <!-- Outil 1 : Temp-Mail -->
@@ -156,7 +156,7 @@
   <p><a href="https://proton.me/fr/drive" target="_blank">Source officielle Proton Drive 🔗</a></p>
 </div>
 
-<!-- Outil 5 : Envoyer Bitcoin par mail -->
+<!-- Outil 5 : Envoyer Bitcoin par mail : Proton Wallet -->
 <div class="card" id="protonwallet">
   <h2>Envoyer Bitcoin par mail</h2>
   <h3>Avantages</h3>
