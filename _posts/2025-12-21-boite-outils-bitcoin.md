@@ -29,9 +29,11 @@ categories: [bitcoin, outils]
   </div>
 
   <div class="boite-advantages">
-    <span class="temp">✔ Recevez vos emails sans exposer votre vraie boîte</span>
-    <span class="temp">✔ Testez des services sans spam ni risque</span>
-    <span class="temp">✔ Créez des comptes multiples facilement</span>
+    <ul>
+      <li class="temp">✔ Recevez vos emails sans exposer votre vraie boîte</li>
+      <li class="temp">✔ Testez des services sans spam ni risque</li>
+      <li class="temp">✔ Créez des comptes multiples facilement</li>
+    </ul>
   </div>
 </div>
 
