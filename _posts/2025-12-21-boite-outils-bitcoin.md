@@ -1,8 +1,17 @@
+---
+layout: post
+title: "Boîte à outils"
+permalink: /boite-outils-bitcoin/
+date: 2025-12-21
+categories: [bitcoin, outils]
+---
+
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Boîte à outils Bitcoin France</title>
+<title>Boîte à outils Bitcoin</title>
+
 <style>
   body {
     font-family: Arial, Helvetica, sans-serif;
@@ -13,26 +22,37 @@
     line-height: 1.8;
   }
   .container {
-    max-width: 600px;
+    max-width: 700px;
     margin: auto;
-    padding: 0 10px;
   }
-  h1, h2, h3 {
+  h1, h2 {
     text-align: center;
     color: #f7931a;
+  }
+  nav {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  nav a {
+    margin: 0 8px;
+    color: #00a86b;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  nav a:hover {
+    text-decoration: underline;
   }
   .card {
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
-    margin: 20px 0;
-    border-left: 4px solid #00cc66;
-    color: #1c1c1e;
+    margin: 25px 0;
+    border-left: 4px solid #00a86b;
   }
   .card h2 {
-    margin-top: 0;
-    color: #00cc66;
     text-align: left;
+    color: #00a86b;
+    margin-top: 0;
   }
   ul {
     padding-left: 20px;
@@ -41,141 +61,116 @@
     margin-bottom: 8px;
   }
   a {
-    color: #00cc66;
-    text-decoration: none;
+    color: #00a86b;
     font-weight: bold;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  @media (max-width: 450px) {
-    body { padding: 10px 5px; }
-    .card { padding: 16px; }
+    text-decoration: none;
   }
 </style>
 </head>
+
 <body>
 <div class="container">
 
 <h1>Boîte à outils Bitcoin</h1>
 
-<!-- Menu ancre Outils -->
-<div style="text-align:center; margin-bottom:20px;" id="menu-outils">
-  <a href="#outils" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔧 Temp-Mail</a> | 
-  <a href="#protonmail" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔒 Proton Mail</a> | 
-  <a href="#protonauthenticator" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔑 Proton Authenticator</a> | 
-  <a href="#protondrive" style="color:#00cc66; font-weight:bold; text-decoration:none;">💾 Proton Drive</a> | 
-  <a href="#protonwallet" style="color:#00cc66; font-weight:bold; text-decoration:none;">📧 Proton Wallet</a>
-</div>
+<nav>
+  <a href="#tempmail">Temp-Mail</a>
+  <a href="#protonmail">Proton Mail</a>
+  <a href="#protonauth">Authenticator</a>
+  <a href="#protondrive">Proton Drive</a>
+  <a href="#protonwallet">Bitcoin par mail</a>
+  <a href="#aiscience">AI Science</a>
+</nav>
 
-<!-- Outil 1 : Temp-Mail -->
-<div class="card" id="outils">
+<div class="card" id="tempmail">
   <h2>Temp-Mail</h2>
-  <h3>Avantages</h3>
   <ul>
-    <li>Temporaire</li>
-    <li>Anonyme</li>
-    <li>Zéro spam</li>
-    <li>Sécurisé</li>
-    <li>Multi-comptes faciles</li>
+    <li>Email temporaire et anonyme</li>
+    <li>Réduction du spam</li>
+    <li>Inscription sans identité</li>
+    <li>Emails auto-destructibles</li>
   </ul>
-  <h3>Points clés</h3>
-  <ul>
-    <li>Fournit une adresse email temporaire et anonyme.</li>
-    <li>Permet de s’inscrire sur des sites sans divulguer sa vraie identité.</li>
-    <li>Réduit le spam et protège la boîte principale.</li>
-    <li>Idéal pour tester des services ou profiter d’essais gratuits.</li>
-    <li>Les emails s’autodétruisent après un certain temps pour plus de sécurité.</li>
-  </ul>
-  <p><a href="https://temp-mail.org/fr/" target="_blank">Accéder à Temp-Mail 🔗</a></p>
+  <p><a href="https://temp-mail.org/fr/" target="_blank">Site officiel 🔗</a></p>
 </div>
 
-<!-- Outil 2 : Proton Mail -->
 <div class="card" id="protonmail">
   <h2>Proton Mail</h2>
-  <h3>Avantages</h3>
   <ul>
-    <li>Email chiffré de bout en bout</li>
-    <li>Anonyme et sécurisé</li>
-    <li>Interface simple et professionnelle</li>
-    <li>Protection contre le spam et le phishing</li>
-    <li>Version gratuite disponible</li>
+    <li>Chiffrement de bout en bout</li>
+    <li>Basé en Suisse</li>
+    <li>Aucune exploitation des données</li>
+    <li>Compatible PGP</li>
   </ul>
-  <h3>Points clés</h3>
-  <ul>
-    <li>Permet d’envoyer et recevoir des emails confidentiels et sécurisés.</li>
-    <li>Idéal pour protéger sa correspondance Bitcoin et crypto contre la surveillance.</li>
-    <li>Propose un chiffrement de bout en bout et des fonctionnalités avancées de sécurité.</li>
-    <li>Accessible depuis le web, mobile ou client IMAP compatible.</li>
-  </ul>
-  <p><a href="https://planb.academy/fr/tutorials/computer-security/communication/proton-mail-c3b010ce-254d-4546-b382-19ab9261c6a2" target="_blank">Source : PlanB Academy 🔗</a></p>
-  <p><a href="https://proton.me/fr/mail" target="_blank">Source officielle Proton Mail 🔗</a></p>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/computer-security/communication/proton-mail-c3b010ce-254d-4546-b382-19ab9261c6a2" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/mail" target="_blank">Site officiel 🔗</a>
+  </p>
 </div>
 
-<!-- Outil 3 : Proton Authenticator -->
-<div class="card" id="protonauthenticator">
+<div class="card" id="protonauth">
   <h2>Proton Authenticator</h2>
-  <h3>Avantages</h3>
   <ul>
-    <li>Génération de codes 2FA hors ligne</li>
-    <li>Sécurisé et confidentiel</li>
-    <li>Compatible avec plusieurs comptes</li>
-    <li>Application simple et rapide</li>
-    <li>Version gratuite disponible</li>
+    <li>2FA hors ligne</li>
+    <li>Standard TOTP</li>
+    <li>Renforce la sécurité des comptes</li>
+    <li>Gratuit</li>
   </ul>
-  <h3>Points clés</h3>
-  <ul>
-    <li>Permet d’ajouter une couche supplémentaire de sécurité pour les comptes en ligne.</li>
-    <li>Génère des codes 2FA sans connexion internet pour plus de sécurité.</li>
-    <li>Compatible avec les standards TOTP pour sécuriser différents services.</li>
-    <li>Idéal pour protéger l’accès aux comptes Bitcoin et crypto.</li>
-  </ul>
-  <p><a href="https://planb.academy/fr/tutorials/computer-security/authentication/proton-authenticator-047ca2eb-a922-4e0e-8f75-1b89d23951ae" target="_blank">Source : PlanB Academy 🔗</a></p>
-  <p><a href="https://proton.me/fr/authenticator" target="_blank">Source officielle Proton Authenticator 🔗</a></p>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/computer-security/authentication/proton-authenticator-047ca2eb-a922-4e0e-8f75-1b89d23951ae" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/authenticator" target="_blank">Site officiel 🔗</a>
+  </p>
 </div>
 
-<!-- Outil 4 : Proton Drive -->
 <div class="card" id="protondrive">
   <h2>Proton Drive</h2>
-  <h3>Avantages</h3>
   <ul>
-    <li>Stockage cloud chiffré de bout en bout</li>
-    <li>Confidentialité et sécurité renforcées</li>
-    <li>Partage de fichiers sécurisé</li>
-    <li>Accès multi-appareils</li>
-    <li>Version gratuite disponible</li>
+    <li>Stockage chiffré de bout en bout</li>
+    <li>Respect de la vie privée</li>
+    <li>Alternative à Google Drive</li>
+    <li>Basé en Suisse</li>
   </ul>
-  <h3>Points clés</h3>
-  <ul>
-    <li>Permet de stocker et partager des fichiers de façon confidentielle.</li>
-    <li>Chiffrement de bout en bout pour garantir que seuls vous et vos destinataires peuvent lire vos fichiers.</li>
-    <li>Compatible web, mobile et desktop pour un accès facile.</li>
-    <li>Idéal pour sécuriser vos documents Bitcoin et crypto.</li>
-  </ul>
-  <p><a href="https://planb.academy/fr/tutorials/computer-security/data/proton-drive-03cbe49f-6ddc-491f-8786-bc20d98ebb16" target="_blank">Source : PlanB Academy 🔗</a></p>
-  <p><a href="https://proton.me/fr/drive" target="_blank">Source officielle Proton Drive 🔗</a></p>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/computer-security/data/proton-drive-03cbe49f-6ddc-491f-8786-bc20d98ebb16" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/drive" target="_blank">Site officiel 🔗</a>
+  </p>
 </div>
 
-<!-- Outil 5 : Envoyer Bitcoin par mail : Proton Wallet -->
 <div class="card" id="protonwallet">
-  <h2>Envoyer Bitcoin par mail</h2>
-  <h3>Avantages</h3>
+  <h2>Envoyer bitcoin par mail</h2>
   <ul>
-    <li>Envoi de Bitcoin directement par email</li>
-    <li>Sécurisé et simple d’utilisation</li>
-    <li>Compatible avec plusieurs destinataires</li>
-    <li>Pas besoin de clé complexe pour le destinataire</li>
-    <li>Idéal pour micro-transactions ou cadeaux crypto</li>
+    <li>Envoi de bitcoin via email</li>
+    <li>Intégré à l’écosystème Proton</li>
+    <li>Interface simple</li>
+    <li>Idéal pour débutants</li>
   </ul>
-  <h3>Points clés</h3>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/wallet/desktop/proton-wallet-0bee0bba-ab62-4db0-8c63-b2ad698ca178" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/wallet" target="_blank">Site officiel 🔗</a>
+  </p>
+</div>
+
+<div class="card" id="aiscience">
+  <h2>Awesome AI for Science</h2>
   <ul>
-    <li>Permet d’envoyer des bitcoins à une adresse email, même si le destinataire n’a pas encore de wallet.</li>
-    <li>Intégration simple avec Proton Wallet Desktop.</li>
-    <li>Chiffrement et sécurité garantis par Proton.</li>
-    <li>Parfait pour débutants ou transferts rapides.</li>
+    <li>Répertoire IA pour la recherche</li>
+    <li>Outils open source</li>
+    <li>Veille scientifique structurée</li>
+    <li>Multi-disciplines</li>
   </ul>
-  <p><a href="https://planb.academy/fr/tutorials/wallet/desktop/proton-wallet-0bee0bba-ab62-4db0-8c63-b2ad698ca178" target="_blank">Source : PlanB Academy 🔗</a></p>
-  <p><a href="https://proton.me/fr/wallet" target="_blank">Source officielle Proton Wallet 🔗</a></p>
+  <p>
+    <a href="https://zdoc.app/en/ai-boost/awesome-ai-for-science" target="_blank">
+      Source 🔗
+    </a><br>
+    <em>Cité par Renaud Lifchitz</em>
+  </p>
 </div>
 
 </div>
