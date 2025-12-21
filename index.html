@@ -1,70 +1,11 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Home - Journal de bord</title>
-<style>
-  body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #ffffff; /* fond blanc */
-    color: #000000;           /* texte noir */
-    line-height: 1.8;
-    padding: 20px;
-  }
+# Journal de bord
 
-  a {
-    color: #00ff00;          /* liens vert fluo */
-    text-decoration: none;
-  }
+fait avec ❤️ par famas
 
-  a:hover {
-    text-decoration: underline;
-  }
-
-  .pastille-photo {
-    width: 90px;             /* un peu plus grande */
-    height: 90px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid #0f0;  /* bordure verte fluo */
-    display: block;
-    margin-bottom: 20px;
-  }
-
-  .btc-price-home {
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-
-  .btc-price-home small {
-    display: block;
-    color: #0f0;
-  }
-
-  .btc-price-home strong {
-    font-size: 24px;
-  }
-
-  ul {
-    padding-left: 20px;
-  }
-</style>
-</head>
-<body>
-
-<!-- Pastille photo -->
-<img src="Komainu.PNG" alt="Komainu" class="pastille-photo">
-
-<h1>Journal de bord</h1>
-
-<p>fait avec ❤️ par famas</p>
-
-<p><a href="https://app.bullbitcoin.com/registration/famas">MISSION DESTROY FIAT</a></p>
+[MISSION DESTROY FIAT](https://app.bullbitcoin.com/registration/famas)
 
 <div class="btc-price-home">
-  <small>Bitcoin (EUR)</small>
-  <br>
+  <small>Bitcoin (EUR)</small><br>
   <strong id="btc-eur">—</strong>
 </div>
 
@@ -92,7 +33,4 @@ async function updateBTCPrice() {
 updateBTCPrice();
 setInterval(updateBTCPrice, 60000);
 </script>
-
-</body>
-</html>
 
