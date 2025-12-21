@@ -544,6 +544,26 @@ categories: [bitcoin, veille, France]
 <div class="article-card essentiel">
   <div class="article-icon">⭐</div>
   <div class="article-content">
+    <a href="https://x.com/bitcoinpolicyfr/status/1987822294543012143?s=46"
+       target="_blank" rel="noopener">
+      <h3>Minage Bitcoin et flexibilité énergétique</h3>
+      <p>
+        Le minage de Bitcoin est un consommateur idéal pour l’énergie excédentaire :
+        il achète d’abord l’électricité sans débouché immédiat, sécurise des revenus
+        transitoires, puis agit comme consommateur de dernier recours pour valoriser
+        l’énergie autrement perdue, s’éteignant automatiquement lorsque le réseau ou
+        les usages prioritaires en ont besoin.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>@bitcoinpolicyfr</strong>
+      </p>
+    </a>
+  </div>
+</div>
+
+<div class="article-card essentiel">
+  <div class="article-icon">⭐</div>
+  <div class="article-content">
     <a href="https://x.com/nicolascantubk/status/1986114077991764062"
        target="_blank" rel="noopener">
       <h3>Bitcoin : la puissance de la simplicité</h3>
