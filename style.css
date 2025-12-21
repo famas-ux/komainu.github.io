@@ -74,16 +74,25 @@
   text-decoration: none;
 }
 /* ========================
-   Boîte à outils – cartes et menu
+   Style global Boîte à outils
    Inspiré de la page About
    ======================== */
 
-.boite-container {
+body {
+  font-family: Arial, Helvetica, sans-serif; /* cohérent avec About */
+  background-color: #1c1c1e; /* fond sombre */
+  color: #f1f1f1;
+  margin: 0;
+  padding: 0 10px;
+  line-height: 1.6;
+}
+
+.container {
   max-width: 400px;
   margin: 20px auto;
 }
 
-.boite-card {
+.card {
   border: 2px solid #f7931a; /* orange Bitcoin */
   border-radius: 12px;
   padding: 18px;
@@ -92,17 +101,17 @@
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.boite-card:hover {
+.card:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 16px rgba(0,0,0,0.3);
 }
 
-.boite-card.temp {
+.card.temp {
   border-color: #00cc66; /* vert pour Temp-Mail */
   background-color: #111;
 }
 
-.boite-card-header {
+.card-header {
   font-weight: bold;
   text-align: center;
   border-bottom: 1px solid #f7931a;
@@ -112,28 +121,28 @@
   color: #f7931a;
 }
 
-.boite-card.temp .boite-card-header {
+.card.temp .card-header {
   border-color: #00cc66;
   color: #00cc66;
 }
 
-.boite-card ul {
+.card ul {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
 
-.boite-card ul li::before {
-  content: "⚡ "; /* icône Bitcoin/éclair */
+.card ul li::before {
+  content: "⚡ "; /* icône légère Bitcoin/éclair */
   color: #f7931a;
 }
 
-.boite-card.temp ul li::before {
+.card.temp ul li::before {
   content: "✔ ";
   color: #00cc66;
 }
 
-.boite-advantages {
+.advantages {
   max-width: 400px;
   margin: 0 auto 20px auto;
   padding: 0 16px;
@@ -141,23 +150,23 @@
   font-size: 0.95em;
 }
 
-.boite-advantages span {
+.advantages span {
   display: block;
   margin-bottom: 6px;
   color: #f7931a;
 }
 
-.boite-advantages span.temp {
+.advantages span.temp {
   color: #00cc66;
 }
 
 /* Menu des outils */
-.boite-menu {
+nav {
   text-align: center;
   margin-bottom: 20px;
 }
 
-.boite-menu a {
+nav a {
   margin: 0 10px;
   color: #f7931a;
   text-decoration: none;
@@ -165,20 +174,22 @@
   transition: color 0.2s ease;
 }
 
-.boite-menu a:hover {
+nav a:hover {
   color: #00cc66;
 }
 
 /* Responsive mobile */
 @media (max-width: 450px) {
-  .boite-container, .boite-advantages {
+  body {
+    padding: 0 5px;
+  }
+  .container, .advantages {
     max-width: 100%;
   }
-  .boite-card {
+  .card {
     padding: 14px;
   }
-  .boite-card-header {
+  .card-header {
     font-size: 1.1em;
   }
 }
-
