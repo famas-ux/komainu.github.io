@@ -60,7 +60,8 @@
 <!-- Menu ancre Outils -->
 <div style="text-align:center; margin-bottom:20px;">
   <a href="#outils" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔧 Temp-Mail</a> | 
-  <a href="#protonmail" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔒 Proton Mail</a>
+  <a href="#protonmail" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔒 Proton Mail</a> | 
+  <a href="#protonauthenticator" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔑 Proton Authenticator</a>
 </div>
 
 <h1>Boîte à outils Bitcoin</h1>
@@ -111,8 +112,33 @@
     <li>Accessible depuis le web, mobile ou client IMAP compatible.</li>
   </ul>
 
- <p><a href="https://proton.me/fr/mail" target="_blank">Source officielle Proton Mail 🔗</a></p>
   <p><a href="https://planb.academy/fr/tutorials/computer-security/communication/proton-mail-c3b010ce-254d-4546-b382-19ab9261c6a2" target="_blank">Source : PlanB Academy 🔗</a></p>
+  <p><a href="https://proton.me/fr/mail" target="_blank">Source officielle Proton Mail 🔗</a></p>
+</div>
+
+<!-- Outil 3 : Proton Authenticator -->
+<div class="card" id="protonauthenticator">
+  <h2>Proton Authenticator</h2>
+
+  <h3>Avantages</h3>
+  <ul>
+    <li>Génération de codes 2FA hors ligne</li>
+    <li>Sécurisé et confidentiel</li>
+    <li>Compatible avec plusieurs comptes</li>
+    <li>Application simple et rapide</li>
+    <li>Version gratuite disponible</li>
+  </ul>
+
+  <h3>Points clés</h3>
+  <ul>
+    <li>Permet d’ajouter une couche supplémentaire de sécurité pour les comptes en ligne.</li>
+    <li>Génère des codes 2FA sans connexion internet pour plus de sécurité.</li>
+    <li>Compatible avec les standards TOTP pour sécuriser différents services.</li>
+    <li>Idéal pour protéger l’accès aux comptes Bitcoin et crypto.</li>
+  </ul>
+
+  <p><a href="https://planb.academy/fr/tutorials/computer-security/authentication/proton-authenticator-047ca2eb-a922-4e0e-8f75-1b89d23951ae" target="_blank">Source : PlanB Academy 🔗</a></p>
+  <p><a href="https://proton.me/fr/authenticator" target="_blank">Source officielle Proton Authenticator 🔗</a></p>
 </div>
 
 </div>
