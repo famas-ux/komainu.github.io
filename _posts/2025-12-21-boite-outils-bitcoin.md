@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Boîte à outils : Temp-Mail"
-permalink: /boite-outils-bitcoin/temp-mail/
-date: 2025-12-22
+permalink: /boite-outils-bitcoin/
+date: 2025-12-21
 categories: [bitcoin, outils]
 ---
 
