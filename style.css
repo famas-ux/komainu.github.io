@@ -75,43 +75,33 @@
 }
 /* ========================
    Style global Boîte à outils
-   Inspiré de la page About
    ======================== */
 
-body {
-  font-family: Arial, Helvetica, sans-serif; /* cohérent avec About */
-  background-color: #1c1c1e; /* fond sombre */
-  color: #f1f1f1;
-  margin: 0;
-  padding: 0 10px;
-  line-height: 1.6;
-}
-
-.container {
+.boite-container {
   max-width: 400px;
   margin: 20px auto;
 }
 
-.card {
-  border: 2px solid #f7931a; /* orange Bitcoin */
+.boite-card {
+  border: 2px solid #f7931a;
   border-radius: 12px;
   padding: 18px;
   margin-bottom: 20px;
-  background-color: #222; /* carte sombre */
+  background-color: #222;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.card:hover {
+.boite-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 16px rgba(0,0,0,0.3);
 }
 
-.card.temp {
-  border-color: #00cc66; /* vert pour Temp-Mail */
+.boite-card.temp {
+  border-color: #00cc66;
   background-color: #111;
 }
 
-.card-header {
+.boite-card-header {
   font-weight: bold;
   text-align: center;
   border-bottom: 1px solid #f7931a;
@@ -121,28 +111,28 @@ body {
   color: #f7931a;
 }
 
-.card.temp .card-header {
+.boite-card.temp .boite-card-header {
   border-color: #00cc66;
   color: #00cc66;
 }
 
-.card ul {
+.boite-card ul {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
 
-.card ul li::before {
-  content: "⚡ "; /* icône légère Bitcoin/éclair */
+.boite-card ul li::before {
+  content: "⚡ ";
   color: #f7931a;
 }
 
-.card.temp ul li::before {
+.boite-card.temp ul li::before {
   content: "✔ ";
   color: #00cc66;
 }
 
-.advantages {
+.boite-advantages {
   max-width: 400px;
   margin: 0 auto 20px auto;
   padding: 0 16px;
@@ -150,23 +140,26 @@ body {
   font-size: 0.95em;
 }
 
-.advantages span {
-  display: block;
-  margin-bottom: 6px;
-  color: #f7931a;
+.boite-advantages ul {
+  list-style: none;
+  padding-left: 16px; /* alignement avec la carte */
+  margin: 0;
 }
 
-.advantages span.temp {
+.boite-advantages ul li {
+  margin-bottom: 6px;
+}
+
+.boite-advantages ul li.temp {
   color: #00cc66;
 }
 
-/* Menu des outils */
-nav {
+.boite-menu {
   text-align: center;
   margin-bottom: 20px;
 }
 
-nav a {
+.boite-menu a {
   margin: 0 10px;
   color: #f7931a;
   text-decoration: none;
@@ -174,22 +167,19 @@ nav a {
   transition: color 0.2s ease;
 }
 
-nav a:hover {
+.boite-menu a:hover {
   color: #00cc66;
 }
 
 /* Responsive mobile */
 @media (max-width: 450px) {
-  body {
-    padding: 0 5px;
-  }
-  .container, .advantages {
+  .boite-container, .boite-advantages {
     max-width: 100%;
   }
-  .card {
+  .boite-card {
     padding: 14px;
   }
-  .card-header {
+  .boite-card-header {
     font-size: 1.1em;
   }
 }
