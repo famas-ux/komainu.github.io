@@ -7,14 +7,14 @@
 <style>
   body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #121212; /* fond sombre style cypherpunk */
-    color: #00ff00;           /* texte fluo vert */
+    background-color: #ffffff; /* fond blanc */
+    color: #000000;           /* texte noir */
     line-height: 1.8;
     padding: 20px;
   }
 
   a {
-    color: #00ff00;
+    color: #00ff00;          /* liens vert fluo */
     text-decoration: none;
   }
 
@@ -23,11 +23,11 @@
   }
 
   .pastille-photo {
-    width: 80px;
-    height: 80px;
+    width: 90px;             /* un peu plus grande */
+    height: 90px;
     border-radius: 50%;
     object-fit: cover;
-    border: 2px solid #0f0;
+    border: 2px solid #0f0;  /* bordure verte fluo */
     display: block;
     margin-bottom: 20px;
   }
