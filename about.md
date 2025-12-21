@@ -27,6 +27,19 @@ permalink: /about/
     </p>
 </div>
 
+<!-- Contact mail & Bitcoin -->
+<div style="text-align:center; margin: 20px auto; max-width: 700px;">
+    <p>
+        Vous pouvez m’envoyer un mail via Proton : 
+        <a href="mailto:Satopolys@proton.me" style="font-weight:bold; color:#1c1c1e;">Satopolys@proton.me</a>
+    </p>
+    <p>
+        Vous pouvez également m’envoyer du Bitcoin :<br>
+        • On-chain via Proton Mail : <strong>Satopolys@proton.me</strong><br>
+        • Lightning : <strong>Famas@primal.net</strong>
+    </p>
+</div>
+
 # About
 
 Page About de votre journal de bord.
