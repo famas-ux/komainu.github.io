@@ -57,14 +57,15 @@
 <body>
 <div class="container">
 
+<h1>Boîte à outils Bitcoin</h1>
+
 <!-- Menu ancre Outils -->
-<div style="text-align:center; margin-bottom:20px;">
+<div style="text-align:center; margin-bottom:20px;" id="menu-outils">
   <a href="#outils" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔧 Temp-Mail</a> | 
   <a href="#protonmail" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔒 Proton Mail</a> | 
-  <a href="#protonauthenticator" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔑 Proton Authenticator</a>
+  <a href="#protonauthenticator" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔑 Proton Authenticator</a> | 
+  <a href="#protondrive" style="color:#00cc66; font-weight:bold; text-decoration:none;">💾 Proton Drive</a>
 </div>
-
-<h1>Boîte à outils Bitcoin</h1>
 
 <!-- Outil 1 : Temp-Mail -->
 <div class="card" id="outils">
@@ -139,6 +140,31 @@
 
   <p><a href="https://planb.academy/fr/tutorials/computer-security/authentication/proton-authenticator-047ca2eb-a922-4e0e-8f75-1b89d23951ae" target="_blank">Source : PlanB Academy 🔗</a></p>
   <p><a href="https://proton.me/fr/authenticator" target="_blank">Source officielle Proton Authenticator 🔗</a></p>
+</div>
+
+<!-- Outil 4 : Proton Drive -->
+<div class="card" id="protondrive">
+  <h2>Proton Drive</h2>
+
+  <h3>Avantages</h3>
+  <ul>
+    <li>Stockage cloud chiffré de bout en bout</li>
+    <li>Confidentialité et sécurité renforcées</li>
+    <li>Partage de fichiers sécurisé</li>
+    <li>Accès multi-appareils</li>
+    <li>Version gratuite disponible</li>
+  </ul>
+
+  <h3>Points clés</h3>
+  <ul>
+    <li>Permet de stocker et partager des fichiers de façon confidentielle.</li>
+    <li>Chiffrement de bout en bout pour garantir que seuls vous et vos destinataires peuvent lire vos fichiers.</li>
+    <li>Compatible web, mobile et desktop pour un accès facile.</li>
+    <li>Idéal pour sécuriser vos documents Bitcoin et crypto.</li>
+  </ul>
+
+  <p><a href="https://planb.academy/fr/tutorials/computer-security/data/proton-drive-03cbe49f-6ddc-491f-8786-bc20d98ebb16" target="_blank">Source : PlanB Academy 🔗</a></p>
+  <p><a href="https://proton.me/fr/drive" target="_blank">Source officielle Proton Drive 🔗</a></p>
 </div>
 
 </div>
