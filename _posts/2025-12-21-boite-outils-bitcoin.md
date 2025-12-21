@@ -65,7 +65,7 @@
   <a href="#protonmail" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔒 Proton Mail</a> | 
   <a href="#protonauthenticator" style="color:#00cc66; font-weight:bold; text-decoration:none;">🔑 Proton Authenticator</a> | 
   <a href="#protondrive" style="color:#00cc66; font-weight:bold; text-decoration:none;">💾 Proton Drive</a> | 
-  <a href="#protonwallet" style="color:#00cc66; font-weight:bold; text-decoration:none;">📧 Envoyer Bitcoin : Proton Wallet</a>
+  <a href="#protonwallet" style="color:#00cc66; font-weight:bold; text-decoration:none;">📧 Proton Wallet</a>
 </div>
 
 <!-- Outil 1 : Temp-Mail -->
