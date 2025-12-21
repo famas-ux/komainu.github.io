@@ -40,9 +40,9 @@ permalink: /about/
     </p>
 </div>
 
-# About
+# Certifications Obtenues Plan B Academy
 
-Page About de votre journal de bord.
+
 
 <style>
 /* Fond blanc pour la page */
