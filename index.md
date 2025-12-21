@@ -4,10 +4,6 @@ title: Journal de bord
 permalink: /
 ---
 
-<!-- Menu -->
-- [Home](/)
-- [About](/about/)
-- [Bull Wallet](/bull-wallet/)
 
 <!-- Pastille Komainu centrée -->
 <p style="text-align:center;">
