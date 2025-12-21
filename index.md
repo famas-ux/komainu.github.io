@@ -11,7 +11,7 @@ permalink: /
 
 <!-- Pastille Komainu centrée -->
 <p style="text-align:center;">
-  <img src="Komainu.PNG" alt="Komainu" style="width:120px;height:120px;border-radius:50%;border:2px solid #0f0;margin-bottom:20px;">
+  <img src="Komainu.PNG" alt="Komainu" style="width:150px;height:150px;border-radius:50%;border:3px solid #000;margin-bottom:20px;">
 </p>
 
 # Journal de bord
