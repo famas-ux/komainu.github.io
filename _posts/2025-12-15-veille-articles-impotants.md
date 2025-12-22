@@ -2,7 +2,7 @@
 layout: post
 title: "Veille Bitcoin France : les articles incontournables des leaders du secteur"
 permalink: /veille-bitcoin-france/
-date: 2025-12-20
+date: 2025-12-22
 categories: [bitcoin, veille, France]
 ---
 
@@ -82,6 +82,57 @@ categories: [bitcoin, veille, France]
 <div class="veille-date">Sélection de décembre 2025</div>
 
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
+
+<div class="article-card">
+  <div class="article-icon">🎙️</div>
+  <div class="article-content">
+    <a href="https://youtu.be/K4DgslxTPxo"
+       target="_blank" rel="noopener">
+      <h3>Tether : cheval de Troie de la finance ?</h3>
+      <p>
+        Discussion de fond sur Tether : origines, ethos, modèle économique
+        et implications géopolitiques des stablecoins, avec une question centrale
+        sur son rôle réel dans la finance contemporaine.
+      </p>
+    </a>
+
+    <p style="margin-top:8px; font-size:0.85em; color:#666;">
+      Source : <strong>X / YouTube / Podcasts</strong><br>
+      Auteurs : <strong>Ulrich Fromy &amp; Ludovic Lars</strong>
+    </p>
+
+    <ul style="margin-top:6px; font-size:0.85em; padding-left:16px;">
+      <li>
+        Tweet source :
+        <a href="https://x.com/ulrichfromy/status/2003002784568975869"
+           target="_blank" rel="noopener">
+          x.com/ulrichfromy
+        </a>
+      </li>
+      <li>
+        🎧 Apple Podcasts :
+        <a href="https://t.co/Tq4iY4ln6G"
+           target="_blank" rel="noopener">
+          Lien
+        </a>
+      </li>
+      <li>
+        🎙️ Spotify :
+        <a href="https://open.spotify.com/show/2cLFN8lpsWRleZzuXgecS2"
+           target="_blank" rel="noopener">
+          Lien
+        </a>
+      </li>
+      <li>
+        ⚡ Fountain :
+        <a href="https://fountain.fm/show/w4e7RaQlRH3Z79ZcPtvj"
+           target="_blank" rel="noopener">
+          Lien
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
 
 <div class="article-card">
   <div class="article-icon">🌍</div>
