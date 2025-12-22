@@ -37,7 +37,6 @@ permalink: /about/
         Vous pouvez également m’envoyer du Bitcoin :<br>
         • On-chain via Proton Mail : <strong>Satopolys@proton.me</strong><br>
         • Lightning : <strong>Komainu@blitzwalletapp.com</strong>
-        [Tips Page](https://pay.blitzwalletapp.com/komainu)
     </p>
 </div>
 
