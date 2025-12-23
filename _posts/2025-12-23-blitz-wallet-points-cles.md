@@ -6,27 +6,29 @@ categories: [bitcoin, wallet]
 ---
 
 <style>
-/* Style global du post pour fond blanc */
+/* Style global du post pour fond blanc et cohérence avec autres articles */
 body {
     background-color: #ffffff;
     color: #1c1c1e;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1.8;
 }
 
 h1, h2, h3 {
     color: #007733; /* vert foncé lisible sur blanc */
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 pre.ascii-art {
+    font-family: 'Courier New', Courier, monospace; /* monospace pour ASCII */
     background-color: #e0e0e0; /* gris clair pour contraste */
     color: #007733; /* vert foncé */
     padding: 15px;
-    border-radius: 0; /* style carte : pas de bordure */
+    border-radius: 0; /* style carte */
     font-size: 14px;
     overflow-x: auto;
     line-height: 1.2;
-    white-space: pre; /* respecte alignement ASCII */
+    white-space: pre;
     text-align: left;
 }
 
@@ -41,12 +43,17 @@ a:hover {
 
 section {
     margin-bottom: 25px;
-    padding: 15px 0; /* espacement type carte */
+    padding: 15px 0; /* style carte type espacé */
 }
 
 ul {
     margin-left: 20px;
     padding-left: 0;
+}
+
+.twitter-highlight {
+    padding: 15px 0;
+    text-align: center;
 }
 </style>
 
@@ -60,7 +67,6 @@ ul {
      |   🔒 Self-Custody                         |
      |   💸 Send / Receive                       |
      |   🎁 Blitz Gifts & Contacts               |
-     |   📲 Anonymous SMS                        |
      |   ⚡ eCash PoS                             |
      |__________________________________________|
 </pre>
@@ -105,20 +111,9 @@ ul {
 </section>
 
 <section>
-<h2>5. Anonymous SMS – envoyer Bitcoin par SMS</h2>
-<p>Envoyer des sats à un numéro de téléphone sans que le destinataire ait Blitz Wallet :</p>
-<ul>
-<li>Réception d’un SMS anonyme avec lien pour réclamer le Bitcoin</li>
-<li>Contrôle total du cadeau jusqu’à sa réclamation</li>
-<li>Idéal pour initier un proche à Bitcoin</li>
-</ul>
-<p>🔗 <a href="https://blitz-wallet.com/pages/blog/anonymous-sms-with-blitz/">Anonymous SMS</a></p>
-</section>
-
-<section>
-<h2>🎬 Blitz Gifts en action</h2>
-<p>Regarde la vidéo officielle Blitz Wallet de 15 secondes qui montre comment <strong>offrir des sats en un instant</strong> :</p>
-<div style="padding:15px 0; text-align:center;">
+<h2>5. Blitz Gifts en action – vidéo 15s</h2>
+<p>Regarde la vidéo officielle Blitz Wallet qui montre comment <strong>offrir des sats en un instant</strong> :</p>
+<div class="twitter-highlight">
 <blockquote class="twitter-video" data-lang="fr">
 <a href="https://x.com/BlitzWalletApp/status/2003118328152522966?s=46">Voir la vidéo Blitz Gifts sur Twitter</a>
 </blockquote>
@@ -155,7 +150,6 @@ ul {
 <li>Wallet self-custodial</li>
 <li>Paiements simples via contacts et LNURL</li>
 <li>Blitz Gifts et envoi direct aux contacts</li>
-<li>Anonymous SMS pour initier sans friction</li>
 <li>eCash PoS pour commerçants</li>
 <li>Usage réel & adoption simplifiée</li>
 </ul>
@@ -168,7 +162,6 @@ ul {
 <li>🔗 <a href="https://blitz-wallet.com/pages/blog/introducing-blitz-wallet/">Intro Blog</a></li>
 <li>🔗 <a href="https://blitz-wallet.com/pages/blog/blitz-gifts/">Blitz Gifts</a></li>
 <li>🔗 <a href="https://blitz-wallet.com/pages/blog/send-gifts-to-contacts/">Send Gifts to Contacts</a></li>
-<li>🔗 <a href="https://blitz-wallet.com/pages/blog/anonymous-sms-with-blitz/">Anonymous SMS</a></li>
 <li>🔗 <a href="https://blitz-wallet.com/pages/blog/ecash-pos/">eCash PoS</a></li>
 <li>🔗 <a href="https://x.com/BlitzWalletApp/status/2003252767377564125">Tweet officiel</a></li>
 <li>🔗 <a href="https://blitz-wallet.com/pages/about/">About</a></li>
