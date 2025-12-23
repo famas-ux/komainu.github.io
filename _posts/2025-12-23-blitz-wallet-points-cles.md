@@ -15,20 +15,23 @@ body {
 }
 
 h1, h2, h3 {
-    color: #00aa33; /* vert fluo / sombre pour fond blanc */
+    color: #007733; /* vert foncé lisible sur blanc */
 }
 
 pre.ascii-art {
-    background-color: #f0f0f0;
-    color: #00aa33;
+    background-color: #e0e0e0; /* gris clair pour contraste */
+    color: #007733; /* vert foncé */
     padding: 15px;
-    border-radius: 8px;
-    overflow-x: auto;
+    border-radius: 0; /* style carte : pas de bordure */
     font-size: 14px;
+    overflow-x: auto;
+    line-height: 1.2;
+    white-space: pre; /* respecte alignement ASCII */
+    text-align: left;
 }
 
 a {
-    color: #00aa33;
+    color: #007733;
     text-decoration: none;
 }
 
@@ -38,17 +41,12 @@ a:hover {
 
 section {
     margin-bottom: 25px;
+    padding: 15px 0; /* espacement type carte */
 }
 
 ul {
     margin-left: 20px;
-}
-
-.twitter-highlight {
-    background-color: #f0f0f0;
-    padding: 15px;
-    border-radius: 8px;
-    text-align: center;
+    padding-left: 0;
 }
 </style>
 
@@ -87,10 +85,10 @@ ul {
 <h2>3. Blitz Gifts – offrir du Bitcoin</h2>
 <p>Fonctionnalité pour offrir des sats simplement :</p>
 <ul>
-<li>Choix du montant et message optionnel.</li>
-<li>Génération d’un lien ou QR code.</li>
-<li>Le destinataire réclame directement le cadeau.</li>
-<li>Les cadeaux non réclamés sont récupérables par l’expéditeur.</li>
+<li>Choix du montant et message optionnel</li>
+<li>Génération d’un lien ou QR code</li>
+<li>Le destinataire réclame directement le cadeau</li>
+<li>Les cadeaux non réclamés sont récupérables par l’expéditeur</li>
 </ul>
 <p>🔗 <a href="https://blitz-wallet.com/pages/blog/blitz-gifts/">Blitz Gifts</a></p>
 </section>
@@ -120,7 +118,7 @@ ul {
 <section>
 <h2>🎬 Blitz Gifts en action</h2>
 <p>Regarde la vidéo officielle Blitz Wallet de 15 secondes qui montre comment <strong>offrir des sats en un instant</strong> :</p>
-<div class="twitter-highlight">
+<div style="padding:15px 0; text-align:center;">
 <blockquote class="twitter-video" data-lang="fr">
 <a href="https://x.com/BlitzWalletApp/status/2003118328152522966?s=46">Voir la vidéo Blitz Gifts sur Twitter</a>
 </blockquote>
