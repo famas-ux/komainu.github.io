@@ -6,11 +6,37 @@ date: 2025-11-30
 categories: [bitcoin, portefeuille, acheter, vendre]
 ---
 
+<style>
+/* Titres en vert foncé */
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.page-content h4 {
+    color: #0f5132;
+}
+
+/* Liens en orange, cliquables */
+.page-content a {
+    color: #d97706;
+    text-decoration: none;
+}
+.page-content a:hover {
+    text-decoration: underline;
+}
+
+/* Citations / encadrés */
+.page-content blockquote {
+    border-left: 4px solid #0f5132;
+    padding-left: 12px;
+    color: #333;
+}
+</style>
+
 # Fiche 1 — Obtenir un Portefeuille Bitcoin & un Point d’entrée / sortie  
 *Débutants*
 
 De nombreuses solutions existent.  
-Cette fiche se concentre volontairement sur **la solution la plus largement adoptée par le marché**.
+Cette fiche se concentre sur **la solution la plus largement adoptée par le marché**.
 
 ---
 
@@ -27,11 +53,11 @@ Votre parcours Bitcoin précisera progressivement vos besoins.
 
 ### Recommandation
 **Bull Bitcoin Wallet (mobile)**  
-https://wallet.bullbitcoin.com/fr
+🔗 [Portefeuille Bull Bitcoin](https://wallet.bullbitcoin.com/fr)
 
 ### Tutoriel officiel
 Guide complet de sécurisation et d’utilisation  
-https://planb.academy/fr/tutorials/wallet/mobile/bull-bitcoin-2c72127c-a228-4f50-b833-c6183d56aaf6
+🔗 [Tuto Plan B Academy](https://planb.academy/fr/tutorials/wallet/mobile/bull-bitcoin-2c72127c-a228-4f50-b833-c6183d56aaf6)
 
 ---
 
@@ -55,7 +81,7 @@ https://planb.academy/fr/tutorials/wallet/mobile/bull-bitcoin-2c72127c-a228-4f50
 ### 4. Utilisation
 - Interface épurée et pédagogique  
 - Suivi précis des transactions  
-- Comptes clairement séparés (on-chain / Lightning / Liquid)
+- Comptes séparés clairement (on-chain / Lightning / Liquid)
 
 ### 5. Compatibilité
 - iOS et Android  
@@ -78,10 +104,10 @@ https://planb.academy/fr/tutorials/wallet/mobile/bull-bitcoin-2c72127c-a228-4f50
 - Philosophie souveraine
 
 > **Résumé**  
-> Portefeuille sécurisé, non-custodial, compatible on-chain / Lightning / Liquid, avec une prise en main rapide grâce à une documentation pédagogique complète.
+> Portefeuille sécurisé, non-custodial, compatible on-chain / Lightning / Liquid, avec prise en main rapide grâce à une documentation pédagogique complète.
 
 Téléchargement :  
-https://app.bullbitcoin.com/registration/famas
+🔗 [App Bull Bitcoin](https://app.bullbitcoin.com/registration/famas)
 
 ---
 
@@ -147,19 +173,13 @@ https://app.bullbitcoin.com/registration/famas
 
 ## Synthèse
 
-Plateforme **100 % non dépositaire**, permettant l’achat et la vente de bitcoin de manière directe, transparente et souveraine, avec envoi immédiat vers votre portefeuille personnel et support complet des réseaux Bitcoin.
+Plateforme **100 % non dépositaire**, permettant l’achat et la vente de bitcoin de manière directe, transparente et souveraine, avec envoi immédiat vers votre portefeuille personnel et support complet des réseaux Bitcoin.
 
 ---
 
 ## Liens utiles
-- Application Bull Bitcoin  
-  https://app.bullbitcoin.com/registration/famas  
-- Tutoriel complet  
-  https://youtu.be/dJY_zyCV7HM  
-- Présentation Bull Bitcoin  
-  https://www.youtube.com/watch?v=khL6womqMY8  
-- Guide pas à pas  
-  https://www.youtube.com/watch?v=lMXWc46UVgE  
-- Achats automatiques (DCA)  
-  https://www.youtube.com/watch?v=X6g0hSB2Y6M
-
+- 🔗 [Application Bull Bitcoin](https://app.bullbitcoin.com/registration/famas)  
+- 🔗 [Tutoriel complet](https://youtu.be/dJY_zyCV7HM)  
+- 🔗 [Présentation Bull Bitcoin](https://www.youtube.com/watch?v=khL6womqMY8)  
+- 🔗 [Guide pas à pas](https://www.youtube.com/watch?v=lMXWc46UVgE)  
+- 🔗 [Achats automatiques (DCA)](https://www.youtube.com/watch?v=X6g0hSB2Y6M)
