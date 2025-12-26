@@ -80,6 +80,7 @@ categories: [bitcoin, outils]
   <a href="#protondrive">Proton Drive</a>
   <a href="#protonwallet">Proton Wallet</a>
   <a href="#aiscience">AI Science</a>
+  <a href="#privacyguides">Privacy Guides</a>
   <a href="#nostr">Nostr</a>
 </nav>
 
@@ -172,6 +173,17 @@ categories: [bitcoin, outils]
     </a><br>
     <em>Cité par Renaud Lifchitz</em>
   </p>
+</div>
+
+<div class="card" id="privacyguides">
+  <h2>Privacy Guides</h2>
+  <ul>
+    <li>Communauté collaborative de défense de la vie privée</li>
+    <li>Projet à but non lucratif géré par des bénévoles</li>
+    <li>Actualités et recommandations sur outils et services</li>
+    <li>Connaissances et guides de confidentialité et sécurité</li>
+  </ul>
+  <p><a href="https://www.privacyguides.org/fr/" target="_blank">Site officiel 🔗</a></p>
 </div>
 
 <div class="card" id="nostr">
