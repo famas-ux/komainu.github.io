@@ -1,728 +1,423 @@
 ---
-layout: post
-title: "Veille Bitcoin France : les articles incontournables"
-permalink: /veille-bitcoin-france/
+layout: page
+title: "Boîte à outils"
+permalink: /boite-outils-bitcoin/
 date: 2025-12-26
-categories: [bitcoin, veille, France]
+categories: [bitcoin, outils]
 ---
+
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Boîte à outils Bitcoin</title>
 
 <style>
   body {
-    font-family: Arial, sans-serif;
-    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #1c1c1e;
     margin: 0;
-    padding: 0;
+    padding: 20px 10px;
+    line-height: 1.8;
   }
-
-  .veille-header {
-    background-color: #FF6600;
-    color: white;
-    padding: 15px 20px;
-    border-radius: 10px 10px 0 0;
+  .container {
+    max-width: 700px;
+    margin: auto;
+  }
+  h1, h2 {
     text-align: center;
-    font-size: 1.3em;
+    color: #f7931a;
+  }
+  h3 {
+    color: #00a86b;
+    margin-top: 40px;
+    text-align: left;
+  }
+  nav {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  nav a {
+    margin: 0 8px;
+    color: #1d4ed8;
     font-weight: bold;
-  }
-
-  .veille-date {
-    text-align: center;
-    font-size: 0.9em;
-    color: #555;
-    margin-top: 5px;
-  }
-
-  .article-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
-    margin: 20px;
-  }
-
-  .article-card {
-    background: #fefefe;
-    border-left: 5px solid #FF6600;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    padding: 15px;
-    transition: transform 0.2s, box-shadow 0.2s;
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-  }
-
-  .article-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
-  }
-
-  .article-icon {
-    font-size: 2em;
-    color: #FF6600;
-  }
-
-  .article-content h3 {
-    margin: 0 0 5px 0;
-    font-size: 1.1em;
-    color: #222;
-  }
-
-  .article-content p {
-    margin: 0;
-    font-size: 0.9em;
-    color: #555;
-  }
-
-  .article-content a {
     text-decoration: none;
-    color: inherit;
+  }
+  nav a:hover {
+    text-decoration: underline;
+  }
+  .card {
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 25px 0;
+    border-left: 4px solid #00a86b;
+  }
+  .card h2 {
+    text-align: left;
+    color: #00a86b;
+    margin-top: 0;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  ul li {
+    margin-bottom: 8px;
+  }
+  a {
+    color: #d97706;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+  }
+  footer a {
+    margin: 0 8px;
+    color: #1d4ed8;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  footer a:hover {
+    text-decoration: underline;
   }
 </style>
+</head>
 
-<div class="veille-header">Veille Bitcoin France</div>
-<div class="veille-date">Sélection de décembre 2025</div>
+<body>
+<div class="container">
 
-<p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
+<h1>Boîte à outils Bitcoin</h1>
 
-<div class="article-card essentiel">
-  <div class="article-icon">💹</div>
-  <div class="article-content">
-    <a href="https://yakihonne.com/article/s/fancy-wallaby-90@rizful.com/xXnLVYHEBySqG9l99GpWh"
-       target="_blank" rel="noopener">
-      <h3>L’essor des ETF Bitcoin : commodité vs souveraineté</h3>
-      <p>
-        Les ETF Bitcoin facilitent l’accès financier mais réintroduisent médiation et délégation, contrastant avec la souveraineté directe offerte par le Bitcoin. L’enjeu dépasse la finance : il s’agit de liberté et de contrôle individuel sur la monnaie.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Yakihonne</strong> — Auteur : <strong>Nicolas Cantu</strong>
-      </p>
-    </a>
-  </div>
+<nav>
+  <a href="#security-privacy">Sécurité & Privacy</a>
+  <a href="#wallets">Wallets Bitcoin</a>
+  <a href="#decentralized-networks">Réseaux décentralisés</a>
+  <a href="#directories">Répertoires</a>
+  <a href="#tools">Outils techniques</a>
+  <a href="#network-data">Données réseau</a>
+  <a href="#analytics">Analyse & Dashboards</a>
+</nav>
+
+<!-- Sécurité & Privacy -->
+<h3 id="security-privacy">Sécurité & Privacy</h3>
+
+<div class="card" id="tempmail">
+  <h2>Temp-Mail</h2>
+  <ul>
+    <li>Email temporaire et anonyme</li>
+    <li>Réduction du spam</li>
+    <li>Inscription sans identité</li>
+    <li>Emails auto-destructibles</li>
+  </ul>
+  <p><a href="https://temp-mail.org/fr/" target="_blank">Site officiel 🔗</a></p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🔐</div>
-  <div class="article-content">
-    <a href="https://primal.net/Famas/34de7c53507fcc10" target="_blank" rel="noopener">
-      <h3>PearPass : gestionnaire de mots de passe open-source et privacy-first</h3>
-      <p>
-        PearPass stocke vos identifiants localement et synchronise vos données
-        directement entre vos appareils via P2P, sans serveur central. Multi-plateforme,
-        open-source et auditable, il offre un contrôle total sur vos données.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : info relayée par <strong>Renaud Lifchitz</strong> — Tuto : <strong>Famas</strong>
-      </p>
-    </a>
-  </div>
+<div class="card" id="protonmail">
+  <h2>Proton Mail</h2>
+  <ul>
+    <li>Chiffrement de bout en bout</li>
+    <li>Basé en Suisse</li>
+    <li>Aucune exploitation des données</li>
+    <li>Compatible PGP</li>
+  </ul>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/computer-security/communication/proton-mail-c3b010ce-254d-4546-b382-19ab9261c6a2" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/mail" target="_blank">Site officiel 🔗</a>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🎙️</div>
-  <div class="article-content">
-    <a href="https://youtu.be/K4DgslxTPxo"
-       target="_blank" rel="noopener">
-      <h3>Tether : cheval de Troie de la finance ?</h3>
-      <p>
-        Discussion de fond sur Tether : origines, ethos, modèle économique
-        et implications géopolitiques des stablecoins, avec une question centrale
-        sur son rôle réel dans la finance contemporaine.
-      </p>
-    </a>
-
-    <p style="margin-top:8px; font-size:0.85em; color:#666;">
-      Source : <strong>X / YouTube / Podcasts</strong><br>
-      Auteurs : <strong>Ulrich Fromy &amp; Ludovic Lars</strong>
-    </p>
-
-    <ul style="margin-top:6px; font-size:0.85em; padding-left:16px;">
-      <li>
-        Tweet source :
-        <a href="https://x.com/ulrichfromy/status/2003002784568975869"
-           target="_blank" rel="noopener">
-          x.com/ulrichfromy
-        </a>
-      </li>
-      <li>
-        🎧 Apple Podcasts :
-        <a href="https://t.co/Tq4iY4ln6G"
-           target="_blank" rel="noopener">
-          Lien
-        </a>
-      </li>
-      <li>
-        🎙️ Spotify :
-        <a href="https://open.spotify.com/show/2cLFN8lpsWRleZzuXgecS2"
-           target="_blank" rel="noopener">
-          Lien
-        </a>
-      </li>
-      <li>
-        ⚡ Fountain :
-        <a href="https://fountain.fm/show/w4e7RaQlRH3Z79ZcPtvj"
-           target="_blank" rel="noopener">
-          Lien
-        </a>
-      </li>
-    </ul>
-  </div>
+<div class="card" id="protonauth">
+  <h2>Proton Authenticator</h2>
+  <ul>
+    <li>2FA hors ligne</li>
+    <li>Standard TOTP</li>
+    <li>Renforce la sécurité des comptes</li>
+    <li>Gratuit</li>
+  </ul>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/computer-security/authentication/proton-authenticator-047ca2eb-a922-4e0e-8f75-1b89d23951ae" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/authenticator" target="_blank">Site officiel 🔗</a>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🌍</div>
-  <div class="article-content">
-    <a href="https://primal.net/e/nevent1qqs9u8dl8ukc8m08k5me42nyv3f0jeax85d6a5zmn5y6z8vhthp6rkgm8xyqc"
-       target="_blank" rel="noopener">
-      <h3>Là où Bitcoin devient un ascenseur social</h3>
-      <p>
-        Au Mali, un artisan de bogolan et de tissus 100&nbsp;% faits main
-        vend désormais ses créations à l’international grâce à
-        <strong>Nostr</strong> et <strong>Bitcoin</strong>.
-        Un exemple concret d’émancipation économique, sans intermédiaire,
-        reliant artisanat local et marché mondial.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Nostr / Primal</strong> — Auteur : <strong>@diawara</strong>
-      </p>
-    </a>
-    <p style="margin-top:6px; font-size:0.85em;">
-      🔗 Projet : <a href="https://diawara.univer.se/" target="_blank" rel="noopener">diawara.univer.se</a>
-    </p>
-  </div>
+<div class="card" id="protondrive">
+  <h2>Proton Drive</h2>
+  <ul>
+    <li>Stockage chiffré de bout en bout</li>
+    <li>Respect de la vie privée</li>
+    <li>Alternative à Google Drive</li>
+    <li>Basé en Suisse</li>
+  </ul>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/computer-security/data/proton-drive-03cbe49f-6ddc-491f-8786-bc20d98ebb16" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/drive" target="_blank">Site officiel 🔗</a>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🧠</div>
-  <div class="article-content">
-    <a href="https://primal.net/e/nevent1qqs8mptdjxq90lnws94g4u248em7skgdtpy4mun0s2pkn2axtx2hd7sdgdltl"
-       target="_blank" rel="noopener">
-      <h3>Pourquoi le calcul quantique est inadapté au minage Bitcoin</h3>
-      <p>
-        Nicolas Cantu montre que le « quantum mining » est un mirage :
-        l’algorithme de Grover n’offre qu’un gain quadratique insuffisant,
-        les contraintes matérielles et énergétiques sont rédhibitoires,
-        et l’ajustement de difficulté de Bitcoin neutralise tout avantage
-        théorique.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Nostr / Primal</strong> — Auteur : <strong>Nicolas Cantu</strong>
-      </p>
-    </a>
-  </div>
+<div class="card" id="privacyguides">
+  <h2>Privacy Guides</h2>
+  <ul>
+    <li>Communauté collaborative de défense de la vie privée</li>
+    <li>Projet à but non lucratif géré par des bénévoles</li>
+    <li>Actualités et recommandations sur outils et services</li>
+    <li>Connaissances et guides de confidentialité et sécurité</li>
+  </ul>
+  <p><a href="https://www.privacyguides.org/fr/" target="_blank">Site officiel 🔗</a></p>
 </div>
 
-<div class="article-card high-level">
-  <div class="article-icon">🔐</div>
-  <div class="article-content">
-    <a href="https://primal.net/e/nevent1qqs0mmn6hf0zjmy2vkyqhtm9f8rzjnasgg7reet8gmks045k9ddzs7cghqlae"
-       target="_blank" rel="noopener">
-      <h3>Adresse Bitcoin : ce qu’elle révèle avant et après une dépense</h3>
-      <p>
-        Nicolas Cantu explique pourquoi la réutilisation d’une adresse Bitcoin
-        n’est pas seulement un problème de confidentialité, mais un risque
-        cryptographique réel. Une fois un UTXO dépensé, la clé publique est
-        révélée on-chain (P2PKH, SegWit, Taproot). Réutiliser la même clé
-        multiplie les signatures, accroît la surface d’attaque en cas de défaut
-        de nonce, de faille matérielle ou d’évolution de la cryptanalyse, et
-        concentre le risque sur tous les fonds associés.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Nostr / Primal</strong> — Auteur : <strong>Nicolas Cantu</strong>
-      </p>
-    </a>
-  </div>
+<!-- Wallets Bitcoin -->
+<h3 id="wallets">Wallets Bitcoin</h3>
+
+<div class="card" id="protonwallet">
+  <h2>Proton Wallet</h2>
+  <ul>
+    <li>Envoi de bitcoin via email</li>
+    <li>Intégré à l’écosystème Proton</li>
+    <li>Interface simple</li>
+    <li>Idéal pour débutants</li>
+  </ul>
+  <p>
+    <a href="https://planb.academy/fr/tutorials/wallet/desktop/proton-wallet-0bee0bba-ab62-4db0-8c63-b2ad698ca178" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://proton.me/fr/wallet" target="_blank">Site officiel 🔗</a>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🧠</div>
-  <div class="article-content">
-    <a href="https://yakihonne.com/note/nevent1qqswa0rl7rgksjp03x6zjqnahtfrgenpesmtx7e7fewk3vrkm7j4hgcpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3q8s03s39fa80ce2n3cmm0zme3jqehc82h6ld9sxq03uejqm3d05gsxpqqqqqqzyjjffw" target="_blank" rel="noopener">
-      <h3>Bitcoin : réflexion stratégique de long terme</h3>
-      <p>
-        Analyse approfondie des enjeux monétaires, économiques et politiques de Bitcoin,
-        présenté comme une infrastructure de souveraineté et de transformation systémique,
-        au-delà de sa seule dimension financière.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Yakihonne (Nostr)</strong> — relayé par <strong>Nicolas Cantu</strong>.
-      </p>
-    </a>
-  </div>
+<div class="card" id="bullwallet">
+  <h2>Bull Wallet / Bull Échanges</h2>
+  <ul>
+    <li>Wallet Bitcoin sécurisé et non-custodial</li>
+    <li>Plateforme d’échanges intégrée</li>
+    <li>Compatible Lightning pour paiements rapides</li>
+    <li>Interface simple et intuitive pour tous niveaux</li>
+  </ul>
+  <p>
+    <a href="https://famas-ux.github.io/komainu.github.io/bull-wallet/" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Famas — Bull Wallet</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">📘</div>
-  <div class="article-content">
-    <a href="https://editions.institutcoppet.org/produit/benoit-malbranque-le-marquis-de-mirabeau/" target="_blank" rel="noopener">
-      <h3>Benoît Malbranque — Le marquis de Mirabeau (1715–1789)</h3>
-      <p>
-        Éclipsé par Quesnay et par son fils révolutionnaire, le marquis de Mirabeau
-        demeure pourtant une figure cardinale de la pensée économique française.
-        Cet ouvrage met en lumière un libéralisme structuré autour de la propriété,
-        de l’ordre naturel et du laissez-faire, au cœur de la doctrine physiocratique.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Institut Coppet</strong> — Benoît Malbranque, décembre 2025.
-        PDF disponible gratuitement.
-      </p>
-    </a>
-  </div>
+<div class="card" id="blitzwallet">
+  <h2>Blitz Wallet</h2>
+  <ul>
+    <li>Wallet Bitcoin non-custodial</li>
+    <li>Lightning natif pour paiements rapides</li>
+    <li>Orienté privacy et sécurité</li>
+    <li>Interface simple et intuitive</li>
+  </ul>
+  <p>
+    <a href="https://famas-ux.github.io/komainu.github.io/bitcoin/wallet/2025/12/23/blitz-wallet-points-cles.html" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Famas — « Blitz Wallet : points clés »</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🚨</div>
-  <div class="article-content">
-    <a href="https://bonjourlafuite.org" target="_blank" rel="noopener">
-      <h3>2025 : l’année où toutes nos données ont fuité</h3>
-      <p>
-        Santé, administrations, banques, télécoms, e-commerce, réseaux sociaux :
-        l’année 2025 a été marquée par une succession inédite de fuites de données,
-        touchant des dizaines de millions de Français. Identités, NIR, IBAN,
-        données médicales et historiques de paiement ont été exposés à grande échelle.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>BonjourLaFuite.org</strong> — compilation publiée le 19/12/2025.
-      </p>
+<!-- Réseaux décentralisés -->
+<h3 id="decentralized-networks">Réseaux décentralisés</h3>
+
+<div class="card" id="nostr">
+  <h2>Nostr – Réseau social décentralisé</h2>
+  <ul>
+    <li>Protocole ouvert et sans autorité centrale</li>
+    <li>Résistant à la censure</li>
+    <li>Identité basée sur des clés cryptographiques</li>
+    <li>Interopérable entre clients</li>
+    <li>Alternative à Twitter et Telegram</li>
+  </ul>
+  <p>
+    <a href="https://speakerdeck.com/rlifchitz/nostr-reseau-social-et-espace-de-liberte-decentralise" target="_blank">
+      Présentation – Renaud Lifchitz 🔗
+    </a><br>
+    <a href="https://planb.academy/fr/tutorials/node/others/nostr-f6d21a64-9b04-4f21-ba1c-02c98cc91f98" target="_blank">
+      Source PlanB Academy 🔗
+    </a><br>
+    <a href="https://nostr.fr/" target="_blank">
+      Site francophone 🔗
     </a>
-  </div>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">📉</div>
-  <div class="article-content">
-    <a href="https://cryptoast.fr/3482-milliards-euros-dette-publique-france-atteint-nouveau-record/" target="_blank" rel="noopener">
-      <h3>3 482 milliards d’euros : la dette publique française bat un nouveau record</h3>
-      <p>
-        La dette publique de la France atteint un sommet historique à
-        <strong>3 482 milliards d’euros</strong>. Une trajectoire qui met en lumière
-        les limites du modèle budgétaire actuel et les déséquilibres structurels
-        liés au financement par la dette.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Cryptoast</strong>.
-      </p>
-    </a>
-  </div>
+<!-- Répertoires -->
+<h3 id="directories">Répertoires</h3>
+
+<div class="card" id="btcdir">
+  <h2>BTC Directory</h2>
+  <ul>
+    <li>Annuaire de sites et services Bitcoin</li>
+    <li>Navigation par catégorie</li>
+    <li>Ressources francophones et internationales</li>
+  </ul>
+  <p><a href="https://btcdir.org/" target="_blank">Accéder 🔗</a></p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🌍</div>
-  <div class="article-content">
-    <a href="https://x.com/sqywallet/status/2001268001836818544?s=46" target="_blank" rel="noopener">
-      <h3>Sommet Francophone de Bitcoin : unir les voix Bitcoin en français</h3>
-      <p>
-        Initiative visant à rassembler la francophonie Bitcoin autour d’un sommet en ligne
-        (20–21 février), pour connecter communautés, éducateurs et entrepreneurs, partager
-        les réalités locales et construire des ponts autour d’un protocole commun.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>@sqywallet</strong> (X).  
-        Vidéo YouTube : Sommet Francophone de Bitcoin.
-      </p>
-    </a>
-  </div>
+<div class="card" id="bitzy">
+  <h2>Bitzy</h2>
+  <ul>
+    <li>Annuaire de sites Bitcoin et crypto</li>
+    <li>Classement et recherches rapides</li>
+    <li>Ressources mises à jour</li>
+  </ul>
+  <p><a href="https://www.bitzy.com/" target="_blank">Accéder 🔗</a></p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">📄</div>
-  <div class="article-content">
-    <a href="https://open.substack.com/pub/ufromy/p/liberalisme-et-conservatisme-alliance?r=6vavc9&utm_medium=ios&shareImageVariant=overlay" target="_blank" rel="noopener">
-      <h3>Libéralisme et conservatisme : alliance ou contradiction ?</h3>
-      <p>
-        Ulrich Fromy analyse les rapports complexes entre libéralisme et conservatisme,
-        souvent présentés comme opposés. L’article interroge leurs convergences possibles,
-        leurs tensions philosophiques et les conditions d’une alliance cohérente face
-        à l’étatisme et au collectivisme.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Ulrich Fromy</strong> — Substack.
-      </p>
-    </a>
-  </div>
+<!-- Outils techniques -->
+<h3 id="tools">Outils techniques</h3>
+
+<div class="card" id="json2map">
+  <h2>json2map.com — Visualisation JSON</h2>
+  <ul>
+    <li>Transforme n’importe quel JSON en carte visuelle arborescente</li>
+    <li>Pratique pour explorer des réponses d’API Bitcoin ou dumps de blocs/transactions</li>
+    <li>Débogage rapide des structures JSON complexes</li>
+    <li>Vue claire et intuitive pour développeurs et débutants</li>
+  </ul>
+  <p>
+    <a href="https://www.json2map.com/" target="_blank">Accéder à json2map.com 🔗</a>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">♻️</div>
-  <div class="article-content">
-    <a href="https://x.com/nicolascantubk/status/2001775703864578284" target="_blank" rel="noopener">
-      <h3>Présentation de 4NK Waste & Water — Recyclage et innovation</h3>
-      <p>
-        4NK Waste & Water propose des solutions innovantes pour le recyclage des déchets
-        et la gestion durable de l’eau. Une approche combinant efficacité industrielle
-        et conscience environnementale.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>@nicolascantubk / 4NK</strong> — X/Twitter.
-      </p>
-    </a>
-  </div>
+<div class="card" id="omnitools">
+  <h2>OmniTools — Boostez votre productivité</h2>
+  <p>Faites avancer les choses rapidement avec OmniTools, la boîte à outils ultime pour accélérer vos tâches ! Accédez à des milliers d'utilitaires conviviaux pour modifier des images, du texte, des listes et des données, directement depuis votre navigateur.</p>
+  <ul>
+    <li>Créer une image transparente</li>
+    <li>Embellir JSON</li>
+    <li>Modifier la vitesse du GIF</li>
+    <li>Trier une liste</li>
+    <li>Compresser PNG</li>
+    <li>Diviser un texte</li>
+    <li>Diviser le PDF</li>
+    <li>Découper la vidéo</li>
+    <li>Calculer la somme des nombres</li>
+  </ul>
+  <p>
+    <a href="https://omnitools.app/" target="_blank">Accéder à OmniTools 🔗</a><br>
+    <em>Cité par Renaud Lifchitz</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">📰</div>
-  <div class="article-content">
-    <a href="https://www.leparisien.fr/faits-divers/un-investisseur-en-cryptomonnaie-et-sa-compagne-sequestres-a-leur-domicile-de-la-rochelle-des-virements-effectues-par-les-ravisseurs-18-12-2025-KN6YFKOQ2NCCPEGXLZP2ZTYX4A.php" target="_blank" rel="noopener">
-      <h3>Un investisseur crypto séquestré à La Rochelle</h3>
-      <p>
-        Un investisseur en cryptomonnaies et sa compagne ont été séquestrés à leur domicile à La Rochelle.
-        Les ravisseurs ont contraint la victime à effectuer des virements avant de prendre la fuite.
-        L’enquête est en cours.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>Le Parisien</strong> — Faits divers.
-      </p>
-    </a>
-  </div>
+<div class="card" id="aiscience">
+  <h2>Awesome AI for Science</h2>
+  <ul>
+    <li>Répertoire IA pour la recherche</li>
+    <li>Outils open source</li>
+    <li>Veille scientifique structurée</li>
+    <li>Multi-disciplines</li>
+  </ul>
+  <p>
+    <a href="https://zdoc.app/en/ai-boost/awesome-ai-for-science" target="_blank">
+      Source 🔗
+    </a><br>
+    <em>Cité par Renaud Lifchitz</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🎙️</div>
-  <div class="article-content">
-    <a href="https://www.youtube.com/live/YB6kbHDZHHM?si=UJBpk94E0MUWpp5s" target="_blank" rel="noopener">
-      <h3>Économie autrichienne, État et Bitcoin — échange chez GRM</h3>
-      <p>
-        Échange autour de l’économie autrichienne (Mises, Bastiat), de la crise du modèle étatique,
-        de l’interventionnisme et de Bitcoin comme outil d’émancipation monétaire,
-        sur fond de géopolitique et de fuite des talents.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Invité : <strong>Ulrich Fromy</strong>.  
-        Source : émission GRM (YouTube).
-      </p>
-    </a>
-  </div>
+<!-- Données réseau -->
+<h3 id="network-data">Données réseau</h3>
+
+<div class="card" id="mempool">
+  <h2>Mempool.space</h2>
+  <ul>
+    <li>Explorateur Bitcoin et mempool open source</li>
+    <li>Visualisation temps réel des blocs</li>
+    <li>Estimations fiables des frais</li>
+    <li>Vues Lightning Network et Liquid</li>
+  </ul>
+  <p>
+    <a href="https://mempool.space/fr/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : mempool.space</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🌍</div>
-  <div class="article-content">
-    <a href="https://www.bfmtv.com/crypto/bitcoin/le-bhoutan-va-utiliser-10-000-bitcoins-d-une-valeur-d-un-milliard-de-dollars-soit-la-quasi-totalite-de-sa-reserve-pour-financer-une-zone-economique-attractive-pour-les-jeunes-qui-s-exilent-en-masse_AD-202512170395.html" target="_blank" rel="noopener">
-      <h3>Le Bhoutan mise 10 000 Bitcoin pour dynamiser l’économie</h3>
-      <p>
-        Le Bhoutan prévoit d’utiliser 10 000 bitcoins, représentant presque l’intégralité de sa réserve,
-        pour financer une zone économique destinée à attirer les jeunes et freiner l’exode.
-        Une initiative ambitieuse pour transformer les actifs numériques en levier économique réel.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Par <strong>BFMTV</strong> — Article publié le 17 décembre 2025.  
-        Source : <a href="https://www.bfmtv.com/crypto/" target="_blank" rel="noopener">BFMTV Crypto</a>.
-      </p>
-    </a>
-  </div>
+<div class="card" id="timechaincalendar">
+  <h2>Timechain Calendar</h2>
+  <ul>
+    <li>Données réseau Bitcoin en temps réel</li>
+    <li>Suivi blocs, difficulté, hashrate, récompense</li>
+    <li>Prévisions de halving</li>
+    <li>Dimension artistique et culturelle de Bitcoin</li>
+  </ul>
+  <p>
+    <a href="https://timechaincalendar.com/en" target="_blank">Accéder 🔗</a><br>
+    <em>Source : timechaincalendar.com</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🎥</div>
-  <div class="article-content">
-    <a href="https://x.com/cxr2026/status/2001602480992375108?s=46" target="_blank" rel="noopener">
-      <h3>Pourquoi Bitcoin redéfinit la monnaie et la souveraineté</h3>
-      <p>
-        Bitcoin s’impose comme une rupture monétaire majeure face aux systèmes financiers centralisés.
-        Cet éclairage met en évidence le rôle de la monnaie dans l’organisation économique et politique,
-        et pourquoi sa compréhension est devenue un enjeu central à l’ère de l’inflation et de la dette.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Par <strong>@cxr2026</strong> — CryptoXR, Auxerre 2026.  
-        Contenu vidéo associé :
-        <a href="https://youtu.be/FpZqChZz_V8" target="_blank" rel="noopener">YouTube</a>.
-      </p>
-    </a>
-  </div>
+<!-- Analyse & Dashboards -->
+<h3 id="analytics">Analyse & Dashboards</h3>
+
+<div class="card" id="clarkmoody">
+  <h2>Clark Moody Dashboard</h2>
+  <ul>
+    <li>Vue globale et temps réel de Bitcoin</li>
+    <li>Métriques sécurité, UTXO, frais</li>
+    <li>Analyses Lightning Network</li>
+    <li>Outil de monitoring et d’éducation</li>
+  </ul>
+  <p>
+    <a href="https://dashboard.clarkmoody.com/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : dashboard.clarkmoody.com</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🧵</div>
-  <div class="article-content">
-    <a href="https://x.com/omnifinn/status/2000989038354874664?s=46" target="_blank" rel="noopener">
-      <h3>Bitcoin : une révolution monétaire en cours — Konsensus Network</h3>
-      <p>
-        Thread publié par <strong>@omnifinn</strong> (Konsensus Network) expliquant
-        pourquoi Bitcoin ne peut pas être réduit à une simple bulle spéculative.
-        Il s’agit avant tout d’une transformation monétaire profonde :
-        une monnaie rare, neutre et résistante à la censure.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        L’analyse met en avant l’adoption progressive du réseau Bitcoin,
-        les cycles de prix liés à cette adoption et le rôle fondamental de Bitcoin
-        face à la dégradation structurelle des monnaies fiat.
-      </p>
-    </a>
-  </div>
+<div class="card" id="wickedbitcoin">
+  <h2>Wicked Smart Bitcoin</h2>
+  <ul>
+    <li>Visualisations avancées de données Bitcoin</li>
+    <li>Approche standard Bitcoin (self-custody, UTXO)</li>
+    <li>Prix exprimés en bitcoin</li>
+    <li>Analyse technique et philosophique</li>
+  </ul>
+  <p>
+    <a href="https://wickedsmartbitcoin.com/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : wickedsmartbitcoin.com</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">📈</div>
-  <div class="article-content">
-    <a href="https://whydopricesrise.com/" target="_blank" rel="noopener">
-      <h3>Pourquoi les prix augmentent-ils ? — Comprendre le coût de la vie</h3>
-      <p>
-        Parcours guidé pour comprendre les forces qui façonnent le coût de la vie.
-        Pourquoi les prix continuent-ils d’augmenter alors même que la technologie progresse
-        et que la productivité s’améliore ?
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Ressource pédagogique expliquant les mécanismes monétaires et économiques
-        à l’origine de l’inflation. Référence et diffusion en France notamment par
-        <strong>Renaud Lifchitz</strong>.
-      </p>
-    </a>
-  </div>
+<div class="card" id="bitbo">
+  <h2>bitbo.io</h2>
+  <ul>
+    <li>Dashboard Bitcoin temps réel</li>
+    <li>Données réseau et mining</li>
+    <li>Visualisations claires et pédagogiques</li>
+    <li>Accès direct sans inscription</li>
+  </ul>
+  <p>
+    <a href="https://bitbo.io/?standalone=true" target="_blank">Accéder 🔗</a><br>
+    <em>Source : bitbo.io</em>
+  </p>
 </div>
 
-<div class="article-card">
-  <div class="article-icon">🤝</div>
-  <div class="article-content">
-    <a href="https://x.com/peachbitcoin/status/1996197174439272500?s=46" target="_blank" rel="noopener">
-      <h3>Peach Bitcoin cherche des utilisateurs et partenaires en France</h3>
-      <p>
-        Peach Bitcoin lance un appel pour développer l’adoption de Bitcoin en France.
-        La plateforme peer-to-peer souhaite recueillir des retours, identifier des utilisateurs
-        actifs et renforcer sa présence locale afin de proposer une alternative simple
-        et non-custodiale pour acheter et vendre des bitcoins.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Participation et retours via le formulaire officiel :
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScLM5N7nyZpZSRyVwJvdEzBcHE0SuMl1wgPs32xyX_uxJKfTQ/viewform"
-           target="_blank" rel="noopener">questionnaire Peach Bitcoin</a>.
-      </p>
-    </a>
-  </div>
 </div>
 
-  <div class="article-card">
-    <div class="article-icon">🎓</div>
-    <div class="article-content">
-      <a href="https://youtu.be/8WSOKKb7xgA" target="_blank" rel="noopener">
-        <h3>Live – Ludwig von Mises : vie, œuvre et pensée</h3>
-        <p>
-          Plongée dans l’œuvre de Ludwig von Mises, figure majeure de l’école autrichienne,
-          avec Benoît Malbranque (Institut Coppet), Damien Theillier et Leonardo de Vio.
-        </p>
-        <p style="margin-top:8px; font-size:0.85em; color:#666;">
-          Épisode disponible en vidéo sur YouTube et en podcast :
-          <a href="https://open.spotify.com/show/2cLFN8lpsWRleZzuXgecS2" target="_blank" rel="noopener">Spotify</a>,
-          <a href="https://fountain.fm/show/w4e7RaQlRH3Z79ZcPtvj" target="_blank" rel="noopener">Fountain</a>,
-          <a href="https://podcasts.apple.com/fr/podcast/ulrich-caf%C3%A9-viennois/id1779288798" target="_blank" rel="noopener">Apple Podcasts</a>.
-          Analyse écrite complémentaire sur
-          <a href="https://open.substack.com/pub/ufromy/p/ludwig-von-mises-vie-uvre-et-pensee?r=6vavc9&utm_medium=ios" target="_blank" rel="noopener">Substack</a>.
-        </p>
-      </a>
-    </div>
-  </div>
+<!-- Footer -->
+<footer>
+  <a href="#security-privacy">Sécurité & Privacy</a>
+  <a href="#wallets">Wallets Bitcoin</a>
+  <a href="#decentralized-networks">Réseaux décentralisés</a>
+  <a href="#directories">Répertoires</a>
+  <a href="#tools">Outils techniques</a>
+  <a href="#network-data">Données réseau</a>
+  <a href="#analytics">Analyse & Dashboards</a>
+</footer>
 
-<div class="article-grid">
-  <div class="article-card">
-    <div class="article-icon">📰</div>
-    <div class="article-content">
-      <a href="https://viresinnumeris.fr/tether-cheval-de-troie-asservissement-financier/" target="_blank" rel="noopener">
-        <h3>Tether : cheval de Troie de l’asservissement financier – Vires in Numeris</h3>
-        <p>Analyse détaillée du rôle de Tether dans le système financier et les risques associés à son utilisation.</p>
-      </a>
-    </div>
-  </div>
-
-  <div class="article-card">
-    <div class="article-icon">🌐</div>
-    <div class="article-content">
-      <a href="https://cryptoxr.fr/" target="_blank" rel="noopener">
-        <h3>CryptoXR – Actualités et analyses</h3>
-        <p>Suivez les publications de CryptoXR sur <a href="https://x.com/cxr2026?s=21" target="_blank" rel="noopener">X / Twitter</a> et les threads 
-        <a href="https://x.com/cxr2026/status/1971155782373868023?s=46" target="_blank" rel="noopener">#1</a>, 
-        <a href="https://x.com/cxr2026/status/2000202239357370770?s=46" target="_blank" rel="noopener">#2</a> pour analyses et tendances Bitcoin en France.</p>
-      </a>
-    </div>
-  </div>
-
-  <div class="article-card">
-    <div class="article-icon">🌱</div>
-    <div class="article-content">
-      <a href="https://youtu.be/QVaSTsK5GmU" target="_blank" rel="noopener">
-        <h3>Bitcoin, décroissance et écologie – Conversation avec Alexandre Stachtchenko</h3>
-        <p>
-          Discussion approfondie avec HowToBitcoin sur les ponts possibles entre Bitcoin,
-          la décroissance, la question écologique et le positionnement de la gauche.
-        </p>
-        <p style="margin-top:8px; font-size:0.85em; color:#666;">
-          <strong>Commentaire – Ulrich Fromy :</strong><br>
-          La décroissance collective est une chimère impliquant centralisation et coercition.
-          Seule l’action humaine orientée vers l’avenir permet le progrès.
-          Un reset monétaire rétablissant des prix libres est la condition d’un calcul économique sain,
-          intrinsèquement écologique, car il sanctionne le gaspillage.
-          Le libéralisme n’a jamais été pleinement expérimenté, faute de liberté monétaire.
-          La finitude des ressources est un faux problème : l’ingéniosité humaine, l’entrepreneuriat
-          et la connaissance ne sont pas modélisables.
-          Enfin, l’alarmisme écologique relève d’une stratégie politique assumée,
-          héritée notamment de Hans Jonas.
-        </p>
-      </a>
-    </div>
-  </div>
-
-  <div class="article-card">
-    <div class="article-icon">⚠️</div>
-    <div class="article-content">
-      <a href="https://bitcoin.fr/un-amendement-pour-vous-forcer-a-declarer-vos-bitcoins/" target="_blank" rel="noopener">
-        <h3>Un amendement pour vous forcer à déclarer vos bitcoins – bitcoin.fr</h3>
-        <p>Décryptage d’un projet d’amendement et de ses implications directes sur la détention et la déclaration de Bitcoin en France.</p>
-      </a>
-    </div>
-  </div>
-
- <div class="article-card">
-    <div class="article-icon">🎓</div>
-    <div class="article-content">
-      <a href="https://youtu.be/QYqX-VoMxiE" target="_blank" rel="noopener">
-        <h3>La meilleure explication du Système Monétaire International (30 min) – Lyn Alden</h3>
-        <p>
-          Présentation pédagogique par <strong>Lyn Alden</strong>, relayée par
-          <em>HowToBitcoin</em>, pour comprendre les mécanismes du système monétaire mondial
-          et les raisons d’être de Bitcoin.
-        </p>
-      </a>
-    </div>
-  </div>
-
-  <div class="article-card">
-    <div class="article-icon">🎥</div>
-    <div class="article-content">
-      <a href="https://youtu.be/5AvE_5TICVU" target="_blank" rel="noopener">
-        <h3>La vidéo #Bitcoin de la semaine – De l'Open Source à Bitcoin Core (Antoine Poinsot)</h3>
-        <p>
-          Décryptage vidéo sur l’évolution de Bitcoin Core et son lien avec les principes Open Source,
-          présenté par Antoine Poinsot. Une ressource essentielle pour comprendre le développement technique
-          et communautaire du protocole Bitcoin.
-        </p>
-      </a>
-    </div>
-  </div>
-
-  <div class="article-card">
-    <div class="article-icon">📊</div>
-    <div class="article-content">
-      <a href="https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe" target="_blank" rel="noopener">
-        <h3>Bitcoin où on en est le 28/11/2025 – Nicolas Cantu (LinkedIn)</h3>
-        <p>
-          Analyse synthétique et personnelle de l’actualité récente du Bitcoin, couvrant l’évolution des cours,
-          les dynamiques du réseau, l’adoption, la régulation et les tendances macroéconomiques.  [oai_citation:0‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe)
-        </p>
-        <p style="margin-top:8px; font-size:0.85em; color:#666;">
-          L’article présente un tour d’horizon des points clés du moment, sans constituer un conseil financier.
-           [oai_citation:1‡LinkedIn](https://www.linkedin.com/pulse/bitcoin-o%C3%B9-en-est-le-28112025-nicolas-cantu-nt5xe)
-        </p>
-      </a>
-    </div>
-  </div>
-
-  <div class="article-card">
-    <div class="article-icon">💼</div>
-    <div class="article-content">
-      <a href="https://bitcoin.fr/prendre-sa-retraite-avec-bitcoin/" target="_blank" rel="noopener">
-        <h3>Et si 4 #Bitcoin suffisaient pour une retraite à 50 000 $/an ? – bitcoin.fr</h3>
-        <p>
-          Calculs et projections basés sur le corridor de croissance historique de BTC, estimant la quantité
-          de BTC nécessaire pour une retraite confortable selon différents scénarios.  [oai_citation:0‡bitcoin.fr](https://bitcoin.fr/prendre-sa-retraite-avec-bitcoin/)
-        </p>
-      </a>
-    </div>
-  </div>
-
-<div class="article-card essentiel">
-  <div class="article-icon">⭐</div>
-  <div class="article-content">
-    <a href="https://x.com/bitcoinpolicyfr/status/1987822294543012143?s=46"
-       target="_blank" rel="noopener">
-      <h3>Minage Bitcoin et flexibilité énergétique</h3>
-      <p>
-        Le minage de Bitcoin est un consommateur idéal pour l’énergie excédentaire :
-        il achète d’abord l’électricité sans débouché immédiat, sécurise des revenus
-        transitoires, puis agit comme consommateur de dernier recours pour valoriser
-        l’énergie autrement perdue, s’éteignant automatiquement lorsque le réseau ou
-        les usages prioritaires en ont besoin.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>@bitcoinpolicyfr</strong>
-      </p>
-    </a>
-  </div>
-</div>
-
-<div class="article-card essentiel">
-  <div class="article-icon">⭐</div>
-  <div class="article-content">
-    <a href="https://x.com/nicolascantubk/status/1986114077991764062"
-       target="_blank" rel="noopener">
-      <h3>Bitcoin : la puissance de la simplicité</h3>
-      <p>
-        En 9 messages, Nicolas Cantu explique pourquoi Bitcoin est difficile à
-        améliorer sans le fragiliser : on peut toujours complexifier un système,
-        mais il est presque impossible de le rendre plus simple — et donc plus
-        fiable — que ce qu’il est déjà.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>X (Twitter)</strong> — Auteur : <strong>Nicolas Cantu</strong>
-      </p>
-    </a>
-  </div>
-</div>
-
-<div class="article-card essentiel">
-  <div class="article-icon">⭐</div>
-  <div class="article-content">
-    <a href="https://x.com/edouard_knw/status/1984193206553297243"
-       target="_blank" rel="noopener">
-      <h3>Bitcoin, 17 ans après le white paper</h3>
-      <p>
-        En 7 points-clés, @edouard_knw rappelle pourquoi Bitcoin est un système
-        d’argent liquide électronique pair-à-pair : suppression des tiers de
-        confiance, preuve de travail, rareté absolue, sécurité cryptographique
-        et souveraineté monétaire.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Source : <strong>X (Twitter)</strong> — Auteur : <strong>@edouard_knw</strong>
-      </p>
-    </a>
-  </div>
-</div>
-
-<div class="article-card">
-  <div class="article-icon">⭐</div>
-  <div class="article-content">
-    <a href="https://youtu.be/QF23OrF-dKw" target="_blank" rel="noopener">
-      <h3>ESSENTIEL — Présentation complète de Bitcoin — Yorick de Mombynes</h3>
-      <p>
-        Présentation approfondie de Bitcoin par Yorick de Mombynes,
-        magistrat à la Cour des comptes, lors de la conférence Surfin’ Bitcoin.
-        Une synthèse claire pour comprendre pourquoi Bitcoin est devenu incontournable en 2025.
-      </p>
-      <p>
-        Vue d’ensemble de Bitcoin, fonctionnement technique, usages pratiques,
-        et enjeux face aux monnaies traditionnelles et à la régulation.
-        Bitcoin y est présenté comme une infrastructure de paiement sécurisée,
-        décentralisée et rare, dont l’adoption institutionnelle change la donne.
-      </p>
-      <p style="margin-top:8px; font-size:0.85em; color:#666;">
-        Plus de 400 millions de détenteurs de cryptomonnaies dans le monde :
-        une ressource pédagogique essentielle pour comprendre Bitcoin au-delà
-        de la spéculation.
-      </p>
-    </a>
-  </div>
-</div>
-
-  <div class="article-card">
-    <div class="article-icon">⭐</div>
-    <div class="article-content">
-      <a href="https://youtu.be/5dRHjDqL6q8" target="_blank" rel="noopener">
-        <h3>ESSENTIEL — Quel est le problème ? (voix off FR) — Joe Bryan</h3>
-        <p>
-          Le monde se dégrade : coûts en hausse, standards à la baisse, instabilité croissante.
-          La cause centrale ? Un système monétaire défaillant.
-          À travers une histoire claire et accessible, Joe Bryan relie les maux contemporains
-          à leur cause profonde et introduit Bitcoin comme solution.
-        </p>
-        <p style="margin-top:8px; font-size:0.85em; color:#666;">
-          Traduction FR, voix off et montage : Jacques-Edouard Tiberghien (BTC TouchPoint).
-          « Réparer la monnaie, c’est réparer le monde. »
-        </p>
-      </a>
-    </div>
-  </div>
+</body>
+</html>
