@@ -84,6 +84,8 @@ categories: [bitcoin, outils]
   <a href="#protonwallet">Proton Wallet</a>
   <a href="#aiscience">AI Science</a>
   <a href="#privacyguides">Privacy Guides</a>
+  <a href="#btcdir">BTC Directory</a>
+<a href="#bitzy">Bitzy</a>
   <a href="#nostr">Nostr</a>
 </nav>
 
@@ -188,7 +190,31 @@ categories: [bitcoin, outils]
   </ul>
   <p><a href="https://www.privacyguides.org/fr/" target="_blank">Site officiel 🔗</a></p>
 </div>
+<div class="card" id="btcdir">
+  <h2>BTC Directory</h2>
+  <ul>
+    <li>Annuaire dédié aux sites et services Bitcoin</li>
+    <li>Catégorisé : wallets, exchanges, faucets, blogs…</li>
+    <li>Mise à jour régulière avec nouveaux sites actifs</li>
+    <li>Découverte rapide de projets et services Bitcoin fiables</li>
+  </ul>
+  <p>
+    <a href="https://btcdir.org/" target="_blank">Site officiel 🔗</a>
+  </p>
+</div>
 
+<div class="card" id="bitzy">
+  <h2>Bitzy</h2>
+  <ul>
+    <li>Annuaire Bitcoin / crypto-monnaies</li>
+    <li>Classement par catégories : wallets, exchanges, contenus éducatifs…</li>
+    <li>Vote et notation des sites listés</li>
+    <li>Découvrir rapidement des outils et services spécialisés</li>
+  </ul>
+  <p>
+    <a href="https://www.bitzy.com/" target="_blank">Site officiel 🔗</a>
+  </p>
+</div>
 <div class="card" id="nostr">
   <h2>Nostr – Réseau social décentralisé</h2>
   <ul>
