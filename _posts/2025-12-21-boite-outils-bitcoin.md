@@ -103,6 +103,7 @@ categories: [bitcoin, outils]
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
   <a href="#json2map">json2map</a>
+  <a href="#omnitools">OmniTools</a>
 </nav>
 
 <!-- Temp-Mail -->
@@ -273,6 +274,27 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- OmniTools -->
+<div class="card" id="omnitools">
+  <h2>OmniTools — Boostez votre productivité</h2>
+  <p>Faites avancer les choses rapidement avec OmniTools, la boîte à outils ultime pour accélérer vos tâches ! Accédez à des milliers d'utilitaires conviviaux pour modifier des images, du texte, des listes et des données, directement depuis votre navigateur.</p>
+  <ul>
+    <li>Créer une image transparente</li>
+    <li>Embellir JSON</li>
+    <li>Modifier la vitesse du GIF</li>
+    <li>Trier une liste</li>
+    <li>Compresser PNG</li>
+    <li>Diviser un texte</li>
+    <li>Diviser le PDF</li>
+    <li>Découper la vidéo</li>
+    <li>Calculer la somme des nombres</li>
+  </ul>
+  <p>
+    <a href="https://omnitools.app/" target="_blank">Accéder à OmniTools 🔗</a><br>
+    <em>Cité par Renaud Lifchitz</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -288,6 +310,7 @@ categories: [bitcoin, outils]
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
   <a href="#json2map">json2map</a>
+  <a href="#omnitools">OmniTools</a>
 </footer>
 
 </body>
