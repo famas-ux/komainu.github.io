@@ -83,6 +83,22 @@ categories: [bitcoin, veille, France]
 
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
+<div class="article-card essentiel">
+  <div class="article-icon">💹</div>
+  <div class="article-content">
+    <a href="https://yakihonne.com/article/s/fancy-wallaby-90@rizful.com/xXnLVYHEBySqG9l99GpWh"
+       target="_blank" rel="noopener">
+      <h3>L’essor des ETF Bitcoin : commodité vs souveraineté</h3>
+      <p>
+        Les ETF Bitcoin facilitent l’accès financier mais réintroduisent médiation et délégation, contrastant avec la souveraineté directe offerte par le Bitcoin. L’enjeu dépasse la finance : il s’agit de liberté et de contrôle individuel sur la monnaie.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : <strong>Yakihonne</strong> — Auteur : <strong>Nicolas Cantu</strong>
+      </p>
+    </a>
+  </div>
+</div>
+
 <div class="article-card">
   <div class="article-icon">🔐</div>
   <div class="article-content">
