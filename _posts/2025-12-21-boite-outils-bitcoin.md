@@ -106,6 +106,8 @@ categories: [bitcoin, outils]
   <a href="#omnitools">OmniTools</a>
   <a href="#blitzwallet">Blitz Wallet</a>
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
+  <a href="#timechaincalendar">Timechain Calendar</a>
+  <a href="#mempool">Mempool.space</a>
 </nav>
 
 <!-- Temp-Mail -->
@@ -331,6 +333,34 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<div class="card" id="timechaincalendar">
+  <h2>Timechain Calendar</h2>
+  <ul>
+    <li>Données réseau Bitcoin en temps réel</li>
+    <li>Suivi blocs, difficulté, hashrate, récompense</li>
+    <li>Prévisions de halving</li>
+    <li>Dimension artistique et culturelle de Bitcoin</li>
+  </ul>
+  <p>
+    <a href="https://timechaincalendar.com/en" target="_blank">Accéder 🔗</a><br>
+    <em>Source : timechaincalendar.com</em>
+  </p>
+</div>
+
+<div class="card" id="mempool">
+  <h2>Mempool.space</h2>
+  <ul>
+    <li>Explorateur Bitcoin et mempool open source</li>
+    <li>Visualisation temps réel des blocs</li>
+    <li>Estimations fiables des frais</li>
+    <li>Vues Lightning Network et Liquid</li>
+  </ul>
+  <p>
+    <a href="https://mempool.space/fr/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : mempool.space</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -349,6 +379,8 @@ categories: [bitcoin, outils]
   <a href="#omnitools">OmniTools</a>
   <a href="#blitzwallet">Blitz Wallet</a>
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
+  <a href="#timechaincalendar">Timechain Calendar</a>
+  <a href="#mempool">Mempool.space</a>
 </footer>
 
 </body>
