@@ -92,24 +92,37 @@ categories: [bitcoin, outils]
 <h1>Boîte à outils Bitcoin</h1>
 
 <nav>
+  <!-- Sécurité & Privacy -->
   <a href="#tempmail">Temp-Mail</a>
   <a href="#protonmail">Proton Mail</a>
   <a href="#protonauth">Authenticator</a>
   <a href="#protondrive">Proton Drive</a>
-  <a href="#protonwallet">Proton Wallet</a>
-  <a href="#aiscience">AI Science</a>
   <a href="#privacyguides">Privacy Guides</a>
+
+  <!-- Wallets Bitcoin -->
+  <a href="#protonwallet">Proton Wallet</a>
+  <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
+  <a href="#blitzwallet">Blitz Wallet</a>
+
+  <!-- Réseaux décentralisés -->
   <a href="#nostr">Nostr</a>
+
+  <!-- Répertoires -->
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
+
+  <!-- Outils techniques -->
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
-  <a href="#blitzwallet">Blitz Wallet</a>
-  <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
-  <a href="#timechaincalendar">Timechain Calendar</a>
+  <a href="#aiscience">AI Science</a>
+
+  <!-- Données réseau -->
   <a href="#mempool">Mempool.space</a>
+  <a href="#timechaincalendar">Timechain Calendar</a>
+
+  <!-- Analyse & Dashboards -->
+  <a href="#clarkmoody">Clark Moody</a>
   <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
-  <a href="#clarkmoody">Clark Moody Dashboard</a>
   <a href="#bitbo">bitbo.io</a>
 </nav>
 
@@ -410,24 +423,37 @@ categories: [bitcoin, outils]
 
 <!-- Footer -->
 <footer>
+  <!-- Sécurité & Privacy -->
   <a href="#tempmail">Temp-Mail</a>
   <a href="#protonmail">Proton Mail</a>
   <a href="#protonauth">Authenticator</a>
   <a href="#protondrive">Proton Drive</a>
-  <a href="#protonwallet">Proton Wallet</a>
-  <a href="#aiscience">AI Science</a>
   <a href="#privacyguides">Privacy Guides</a>
+
+  <!-- Wallets -->
+  <a href="#protonwallet">Proton Wallet</a>
+  <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
+  <a href="#blitzwallet">Blitz Wallet</a>
+
+  <!-- Réseaux -->
   <a href="#nostr">Nostr</a>
+
+  <!-- Répertoires -->
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
+
+  <!-- Outils -->
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
-  <a href="#blitzwallet">Blitz Wallet</a>
-  <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
-  <a href="#timechaincalendar">Timechain Calendar</a>
+  <a href="#aiscience">AI Science</a>
+
+  <!-- Données réseau -->
   <a href="#mempool">Mempool.space</a>
-  <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
+  <a href="#timechaincalendar">Timechain Calendar</a>
+
+  <!-- Analyse -->
   <a href="#clarkmoody">Clark Moody</a>
+  <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
   <a href="#bitbo">bitbo.io</a>
 </footer>
 
