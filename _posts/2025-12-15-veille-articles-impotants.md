@@ -2,7 +2,7 @@
 layout: post
 title: "Veille Bitcoin France : les articles incontournables des leaders du secteur"
 permalink: /veille-bitcoin-france/
-date: 2025-12-22
+date: 2025-12-26
 categories: [bitcoin, veille, France]
 ---
 
@@ -82,6 +82,23 @@ categories: [bitcoin, veille, France]
 <div class="veille-date">Sélection de décembre 2025</div>
 
 <p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
+
+<div class="article-card">
+  <div class="article-icon">🔐</div>
+  <div class="article-content">
+    <a href="https://primal.net/Famas/34de7c53507fcc10" target="_blank" rel="noopener">
+      <h3>PearPass : gestionnaire de mots de passe open-source et privacy-first</h3>
+      <p>
+        PearPass stocke vos identifiants localement et synchronise vos données
+        directement entre vos appareils via P2P, sans serveur central. Multi-plateforme,
+        open-source et auditable, il offre un contrôle total sur vos données.
+      </p>
+      <p style="margin-top:8px; font-size:0.85em; color:#666;">
+        Source : info relayée par <strong>Renaud Lifchitz</strong> — Tuto : <strong>Famas</strong>
+      </p>
+    </a>
+  </div>
+</div>
 
 <div class="article-card">
   <div class="article-icon">🎙️</div>
