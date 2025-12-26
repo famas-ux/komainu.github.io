@@ -102,6 +102,7 @@ categories: [bitcoin, outils]
   <a href="#nostr">Nostr</a>
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
+  <a href="#json2map">json2map</a>
 </nav>
 
 <!-- Temp-Mail -->
@@ -236,7 +237,7 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
-<!-- Nouveaux outils -->
+<!-- BTC Directory -->
 <div class="card" id="btcdir">
   <h2>BTC Directory</h2>
   <ul>
@@ -247,6 +248,7 @@ categories: [bitcoin, outils]
   <p><a href="https://btcdir.org/" target="_blank">Accéder 🔗</a></p>
 </div>
 
+<!-- Bitzy -->
 <div class="card" id="bitzy">
   <h2>Bitzy</h2>
   <ul>
@@ -255,6 +257,20 @@ categories: [bitcoin, outils]
     <li>Ressources mises à jour</li>
   </ul>
   <p><a href="https://www.bitzy.com/" target="_blank">Accéder 🔗</a></p>
+</div>
+
+<!-- json2map -->
+<div class="card" id="json2map">
+  <h2>json2map.com — Visualisation JSON</h2>
+  <ul>
+    <li>Transforme n’importe quel JSON en carte visuelle arborescente</li>
+    <li>Pratique pour explorer des réponses d’API Bitcoin ou dumps de blocs/transactions</li>
+    <li>Débogage rapide des structures JSON complexes</li>
+    <li>Vue claire et intuitive pour développeurs et débutants</li>
+  </ul>
+  <p>
+    <a href="https://www.json2map.com/" target="_blank">Accéder à json2map.com 🔗</a>
+  </p>
 </div>
 
 </div>
@@ -271,6 +287,7 @@ categories: [bitcoin, outils]
   <a href="#nostr">Nostr</a>
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
+  <a href="#json2map">json2map</a>
 </footer>
 
 </body>
