@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veille Bitcoin France : les articles incontournables des leaders du secteur"
+title: "Veille Bitcoin France : les articles incontournables"
 permalink: /veille-bitcoin-france/
 date: 2025-12-26
 categories: [bitcoin, veille, France]
@@ -81,7 +81,7 @@ categories: [bitcoin, veille, France]
 <div class="veille-header">Veille Bitcoin France</div>
 <div class="veille-date">Sélection de décembre 2025</div>
 
-<p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés par les leaders du Bitcoin en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
+<p style="margin:20px;">Chaque semaine, retrouvez les articles incontournables publiés en France. Analyses, conseils, tendances et nouveautés à suivre absolument.</p>
 
 <div class="article-card">
   <div class="article-icon">🔐</div>
