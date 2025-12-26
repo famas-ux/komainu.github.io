@@ -1,21 +1,98 @@
 ---
-layout: post
+layout: page
 title: "Bibliothèque PDF et EPUB autrichienne"
 permalink: /bibliotheque-bitcoin-autrichienne/
 date: 2025-12-26
 categories: [livres, école autrichienne d'économie]
 ---
 
-<div style="max-width:900px; margin:auto; font-family:Arial, sans-serif; line-height:1.6; padding:10px;">
+<style>
+/* Conteneur principal */
+.library-container {
+    max-width: 1000px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #1c1c1e; /* texte sombre */
+    background-color: #ffffff; /* fond blanc */
+    padding: 20px;
+}
 
-<h1 style="text-align:center; color:#1a1a1a; margin-bottom:20px;">Bibliothèque PDF et EPUB autrichienne</h1>
+/* Titres */
+.library-container h1 {
+    text-align: center;
+    font-size: 32px;
+    color: #00ff55; /* vert fluo */
+    margin-bottom: 15px;
+}
 
-<p style="margin-bottom:30px;">Collection d’ouvrages classiques et contemporains de l’école autrichienne d’économie, triée par date de parution lorsque disponible.</p>
+.library-container h2 {
+    font-size: 24px;
+    color: #00ff55;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #00ff55;
+    padding-bottom: 5px;
+}
 
-<hr style="border:1px solid #ccc; margin:30px 0;">
+/* Listes uniformisées avec "cartes" simples */
+.library-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
 
-<h2 style="color:#004080; margin-bottom:15px;">📜 Ouvrages classiques</h2>
-<ul style="margin-bottom:30px;">
+.library-container li {
+    background-color: #f9f9f9; /* carte claire */
+    border: 1px solid #00ff55;
+    border-radius: 6px;
+    padding: 12px 15px;
+    flex: 1 1 calc(33% - 10px);
+    box-sizing: border-box;
+    min-width: 250px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.library-container li:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 15px rgba(0,255,85,0.4);
+}
+
+.library-container a {
+    text-decoration: none;
+    color: #00ff55;
+    font-weight: bold;
+}
+
+.library-container a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive pour petits écrans */
+@media (max-width: 768px) {
+    .library-container li {
+        flex: 1 1 calc(50% - 10px);
+    }
+}
+
+@media (max-width: 480px) {
+    .library-container li {
+        flex: 1 1 100%;
+    }
+}
+</style>
+
+<div class="library-container">
+
+<h1>Bibliothèque PDF et EPUB autrichienne</h1>
+
+<p>Collection d’ouvrages classiques et contemporains de l’école autrichienne d’économie.</p>
+
+<h2>📜 Ouvrages classiques</h2>
+<ul>
 <li><a href="https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/">Oresme, Traité de la première invention des monnaies (~1355)</a></li>
 <li><a href="https://www.institutcoppet.org/jeremie-rostan-commerce-vs-gouvernement-un-essai-sur-condillac/">Jérémie Rostan, Commerce vs. Gouvernement. Un essai sur Condillac</a></li>
 <li><a href="https://www.institutcoppet.org/adam-smith-abrege-de-la-richesse-des-nations/">Adam Smith – Abrégé de la Richesse des nations (1776)</a></li>
@@ -29,10 +106,8 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://www.institutcoppet.org/bohm-bawerk-les-fondements-autrichiens-de-linteret-et-du-capital/">Böhm-Bawerk – Les fondements autrichiens de l’intérêt et du capital (3 tomes)</a></li>
 </ul>
 
-<hr style="border:1px solid #ccc; margin:30px 0;">
-
-<h2 style="color:#004080; margin-bottom:15px;">📚 Ludwig von Mises</h2>
-<ul style="margin-bottom:30px;">
+<h2>📚 Ludwig von Mises</h2>
+<ul>
 <li><a href="https://www.institutcoppet.org/wp-content/uploads/2011/03/Laction-humaine.pdf">L’Action Humaine – Traité d’économie</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-liberalisme/">Le libéralisme, 1927</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-gouvernement-omnipotent/">Le gouvernement omnipotent, 1944</a></li>
@@ -48,7 +123,69 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://www.institutcoppet.org/ludwig-von-mises-la-mentalite-anticapitaliste-2/">La mentalité anticapitaliste</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-chaos-du-planisme/">Le chaos du planisme</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-linterventionnisme/">L’interventionnisme</a></li>
-<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-memoires-souvenirs-deurope/">Mémoires souvenirs d’Europe</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-memoires-souvenirs-deurope/">Mémoires & Souvenirs d’Europe</a></li>
 </ul>
 
-<hr style="border:1px solid #
+<h2>📚 F. A. Hayek</h2>
+<ul>
+<li><a href="https://editions.institutcoppet.org/produit/f-a-hayek-abrege-de-la-route-de-la-servitude/">Abrégé de la Route de la Servitude</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/friedrich-hayek-la-constitution-de-la-liberte/">La constitution de la liberté</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/friedrich-hayek-la-presomption-fatale/">La présomption fatale</a></li>
+</ul>
+
+<h2>📚 Hans-Hermann Hoppe</h2>
+<ul>
+<li><a href="https://editions.institutcoppet.org/produit/hans-hermann-hoppe-science-economique-et-methodologie-autrichienne/">Science économique et méthodologie autrichienne</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/seQayTwkQ5_HHH-La-Production-Priv%C3%83%C2%A9e-de-la-S%C3%83%C2%A9curit%C3%83%C2%A9-Final">La production privée de la sécurité</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/DsuXGVKvan_Hans-Hermann-Hoppe-Libertariens-et-alt-right">Libertariens et alt-right : Différences et Stratégies</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/H5m7PXSNvE_HHH-democracy-french-2020">Démocratie, le dieu qui a échoué</a></li>
+</ul>
+
+<h2>📚 Murray Rothbard</h2>
+<ul>
+<li><a href="https://www.institutcoppet.org/wp-content/uploads/2011/01/Etat-quas-tu-fait-de-notre-monnaie.pdf">Etat qu’as tu fais de notre monnaie</a></li>
+<li><a href="https://www.institutcoppet.org/wp-content/uploads/2014/11/Renouer-avec-la-libert%C3%A9-Murray-Rothbard.pdf">Renouer avec la liberté – Le manifeste libertarien</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/murray-rothbard-leducation-gratuite-et-obligatoire/">L’éducation gratuite et obligatoire</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/upZSVz29LH_Murray-Rothbard-Anatomie-de-l-etat-FR">L’anatomie de l’état</a></li>
+</ul>
+
+<h2>📚 Pascal Salin et articles divers</h2>
+<ul>
+<li><a href="https://journaldeslibertes.fr/download/JDL16-le-liberalisme-est-le-seul-vrai-humanisme.pdf">Le libéralisme est le seul vrai humanisme</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL12-le-mythe-de-la-justice-sociale.pdf">Le mythe de la justice sociale</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL7-le-vrai-liberalisme-droite-et-gauche-unies-dans-lerreur.pdf">Le vrai libéralisme</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL1-pour-une-europe-diversifiee-mais-unie-sur-les-principes.pdf">Pour une Europe diversifiée mais unie sur les principes</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL8-le-retour-de-la-bce-au-quantitative-easing-exemple-typique-des-effets-de-la-politique-economique.pdf">Le retour de la BCE au quantitative easing</a></li>
+<li><a href="https://journaldeslibertes.fr/wp-content/uploads/2024/03/JDL9-WEB.pdf">Dépenses publiques et fiscalité</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL1-promouvoir-les-idees-de-la-liberte-2.pdf">Promouvoir les idées de la liberté</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL13-robert-mundell-un-geant-intellectuel-qui-tourne-le-dos-au-keynesianisme.pdf">Robert Mundell : un géant intellectuel</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL13-daniel-pilisi-un-pionnier-et-un-liberal.pdf">Daniel Pilisi : un pionnier et un libéral</a></li>
+<li><a href="https://journaldeslibertes.fr/download/JDL6-preface-a-louvrage-letat-de-anthony-de-jasay.pdf">Préface</a></li>
+<li><a href="https://www.fondapol.org/app/uploads/2020/05/056-SALIN-2014-07-09-web-Que-peut-on-demander-à-la-politique-monétaire-1.pdf">Que peut-on demander à la politique monétaire</a></li>
+<li><a href="https://www.fondapol.org/app/uploads/2021/01/rapport-activite-2014-comp.pdf">Rapport Fondapol</a></li>
+<li><a href="https://fr.irefeurope.org/wp-content/uploads/reformer_pour_liberer.pdf">Réformer pour libérer</a></li>
+<li><a href="https://www.confcommercio.it/documents/20126/1138601/Salin-Pascal-doc-02.pdf">Crise financière / Version italienne</a></li>
+<li><a href="https://dei.web.uniroma1.it/sites/default/files/allegati/SALIN.pdf">Choosing the Best Policy Mix</a></li>
+<li><a href="https://cdn.mises.org/rae9_1_4_2.pdf">The Myth of the Income Effect</a></li>
+<li><a href="https://excerpts.numilog.com/books/9782130435303.pdf">La vérité sur la monnaie</a></li>
+<li><a href="https://www.erudit.org/fr/revues/ei/1983-v14-n3-ei3014/701554ar.pdf">Compte rendu et recension monnaie</a></li>
+<li><a href="https://www.fondapol.org/app/uploads/2020/05/088-PERRIER_II_2016-09-21_w-1.pdf">Note & étude liée</a></li>
+<li><a href="https://www.institutmolinari.org/wp-content/uploads/2024/07/etude-fardeau-fiscal-eu-2024.pdf">Étude Institut Molinari</a></li>
+</ul>
+
+<h2>📚 Autres ouvrages contemporains</h2>
+<ul>
+<li><a href="https://pdfhost.io/fr-FR/v/mGc3sBPgDL_Dieu_merci_pour_bitcoin_Lyle_Pratt__George_Mekhail__Jimmy_Song_">Dieu merci pour bitcoin - Lyle Pratt</a></li>  
+<li><a href="https://pdfhost.io/fr-FR/v/MaAJqBJzjm_Bitcoin__Everything_divided_by_21_million__French_">L’infini divisé par 21 millions - Knut Svanholm</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan">L’Etat Réseau - Balaji Srinivasan</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/GgFnJ2XpT8_le-capital-au-xxie-siecle-thomas-piketty">Thomas Piketty - Le capital au XXI siècle</a></li>
+<li><a href="https://bitcoinelegance.fr/">L’élégance de Bitcoin - Ludovic Lars</a></li>
+<li><a href="https://pandul.fr/dictionnaire/">Dictionnaire de Bitcoin - Loïc Morel</a></li>
+<li><a href="https://voskuil.org/cryptoeconomics/fr/cryptoéconomie.pdf">Cryptoeconomie - Éric Voskuil</a></li>
+<li><a href="https://bitcoin.fr/mastering-bitcoin-fr/">Mastering Bitcoin en français - Andreas Antonopoulos</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/GjDTG5eVms_Les-premieres-communications-publiques-du-createur-de-Bitcoin-Volume-1/">Les premières communications publiques du créateur de Bitcoin SATOSHI NAKAMOTO - Urbantech21</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/WhAgGBgCYz_TBH_FR-RC3_20231017/">Le manuel du bitcoin - Anil Patel</a></li>
+<li><a href="https://pdfhost.io/fr-FR/v/5Vzd3CQPzm_Le_Prix_de_Demain_-_Jeff_Booth">Le Prix de Demain - Jeff Booth</a></li>
+</ul>
+
+</div>
