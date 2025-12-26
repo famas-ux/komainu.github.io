@@ -108,6 +108,9 @@ categories: [bitcoin, outils]
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#timechaincalendar">Timechain Calendar</a>
   <a href="#mempool">Mempool.space</a>
+  <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
+  <a href="#clarkmoody">Clark Moody Dashboard</a>
+  <a href="#bitbo">bitbo.io</a>
 </nav>
 
 <!-- Temp-Mail -->
@@ -361,6 +364,48 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<div class="card" id="wickedbitcoin">
+  <h2>Wicked Smart Bitcoin</h2>
+  <ul>
+    <li>Visualisations avancées de données Bitcoin</li>
+    <li>Approche standard Bitcoin (self-custody, UTXO)</li>
+    <li>Prix exprimés en bitcoin</li>
+    <li>Analyse technique et philosophique</li>
+  </ul>
+  <p>
+    <a href="https://wickedsmartbitcoin.com/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : wickedsmartbitcoin.com</em>
+  </p>
+</div>
+
+<div class="card" id="clarkmoody">
+  <h2>Clark Moody Dashboard</h2>
+  <ul>
+    <li>Vue globale et temps réel de Bitcoin</li>
+    <li>Métriques sécurité, UTXO, frais</li>
+    <li>Analyses Lightning Network</li>
+    <li>Outil de monitoring et d’éducation</li>
+  </ul>
+  <p>
+    <a href="https://dashboard.clarkmoody.com/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : dashboard.clarkmoody.com</em>
+  </p>
+</div>
+
+<div class="card" id="bitbo">
+  <h2>bitbo.io</h2>
+  <ul>
+    <li>Dashboard Bitcoin temps réel</li>
+    <li>Données réseau et mining</li>
+    <li>Visualisations claires et pédagogiques</li>
+    <li>Accès direct sans inscription</li>
+  </ul>
+  <p>
+    <a href="https://bitbo.io/?standalone=true" target="_blank">Accéder 🔗</a><br>
+    <em>Source : bitbo.io</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -381,6 +426,9 @@ categories: [bitcoin, outils]
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#timechaincalendar">Timechain Calendar</a>
   <a href="#mempool">Mempool.space</a>
+  <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
+  <a href="#clarkmoody">Clark Moody</a>
+  <a href="#bitbo">bitbo.io</a>
 </footer>
 
 </body>
