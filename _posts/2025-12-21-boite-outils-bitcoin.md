@@ -2,73 +2,113 @@
 layout: page
 title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
-date: 2025-12-21
+date: 2025-12-26
 categories: [bitcoin, outils]
 ---
 
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Boîte à outils Bitcoin</title>
-
 <style>
-  body {
+body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ffffff;
-    color: #1c1c1e;
+    background-color: #0d0d0d;
+    color: #c0ffc0;
     margin: 0;
-    padding: 20px 10px;
+    padding-top: 70px; /* pour laisser la place au menu fixe */
     line-height: 1.8;
-  }
-  .container {
-    max-width: 700px;
-    margin: auto;
-  }
-  h1, h2 {
-    text-align: center;
-    color: #f7931a;
-  }
-  nav {
-    text-align: center;
-    margin-bottom: 30px;
-  }
-  nav a {
-    margin: 0 8px;
-    color: #00a86b;
-    font-weight: bold;
-    text-decoration: none;
-  }
-  nav a:hover {
-    text-decoration: underline;
-  }
-  .card {
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    padding: 20px;
-    margin: 25px 0;
-    border-left: 4px solid #00a86b;
-  }
-  .card h2 {
-    text-align: left;
-    color: #00a86b;
-    margin-top: 0;
-  }
-  ul {
-    padding-left: 20px;
-  }
-  ul li {
-    margin-bottom: 8px;
-  }
-  a {
-    color: #00a86b;
-    font-weight: bold;
-    text-decoration: none;
-  }
-</style>
-</head>
+}
 
-<body>
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    color: #00ff66;
+    margin-bottom: 25px;
+}
+
+/* Menu fixe en haut */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #111111;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000;
+    border-bottom: 2px solid #00ff66;
+}
+
+nav a {
+    margin: 0 12px;
+    color: #00ff66;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+nav a:hover {
+    color: #a0ffa0;
+    text-decoration: underline;
+}
+
+.card {
+    background-color: #1a1a1a;
+    border-left: 4px solid #00ff66;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 10px #00ff66;
+}
+
+.card h2 {
+    color: #00ff66;
+    margin-top: 0;
+}
+
+.card ul {
+    padding-left: 20px;
+}
+
+.card ul li {
+    margin-bottom: 8px;
+}
+
+.card a {
+    color: #00ff66;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+em {
+    color: #a0ffa0;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+    .card {
+        padding: 15px;
+    }
+    nav a {
+        display: block;
+        margin: 5px 0;
+    }
+}
+</style>
+
 <div class="container">
 
 <h1>Boîte à outils Bitcoin</h1>
@@ -197,5 +237,3 @@ categories: [bitcoin, outils]
 </div>
 
 </div>
-</body>
-</html>
