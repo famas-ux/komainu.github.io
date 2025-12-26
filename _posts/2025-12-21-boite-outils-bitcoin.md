@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Boîte à outils"
-permalink: /boite-outils-bitcoin/
+permalink: /boite-outils/
 date: 2025-12-26
 categories: [bitcoin, outils]
 ---
