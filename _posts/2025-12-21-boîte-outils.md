@@ -27,7 +27,7 @@ categories: [bitcoin, outils]
   }
   h1, h2 {
     text-align: center;
-    color: #f7931a; /* titre principal et h2 */
+    color: #f7931a;
   }
   nav {
     text-align: center;
@@ -35,7 +35,7 @@ categories: [bitcoin, outils]
   }
   nav a {
     margin: 0 8px;
-    color: #1d4ed8; /* bleu menu */
+    color: #1d4ed8;
     font-weight: bold;
     text-decoration: none;
   }
@@ -51,7 +51,7 @@ categories: [bitcoin, outils]
   }
   .card h2 {
     text-align: left;
-    color: #00a86b; /* titre carte */
+    color: #00a86b;
     margin-top: 0;
   }
   ul {
@@ -61,7 +61,7 @@ categories: [bitcoin, outils]
     margin-bottom: 8px;
   }
   a {
-    color: #d97706; /* liens orange */
+    color: #d97706;
     font-weight: bold;
     text-decoration: none;
   }
@@ -76,7 +76,7 @@ categories: [bitcoin, outils]
   }
   footer a {
     margin: 0 8px;
-    color: #1d4ed8; /* bleu menu footer */
+    color: #1d4ed8;
     font-weight: bold;
     text-decoration: none;
   }
@@ -125,6 +125,8 @@ categories: [bitcoin, outils]
   <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
   <a href="#bitbo">bitbo.io</a>
 </nav>
+
+<!-- Cartes -->
 
 <!-- Temp-Mail -->
 <div class="card" id="tempmail">
@@ -189,6 +191,18 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Privacy Guides -->
+<div class="card" id="privacyguides">
+  <h2>Privacy Guides</h2>
+  <ul>
+    <li>Communauté collaborative de défense de la vie privée</li>
+    <li>Projet à but non lucratif géré par des bénévoles</li>
+    <li>Actualités et recommandations sur outils et services</li>
+    <li>Connaissances et guides de confidentialité et sécurité</li>
+  </ul>
+  <p><a href="https://www.privacyguides.org/fr/" target="_blank">Site officiel 🔗</a></p>
+</div>
+
 <!-- Proton Wallet -->
 <div class="card" id="protonwallet">
   <h2>Proton Wallet</h2>
@@ -206,33 +220,38 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
-<!-- AI Science -->
-<div class="card" id="aiscience">
-  <h2>Awesome AI for Science</h2>
+<!-- Bull Wallet / Bull Échanges -->
+<div class="card" id="bullwallet">
+  <h2>Bull Wallet / Bull Échanges</h2>
   <ul>
-    <li>Répertoire IA pour la recherche</li>
-    <li>Outils open source</li>
-    <li>Veille scientifique structurée</li>
-    <li>Multi-disciplines</li>
+    <li>Wallet Bitcoin sécurisé et non-custodial</li>
+    <li>Plateforme d’échanges intégrée</li>
+    <li>Compatible Lightning pour paiements rapides</li>
+    <li>Interface simple et intuitive pour tous niveaux</li>
   </ul>
   <p>
-    <a href="https://zdoc.app/en/ai-boost/awesome-ai-for-science" target="_blank">
-      Source 🔗
+    <a href="https://famas-ux.github.io/komainu.github.io/bull-wallet/" target="_blank">
+      Lire l’article complet 🔗
     </a><br>
-    <em>Cité par Renaud Lifchitz</em>
+    <em>Source : Famas — Bull Wallet</em>
   </p>
 </div>
 
-<!-- Privacy Guides -->
-<div class="card" id="privacyguides">
-  <h2>Privacy Guides</h2>
+<!-- Blitz Wallet -->
+<div class="card" id="blitzwallet">
+  <h2>Blitz Wallet</h2>
   <ul>
-    <li>Communauté collaborative de défense de la vie privée</li>
-    <li>Projet à but non lucratif géré par des bénévoles</li>
-    <li>Actualités et recommandations sur outils et services</li>
-    <li>Connaissances et guides de confidentialité et sécurité</li>
+    <li>Wallet Bitcoin non-custodial</li>
+    <li>Lightning natif pour paiements rapides</li>
+    <li>Orienté privacy et sécurité</li>
+    <li>Interface simple et intuitive</li>
   </ul>
-  <p><a href="https://www.privacyguides.org/fr/" target="_blank">Site officiel 🔗</a></p>
+  <p>
+    <a href="https://famas-ux.github.io/komainu.github.io/bitcoin/wallet/2025/12/23/blitz-wallet-points-cles.html" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Famas — « Blitz Wallet : points clés »</em>
+  </p>
 </div>
 
 <!-- Nostr -->
@@ -258,7 +277,7 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
-<!-- BTC Directory -->
+<!-- Répertoires -->
 <div class="card" id="btcdir">
   <h2>BTC Directory</h2>
   <ul>
@@ -269,7 +288,6 @@ categories: [bitcoin, outils]
   <p><a href="https://btcdir.org/" target="_blank">Accéder 🔗</a></p>
 </div>
 
-<!-- Bitzy -->
 <div class="card" id="bitzy">
   <h2>Bitzy</h2>
   <ul>
@@ -280,7 +298,7 @@ categories: [bitcoin, outils]
   <p><a href="https://www.bitzy.com/" target="_blank">Accéder 🔗</a></p>
 </div>
 
-<!-- json2map -->
+<!-- Outils techniques -->
 <div class="card" id="json2map">
   <h2>json2map.com — Visualisation JSON</h2>
   <ul>
@@ -294,7 +312,6 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
-<!-- OmniTools -->
 <div class="card" id="omnitools">
   <h2>OmniTools — Boostez votre productivité</h2>
   <p>Faites avancer les choses rapidement avec OmniTools, la boîte à outils ultime pour accélérer vos tâches ! Accédez à des milliers d'utilitaires conviviaux pour modifier des images, du texte, des listes et des données, directement depuis votre navigateur.</p>
@@ -315,37 +332,32 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
-<!-- Blitz Wallet -->
-<div class="card" id="blitzwallet">
-  <h2>Blitz Wallet</h2>
+<div class="card" id="aiscience">
+  <h2>Awesome AI for Science</h2>
   <ul>
-    <li>Wallet Bitcoin non-custodial</li>
-    <li>Lightning natif pour paiements rapides</li>
-    <li>Orienté privacy et sécurité</li>
-    <li>Interface simple et intuitive</li>
+    <li>Répertoire IA pour la recherche</li>
+    <li>Outils open source</li>
+    <li>Veille scientifique structurée</li>
+    <li>Multi-disciplines</li>
   </ul>
   <p>
-    <a href="https://famas-ux.github.io/komainu.github.io/bitcoin/wallet/2025/12/23/blitz-wallet-points-cles.html" target="_blank">
-      Lire l’article complet 🔗
-    </a><br>
-    <em>Source : Famas — « Blitz Wallet : points clés »</em>
+    <a href="https://zdoc.app/en/ai-boost/awesome-ai-for-science" target="_blank">Source 🔗</a><br>
+    <em>Cité par Renaud Lifchitz</em>
   </p>
 </div>
 
-<!-- Bull Wallet / Bull Échanges -->
-<div class="card" id="bullwallet">
-  <h2>Bull Wallet / Bull Échanges</h2>
+<!-- Données réseau -->
+<div class="card" id="mempool">
+  <h2>Mempool.space</h2>
   <ul>
-    <li>Wallet Bitcoin sécurisé et non-custodial</li>
-    <li>Plateforme d’échanges intégrée</li>
-    <li>Compatible Lightning pour paiements rapides</li>
-    <li>Interface simple et intuitive pour tous niveaux</li>
+    <li>Explorateur Bitcoin et mempool open source</li>
+    <li>Visualisation temps réel des blocs</li>
+    <li>Estimations fiables des frais</li>
+    <li>Vues Lightning Network et Liquid</li>
   </ul>
   <p>
-    <a href="https://famas-ux.github.io/komainu.github.io/bull-wallet/" target="_blank">
-      Lire l’article complet 🔗
-    </a><br>
-    <em>Source : Famas — Bull Wallet</em>
+    <a href="https://mempool.space/fr/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : mempool.space</em>
   </p>
 </div>
 
@@ -363,17 +375,18 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
-<div class="card" id="mempool">
-  <h2>Mempool.space</h2>
+<!-- Analyse & Dashboards -->
+<div class="card" id="clarkmoody">
+  <h2>Clark Moody Dashboard</h2>
   <ul>
-    <li>Explorateur Bitcoin et mempool open source</li>
-    <li>Visualisation temps réel des blocs</li>
-    <li>Estimations fiables des frais</li>
-    <li>Vues Lightning Network et Liquid</li>
+    <li>Vue globale et temps réel de Bitcoin</li>
+    <li>Métriques sécurité, UTXO, frais</li>
+    <li>Analyses Lightning Network</li>
+    <li>Outil de monitoring et d’éducation</li>
   </ul>
   <p>
-    <a href="https://mempool.space/fr/" target="_blank">Accéder 🔗</a><br>
-    <em>Source : mempool.space</em>
+    <a href="https://dashboard.clarkmoody.com/" target="_blank">Accéder 🔗</a><br>
+    <em>Source : dashboard.clarkmoody.com</em>
   </p>
 </div>
 
@@ -388,20 +401,6 @@ categories: [bitcoin, outils]
   <p>
     <a href="https://wickedsmartbitcoin.com/" target="_blank">Accéder 🔗</a><br>
     <em>Source : wickedsmartbitcoin.com</em>
-  </p>
-</div>
-
-<div class="card" id="clarkmoody">
-  <h2>Clark Moody Dashboard</h2>
-  <ul>
-    <li>Vue globale et temps réel de Bitcoin</li>
-    <li>Métriques sécurité, UTXO, frais</li>
-    <li>Analyses Lightning Network</li>
-    <li>Outil de monitoring et d’éducation</li>
-  </ul>
-  <p>
-    <a href="https://dashboard.clarkmoody.com/" target="_blank">Accéder 🔗</a><br>
-    <em>Source : dashboard.clarkmoody.com</em>
   </p>
 </div>
 
@@ -439,23 +438,4 @@ categories: [bitcoin, outils]
   <a href="#nostr">Nostr</a>
 
   <!-- Répertoires -->
-  <a href="#btcdir">BTC Dir</a>
-  <a href="#bitzy">Bitzy</a>
-
-  <!-- Outils -->
-  <a href="#json2map">json2map</a>
-  <a href="#omnitools">OmniTools</a>
-  <a href="#aiscience">AI Science</a>
-
-  <!-- Données réseau -->
-  <a href="#mempool">Mempool.space</a>
-  <a href="#timechaincalendar">Timechain Calendar</a>
-
-  <!-- Analyse -->
-  <a href="#clarkmoody">Clark Moody</a>
-  <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
-  <a href="#bitbo">bitbo.io</a>
-</footer>
-
-</body>
-</html>
+  <a href="#btcdir">BTC Dir</a
