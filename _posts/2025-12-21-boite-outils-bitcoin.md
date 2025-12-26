@@ -105,6 +105,7 @@ categories: [bitcoin, outils]
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
   <a href="#blitzwallet">Blitz Wallet</a>
+  <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
 </nav>
 
 <!-- Temp-Mail -->
@@ -313,6 +314,23 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Bull Wallet / Bull Échanges -->
+<div class="card" id="bullwallet">
+  <h2>Bull Wallet / Bull Échanges</h2>
+  <ul>
+    <li>Wallet Bitcoin sécurisé et non-custodial</li>
+    <li>Plateforme d’échanges intégrée</li>
+    <li>Compatible Lightning pour paiements rapides</li>
+    <li>Interface simple et intuitive pour tous niveaux</li>
+  </ul>
+  <p>
+    <a href="https://famas-ux.github.io/komainu.github.io/bull-wallet/" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Famas — Bull Wallet</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -330,6 +348,7 @@ categories: [bitcoin, outils]
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
   <a href="#blitzwallet">Blitz Wallet</a>
+  <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
 </footer>
 
 </body>
