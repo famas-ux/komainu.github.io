@@ -1,144 +1,165 @@
 ---
 layout: post
-title:  "Fiche 1 : Obtenir un Portefeuille & un Point d’entrée / sortie. Débutants"
+title: "Fiche 1 : Obtenir un Portefeuille & un Point d’entrée / sortie. Débutants"
 permalink: /bull-wallet/
-date:   2025-11-30
+date: 2025-11-30
 categories: [bitcoin, portefeuille, acheter, vendre]
 ---
 
-# Fiche 1 : Obtenir un Portefeuille Bitcoin & un Point d’entrée / sortie  
-*(Débutants)*
+# Fiche 1 — Obtenir un Portefeuille Bitcoin & un Point d’entrée / sortie  
+*Débutants*
 
-Des dizaines de solutions et d’outils sont disponibles. Cette fiche se concentre sur **la solution la plus retenue par le marché**.
-
----
-
-## 1️⃣ Portefeuille Bitcoin
-
-Un portefeuille est indispensable pour **stocker, envoyer et recevoir Bitcoin**.
-
-### Types de portefeuilles
-- **Hot wallet / Cold wallet**  
-- **PC / Android / iOS**  
-- **Custodial / Non custodial**  
-
-De nombreux portefeuilles existent. Votre parcours Bitcoin vous éclairera sur vos besoins.  
-
-**Recommandation : Bull Bitcoin Wallet sur téléphone**  
-[Portefeuille Bull Bitcoin](https://wallet.bullbitcoin.com/fr)
-
-**Tutoriel officiel Plan B Academy** : sécurisation et utilisation complète du portefeuille  
-[Tuto Plan B Academy](https://planb.academy/fr/tutorials/wallet/mobile/bull-bitcoin-2c72127c-a228-4f50-b833-c6183d56aaf6)
+De nombreuses solutions existent.  
+Cette fiche se concentre volontairement sur **la solution la plus largement adoptée par le marché**.
 
 ---
 
-### Bull Bitcoin Wallet – fiche synthèse
+## 1. Portefeuille Bitcoin
 
-1. **Non-custodial complet**  
-   - Vous gardez vos clés privées.  
-   - Pas d’intermédiaire : contrôle total des fonds.
+Un portefeuille est indispensable pour **stocker, envoyer et recevoir du bitcoin**.
 
-2. **Sécurité renforcée**  
-   - Phrase de récupération standard (BIP39).  
-   - Exporter, sauvegarder et restaurer facilement.  
-   - Interface claire pour vérifier les sauvegardes.
+### Typologies de portefeuilles
+- Hot wallet / Cold wallet  
+- PC / Android / iOS  
+- Custodial / Non-custodial  
 
-3. **Gestion multiréseaux Bitcoin**  
-   - **On-chain** : transactions classiques, frais ajustables.  
-   - **Lightning Network** : paiements instantanés, faibles frais.  
-   - **Liquid** : transactions rapides et confidentielles, stable sats via L-BTC.
+Votre parcours Bitcoin précisera progressivement vos besoins.
 
-4. **Clarté d’utilisation**  
-   - Interface épurée et pédagogique.  
-   - Suivi précis des transactions.  
-   - Catégorisation simple des comptes (on-chain / LN / Liquid).
+### Recommandation
+**Bull Bitcoin Wallet (mobile)**  
+https://wallet.bullbitcoin.com/fr
 
-5. **Compatibilité iOS & Android**  
-   - Installation rapide, même sur téléphones modestes.  
-   - Mise à jour régulière.
-
-6. **Intégration didactique via Plan B Academy**  
-   - Tutoriel complet : création, sauvegarde de seed, envoi/réception on-chain & Lightning, gestion canal LN et Liquid.
-
-7. **Orientation Bitcoin-unique**  
-   - Pas de crypto additionnelle.  
-   - Priorité à la simplicité, sécurité et souveraineté.
-
-8. **Transparence & code open source**  
-   - Développement ouvert et auditable.  
-   - Philosophie axée sur la souveraineté de l’utilisateur.
-
-> **Résumé** : sécurisé, non-custodial, complet pour on-chain / Lightning / Liquid, tutoriel précis pour une mise en main rapide.
-
-**Télécharger l’application** : [App Bull Bitcoin](https://app.bullbitcoin.com/registration/famas)
+### Tutoriel officiel
+Guide complet de sécurisation et d’utilisation  
+https://planb.academy/fr/tutorials/wallet/mobile/bull-bitcoin-2c72127c-a228-4f50-b833-c6183d56aaf6
 
 ---
 
-## 2️⃣ Bull Bitcoin – Achat & Vente (Échangeur)
+## Bull Bitcoin Wallet — fiche synthèse
 
-### Philosophie générale
-- Plateforme **non dépositaire** : vous gardez la maîtrise totale de vos fonds.  
-- Aucune conservation : chaque achat crée une vraie transaction Bitcoin envoyée directement à votre portefeuille.  
-- Alignée sur les standards souverains de la communauté Bitcoin francophone.
+### 1. Non-custodial complet
+- Vous détenez vos clés privées  
+- Aucun intermédiaire  
+- Contrôle total des fonds
 
-### Points forts
-- **Contrôle total** : pas de bitcoins stockés sur la plateforme.  
-- **Sécurisé** : bitcoins envoyés immédiatement vers votre wallet (on-chain, Lightning, Liquid).  
-- **Transparent** : taux verrouillé dès l’envoi lors d’une vente.  
-- **Compatible toutes banques** : virements simples et rapides.  
-- Aucun frais de dépôt.  
-- Support des trois réseaux Bitcoin :  
+### 2. Sécurité
+- Phrase de récupération standard BIP39  
+- Sauvegarde, export et restauration simples  
+- Vérification claire des sauvegardes
+
+### 3. Gestion multi-réseaux Bitcoin
+- **On-chain** : transactions classiques, frais ajustables  
+- **Lightning Network** : paiements instantanés, frais réduits  
+- **Liquid** : transactions rapides, confidentialité, L-BTC
+
+### 4. Utilisation
+- Interface épurée et pédagogique  
+- Suivi précis des transactions  
+- Comptes clairement séparés (on-chain / Lightning / Liquid)
+
+### 5. Compatibilité
+- iOS et Android  
+- Installation rapide  
+- Mises à jour régulières
+
+### 6. Intégration pédagogique
+- Tutoriel Plan B Academy complet  
+- Création du wallet  
+- Sauvegarde de la seed  
+- Envoi / réception sur tous les réseaux
+
+### 7. Orientation Bitcoin-only
+- Aucune crypto additionnelle  
+- Simplicité, sécurité et souveraineté
+
+### 8. Transparence
+- Code open source  
+- Développement auditable  
+- Philosophie souveraine
+
+> **Résumé**  
+> Portefeuille sécurisé, non-custodial, compatible on-chain / Lightning / Liquid, avec une prise en main rapide grâce à une documentation pédagogique complète.
+
+Téléchargement :  
+https://app.bullbitcoin.com/registration/famas
+
+---
+
+## 2. Bull Bitcoin — Achat & Vente (échangeur)
+
+### Philosophie
+- Plateforme **non dépositaire**  
+- Aucun stockage de bitcoins  
+- Chaque opération génère une **transaction Bitcoin réelle**, envoyée directement vers votre portefeuille  
+- Alignée avec les standards souverains Bitcoin
+
+### Points clés
+- Contrôle total des fonds  
+- Envoi immédiat vers votre wallet  
+- Taux verrouillé lors des ventes  
+- Compatible avec toutes les banques (SEPA)  
+- Aucun frais de dépôt  
+- Support des réseaux :
   - On-chain  
   - Lightning Network  
   - Liquid  
-- Option **DCA / achats récurrents** intégrée.  
-- Interface claire et pensée pour les débutants.
+- Achats récurrents (DCA)  
+- Interface pensée pour les débutants
 
 ---
 
-### Achat de Bitcoin – déroulement
-1. **Approvisionner votre compte**  
-   - Virement SEPA depuis n’importe quelle banque.  
-   - Grands montants acceptés, aucun frais sur le dépôt.  
-   - Traitement rapide et direct.
+## Achat de bitcoin — déroulement
 
-2. **Saisir votre adresse Bitcoin**  
-   - Cliquez sur *Buy Bitcoin* et entrez le montant.  
-   - Fournissez l’adresse de votre choix : on-chain, Lightning ou Liquid.  
-   - Aide disponible via Bitcoin Support si nécessaire.
+### 1. Approvisionnement
+- Virement SEPA depuis toute banque  
+- Aucun frais de dépôt  
+- Montants élevés acceptés  
+- Traitement direct
 
-3. **Achat et réception**  
-   - Une **vraie transaction Bitcoin** est créée.  
-   - Bitcoins envoyés immédiatement vers votre wallet.  
-   - Option achat récurrent (DCA) disponible.
+### 2. Adresse de réception
+- Sélection du montant  
+- Adresse on-chain, Lightning ou Liquid  
+- Assistance disponible si nécessaire
 
----
-
-### Vente de Bitcoin – déroulement
-1. **Choisir le destinataire**  
-   - Principalement votre compte en banque (IBAN).
-
-2. **Envoyer le Bitcoin**  
-   - Indiquez le montant en EUR.  
-   - L’app génère la facture Bitcoin correspondante.  
-   - Taux verrouillé dès l’envoi.  
-   - Réseaux disponibles : on-chain, Lightning, Liquid.
-
-3. **Réception par virement bancaire**  
-   - Virement envoyé dès confirmation de transaction.  
-   - Pas de garde temporaire : conversion puis transfert direct.
+### 3. Achat
+- Création d’une transaction Bitcoin réelle  
+- Envoi immédiat vers votre portefeuille  
+- Option DCA disponible
 
 ---
 
-### ✅ Synthèse
-Plateforme 100 % souveraine, **non dépositaire**, permettant d’acheter et vendre du Bitcoin de manière **directe, transparente et sécurisée**, avec envoi immédiat sur votre portefeuille personnel et support complet des réseaux Bitcoin. Idéale pour un usage simple, responsable et souverain.
+## Vente de bitcoin — déroulement
+
+### 1. Destination
+- Compte bancaire (IBAN)
+
+### 2. Envoi
+- Saisie du montant en EUR  
+- Facture Bitcoin générée  
+- Taux verrouillé dès l’envoi  
+- Réseaux disponibles : on-chain / Lightning / Liquid
+
+### 3. Réception
+- Virement bancaire après confirmation  
+- Aucun stockage intermédiaire
 
 ---
 
-### Liens utiles
-- [Application Bull Bitcoin](https://app.bullbitcoin.com/registration/famas)  
-- [Tutoriel complet](https://youtu.be/dJY_zyCV7HM)  
-- [Introduction à l'approche Bull Bitcoin](https://www.youtube.com/watch?v=khL6womqMY8%5C)  
-- [Vidéo pas à pas pour utiliser la plateforme](https://www.youtube.com/watch?v=lMXWc46UVgE%5C)  
-- [Configuration des achats automatiques](https://www.youtube.com/watch?v=X6g0hSB2Y6M%5C)
+## Synthèse
+
+Plateforme **100 % non dépositaire**, permettant l’achat et la vente de bitcoin de manière directe, transparente et souveraine, avec envoi immédiat vers votre portefeuille personnel et support complet des réseaux Bitcoin.
+
+---
+
+## Liens utiles
+- Application Bull Bitcoin  
+  https://app.bullbitcoin.com/registration/famas  
+- Tutoriel complet  
+  https://youtu.be/dJY_zyCV7HM  
+- Présentation Bull Bitcoin  
+  https://www.youtube.com/watch?v=khL6womqMY8  
+- Guide pas à pas  
+  https://www.youtube.com/watch?v=lMXWc46UVgE  
+- Achats automatiques (DCA)  
+  https://www.youtube.com/watch?v=X6g0hSB2Y6M
 
