@@ -6,17 +6,16 @@ date: 2025-12-19
 categories: [livres, école autrichienne d'économie]
 ---
 
-<div style="max-width:900px;margin:auto;font-family:Arial,sans-serif;line-height:1.6;">
+<div style="max-width:900px; margin:auto; font-family:Arial, sans-serif; line-height:1.6; padding:10px;">
 
-<h1 style="text-align:center;color:#1a1a1a;">Bibliothèque PDF et EPUB autrichienne</h1>
+<h1 style="text-align:center; color:#1a1a1a; margin-bottom:20px;">Bibliothèque PDF et EPUB autrichienne</h1>
 
-<p>Collection d’ouvrages classiques et contemporains de l’école autrichienne d’économie, triée par date de parution lorsque disponible.</p>
+<p style="margin-bottom:30px;">Collection d’ouvrages classiques et contemporains de l’école autrichienne d’économie, triée par date de parution lorsque disponible.</p>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📜 Ouvrages classiques</h2>
-
-<ul>
+<h2 style="color:#004080; margin-bottom:15px;">📜 Ouvrages classiques</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://www.institutcoppet.org/oresme-traite-de-la-premiere-invention-des-monnaies-ca-1355/">Oresme, Traité de la première invention des monnaies (~1355)</a></li>
 <li><a href="https://www.institutcoppet.org/jeremie-rostan-commerce-vs-gouvernement-un-essai-sur-condillac/">Jérémie Rostan, Commerce vs. Gouvernement. Un essai sur Condillac</a></li>
 <li><a href="https://www.institutcoppet.org/adam-smith-abrege-de-la-richesse-des-nations/">Adam Smith – Abrégé de la Richesse des nations (1776)</a></li>
@@ -26,16 +25,14 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://editions.institutcoppet.org/produit/frederic-bastiat-sophismes-economiques-deuxieme-serie/">Frédéric Bastiat – Sophismes économiques, deuxième série</a></li>
 <li><a href="https://www.institutcoppet.org/wp-content/uploads/2011/03/BASTIAT-Ce_quon_voit.pdf?">Ce qu’on voit et ce qu’on ne voit pas – Frédéric Bastiat</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/frederic-bastiat-correspondance-avec-la-famille-cheuvreux/">Frédéric Bastiat – Correspondance avec la famille Cheuvreux</a></li>
-<li><a href="https://www.institutcoppet.org/adam-smith-abrege-de-la-richesse-des-nations/">Adam Smith – Abrégé de la Richesse des nations</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/DZRFD9qsxZ_Cantillon-Essai">Richard Cantillon – Essai sur la nature du commerce en général, 1755</a></li>
 <li><a href="https://www.institutcoppet.org/bohm-bawerk-les-fondements-autrichiens-de-linteret-et-du-capital/">Böhm-Bawerk – Les fondements autrichiens de l’intérêt et du capital (3 tomes)</a></li>
 </ul>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📚 Ludwig von Mises</h2>
-
-<ul>
+<h2 style="color:#004080; margin-bottom:15px;">📚 Ludwig von Mises</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://www.institutcoppet.org/wp-content/uploads/2011/03/Laction-humaine.pdf">L’Action Humaine – Traité d’économie</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-liberalisme/">Le libéralisme, 1927</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-gouvernement-omnipotent/">Le gouvernement omnipotent, 1944</a></li>
@@ -50,51 +47,51 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-laction-humaine/">L’action humaine – Nouvelle édition</a></li>
 <li><a href="https://www.institutcoppet.org/ludwig-von-mises-la-mentalite-anticapitaliste-2/">La mentalité anticapitaliste</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-chaos-du-planisme/">Le chaos du planisme</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-linterventionnisme/">L’interventionnisme</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-memoires-souvenirs-deurope/">Mémoires souvenirs d’Europe</a></li>
 </ul>
-<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-linterventionnisme/">Ludwig von Mises – L’interventionnisme</a></li>
-<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-memoires-souvenirs-deurope/">Ludwig von Mises – Mémoires souvenirs d’Europe</a></li>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📚 F. A. Hayek</h2>
-<ul>
+<h2 style="color:#004080; margin-bottom:15px;">📚 F. A. Hayek</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://editions.institutcoppet.org/produit/f-a-hayek-abrege-de-la-route-de-la-servitude/">Abrégé de la Route de la Servitude</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/friedrich-hayek-la-constitution-de-la-liberte/">La constitution de la liberté</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/friedrich-hayek-la-presomption-fatale/">La présomption fatale</a></li>
 </ul>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📚 Hans-Hermann Hoppe</h2>
-<ul>
+<h2 style="color:#004080; margin-bottom:15px;">📚 Hans-Hermann Hoppe</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://editions.institutcoppet.org/produit/hans-hermann-hoppe-science-economique-et-methodologie-autrichienne/">Science économique et méthodologie autrichienne</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/seQayTwkQ5_HHH-La-Production-Priv%C3%83%C2%A9e-de-la-S%C3%83%C2%A9curit%C3%83%C2%A9-Final">La production privée de la sécurité</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/DsuXGVKvan_Hans-Hermann-Hoppe-Libertariens-et-alt-right">Libertariens et alt-right : Différences et Stratégies</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/H5m7PXSNvE_HHH-democracy-french-2020">Démocratie, le dieu qui a échoué</a></li>
 </ul>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📚 Jesús Huerta de Soto</h2>
-<ul>
+<h2 style="color:#004080; margin-bottom:15px;">📚 Jesús Huerta de Soto</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://editions.institutcoppet.org/produit/j-huerta-de-soto-lecole-autrichienne/">L’école autrichienne</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/zhfw6s4bSn_Huerta_de_Soto_monnaie_credit_bancaire_et_cycles_economiques">Monnaie, Crédit Bancaire et Cycles Économiques</a></li>
 </ul>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📚 Murray Rothbard</h2>
-<ul>
+<h2 style="color:#004080; margin-bottom:15px;">📚 Murray Rothbard</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://www.institutcoppet.org/wp-content/uploads/2011/01/Etat-quas-tu-fait-de-notre-monnaie.pdf">Etat qu’as tu fais de notre monnaie</a></li>
 <li><a href="https://www.institutcoppet.org/wp-content/uploads/2014/11/Renouer-avec-la-libert%C3%A9-Murray-Rothbard.pdf">Renouer avec la liberté – Le manifeste libertarien</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/murray-rothbard-leducation-gratuite-et-obligatoire/">L’éducation gratuite et obligatoire</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/upZSVz29LH_Murray-Rothbard-Anatomie-de-l-etat-FR">L’anatomie de l’état</a></li>
 </ul>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📚 Pascal Salin et articles divers</h2>
-<ul>
+<h2 style="color:#004080; margin-bottom:15px;">📚 Pascal Salin et articles divers</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://journaldeslibertes.fr/download/JDL16-le-liberalisme-est-le-seul-vrai-humanisme.pdf">Le libéralisme est le seul vrai humanisme</a></li>
 <li><a href="https://journaldeslibertes.fr/download/JDL12-le-mythe-de-la-justice-sociale.pdf">Le mythe de la justice sociale</a></li>
 <li><a href="https://journaldeslibertes.fr/download/JDL7-le-vrai-liberalisme-droite-et-gauche-unies-dans-lerreur.pdf">Le vrai libéralisme</a></li>
@@ -117,25 +114,11 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://www.institutmolinari.org/wp-content/uploads/2024/07/etude-fardeau-fiscal-eu-2024.pdf">Étude Institut Molinari</a></li>
 </ul>
 
-<hr style="border:1px solid #ccc;">
+<hr style="border:1px solid #ccc; margin:30px 0;">
 
-<h2 style="color:#004080;">📚 Autres ouvrages contemporains / Bitcoin et cryptomonnaies</h2>
-<ul>
-<li><a href="https://pdfhost.io/fr-FR/v/mGc3sBPgDL_Dieu_merci_pour_bitcoin_Lyle_Pratt__George_Mekhail__Jimmy_Song_"> Dieu merci pour bitcoin - Lyle Pratt</a></li>  
-<li><a href="https://pdfhost.io/fr-FR/v/MaAJqBJzjm_Bitcoin__Everything_divided_by_21_million__French_">L’infini divisé par 21 millions - Knut Svanholm</a></li>
-<li><a href="https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan">L’Etat Réseau - Balaji Srinivasan</a></li>
+<h2 style="color:#004080; margin-bottom:15px;">📚 Autres ouvrages contemporains</h2>
+<ul style="margin-bottom:30px;">
 <li><a href="https://pdfhost.io/fr-FR/v/GgFnJ2XpT8_le-capital-au-xxie-siecle-thomas-piketty">Thomas Piketty - Le capital au XXI siècle</a></li>
-<li><a href="https://bitcoinelegance.fr/">L’élégance de Bitcoin - Ludovic Lars</a></li>
-<li><a href="https://pandul.fr/dictionnaire/">Dictionnaire de Bitcoin - Loïc Morel</a></li>
-<li><a href="https://voskuil.org/cryptoeconomics/fr/cryptoéconomie.pdf">Cryptoeconomie - Éric Voskuil</a></li>
-<li><a href="https://bitcoin.fr/mastering-bitcoin-fr/">Mastering Bitcoin en français - Andreas Antonopoulos</a></li>
-<li><a href="https://pdfhost.io/fr-FR/v/GjDTG5eVms_Les-premieres-communications-publiques-du-createur-de-Bitcoin-Volume-1/">Les premières communications publiques
-du créateur de Bitcoin
-SATOSHI NAKAMOTO - Urbantech21</a></li>
-<li><a href="https://pdfhost.io/fr-FR/v/WhAgGBgCYz_TBH_FR-RC3_20231017/">Le manuel
-du bitcoin - Anil Patel</a></li>
-<li><a href="https://pdfhost.io/fr-FR/v/5Vzd3CQPzm_Le_Prix_de_Demain_-_Jeff_Booth"> Le Prix de Demain - Jeff Booth</a></li>
-
 </ul>
 
 </div>
