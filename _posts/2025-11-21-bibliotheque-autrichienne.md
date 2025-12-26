@@ -51,6 +51,8 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://www.institutcoppet.org/ludwig-von-mises-la-mentalite-anticapitaliste-2/">La mentalité anticapitaliste</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-chaos-du-planisme/">Le chaos du planisme</a></li>
 </ul>
+<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-linterventionnisme/">Ludwig von Mises – L’interventionnisme</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-memoires-souvenirs-deurope/">Ludwig von Mises – Mémoires souvenirs d’Europe</a></li>
 
 <hr style="border:1px solid #ccc;">
 
