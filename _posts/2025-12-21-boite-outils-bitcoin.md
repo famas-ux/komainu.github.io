@@ -35,7 +35,7 @@ categories: [bitcoin, outils]
   }
   nav a {
     margin: 0 8px;
-    color: #d97706; /* liens orange */
+    color: #1d4ed8; /* bleu menu */
     font-weight: bold;
     text-decoration: none;
   }
@@ -68,6 +68,21 @@ categories: [bitcoin, outils]
   a:hover {
     text-decoration: underline;
   }
+  footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+  }
+  footer a {
+    margin: 0 8px;
+    color: #1d4ed8; /* bleu menu footer */
+    font-weight: bold;
+    text-decoration: none;
+  }
+  footer a:hover {
+    text-decoration: underline;
+  }
 </style>
 </head>
 
@@ -84,11 +99,12 @@ categories: [bitcoin, outils]
   <a href="#protonwallet">Proton Wallet</a>
   <a href="#aiscience">AI Science</a>
   <a href="#privacyguides">Privacy Guides</a>
-  <a href="#btcdir">BTC Directory</a>
-<a href="#bitzy">Bitzy</a>
   <a href="#nostr">Nostr</a>
+  <a href="#btcdir">BTC Dir</a>
+  <a href="#bitzy">Bitzy</a>
 </nav>
 
+<!-- Temp-Mail -->
 <div class="card" id="tempmail">
   <h2>Temp-Mail</h2>
   <ul>
@@ -100,6 +116,7 @@ categories: [bitcoin, outils]
   <p><a href="https://temp-mail.org/fr/" target="_blank">Site officiel 🔗</a></p>
 </div>
 
+<!-- Proton Mail -->
 <div class="card" id="protonmail">
   <h2>Proton Mail</h2>
   <ul>
@@ -116,6 +133,7 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Proton Authenticator -->
 <div class="card" id="protonauth">
   <h2>Proton Authenticator</h2>
   <ul>
@@ -132,6 +150,7 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Proton Drive -->
 <div class="card" id="protondrive">
   <h2>Proton Drive</h2>
   <ul>
@@ -148,6 +167,7 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Proton Wallet -->
 <div class="card" id="protonwallet">
   <h2>Proton Wallet</h2>
   <ul>
@@ -164,6 +184,7 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- AI Science -->
 <div class="card" id="aiscience">
   <h2>Awesome AI for Science</h2>
   <ul>
@@ -180,6 +201,7 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Privacy Guides -->
 <div class="card" id="privacyguides">
   <h2>Privacy Guides</h2>
   <ul>
@@ -190,31 +212,8 @@ categories: [bitcoin, outils]
   </ul>
   <p><a href="https://www.privacyguides.org/fr/" target="_blank">Site officiel 🔗</a></p>
 </div>
-<div class="card" id="btcdir">
-  <h2>BTC Directory</h2>
-  <ul>
-    <li>Annuaire dédié aux sites et services Bitcoin</li>
-    <li>Catégorisé : wallets, exchanges, faucets, blogs…</li>
-    <li>Mise à jour régulière avec nouveaux sites actifs</li>
-    <li>Découverte rapide de projets et services Bitcoin fiables</li>
-  </ul>
-  <p>
-    <a href="https://btcdir.org/" target="_blank">Site officiel 🔗</a>
-  </p>
-</div>
 
-<div class="card" id="bitzy">
-  <h2>Bitzy</h2>
-  <ul>
-    <li>Annuaire Bitcoin / crypto-monnaies</li>
-    <li>Classement par catégories : wallets, exchanges, contenus éducatifs…</li>
-    <li>Vote et notation des sites listés</li>
-    <li>Découvrir rapidement des outils et services spécialisés</li>
-  </ul>
-  <p>
-    <a href="https://www.bitzy.com/" target="_blank">Site officiel 🔗</a>
-  </p>
-</div>
+<!-- Nostr -->
 <div class="card" id="nostr">
   <h2>Nostr – Réseau social décentralisé</h2>
   <ul>
@@ -237,6 +236,42 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Nouveaux outils -->
+<div class="card" id="btcdir">
+  <h2>BTC Directory</h2>
+  <ul>
+    <li>Annuaire de sites et services Bitcoin</li>
+    <li>Navigation par catégorie</li>
+    <li>Ressources francophones et internationales</li>
+  </ul>
+  <p><a href="https://btcdir.org/" target="_blank">Accéder 🔗</a></p>
 </div>
+
+<div class="card" id="bitzy">
+  <h2>Bitzy</h2>
+  <ul>
+    <li>Annuaire de sites Bitcoin et crypto</li>
+    <li>Classement et recherches rapides</li>
+    <li>Ressources mises à jour</li>
+  </ul>
+  <p><a href="https://www.bitzy.com/" target="_blank">Accéder 🔗</a></p>
+</div>
+
+</div>
+
+<!-- Footer -->
+<footer>
+  <a href="#tempmail">Temp-Mail</a>
+  <a href="#protonmail">Proton Mail</a>
+  <a href="#protonauth">Authenticator</a>
+  <a href="#protondrive">Proton Drive</a>
+  <a href="#protonwallet">Proton Wallet</a>
+  <a href="#aiscience">AI Science</a>
+  <a href="#privacyguides">Privacy Guides</a>
+  <a href="#nostr">Nostr</a>
+  <a href="#btcdir">BTC Dir</a>
+  <a href="#bitzy">Bitzy</a>
+</footer>
+
 </body>
 </html>
