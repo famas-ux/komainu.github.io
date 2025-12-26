@@ -27,7 +27,7 @@ categories: [bitcoin, outils]
   }
   h1, h2 {
     text-align: center;
-    color: #f7931a;
+    color: #f7931a; /* titre principal et h2 conservé */
   }
   nav {
     text-align: center;
@@ -35,7 +35,7 @@ categories: [bitcoin, outils]
   }
   nav a {
     margin: 0 8px;
-    color: #00a86b;
+    color: #d97706; /* liens orange */
     font-weight: bold;
     text-decoration: none;
   }
@@ -51,7 +51,7 @@ categories: [bitcoin, outils]
   }
   .card h2 {
     text-align: left;
-    color: #00a86b;
+    color: #00a86b; /* titre carte */
     margin-top: 0;
   }
   ul {
@@ -61,9 +61,12 @@ categories: [bitcoin, outils]
     margin-bottom: 8px;
   }
   a {
-    color: #00a86b;
+    color: #d97706; /* liens orange */
     font-weight: bold;
     text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
   }
 </style>
 </head>
