@@ -1,161 +1,217 @@
 ---
 layout: post
-title:  "Les lois économiques appliquées à Bitcoin"
-date:   2025-11-22 
+title: "Les lois économiques appliquées à Bitcoin"
+date: 2025-11-22
 categories: [economie, AnilPatel]
 ---
 
-# Les lois économiques appliquées à Bitcoin
+<style>
+/* Style standard des posts */
+body {
+    background-color: #ffffff;
+    color: #1c1c1e;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8;
+}
 
-*Article inspiré par Anil Patel (Le manuel du bitcoin : Concepts clés en économie, technologie et psychologie)*
+h1, h2, h3 {
+    color: #007733;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
-Bitcoin n’est pas qu’une monnaie. C’est un révélateur de **lois universelles**, un miroir de la **psychologie humaine** et un outil pour comprendre l’économie.  
+a {
+    color: #007733;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin-bottom: 25px;
+    padding: 15px 0;
+}
+
+ul {
+    margin-left: 20px;
+    padding-left: 0;
+}
+
+em {
+    color: #333333;
+}
+</style>
+
+<section>
+<h2>Les lois économiques appliquées à Bitcoin</h2>
+<p><em>Article inspiré par Anil Patel (Le manuel du bitcoin : Concepts clés en économie, technologie et psychologie)</em></p>
+<p>
+Bitcoin n’est pas qu’une monnaie. C’est un révélateur de <strong>lois universelles</strong>, un miroir de la
+<strong>psychologie humaine</strong> et un outil pour comprendre l’économie.<br>
 Chaque concept économique prend une nouvelle dimension lorsqu’il rencontre Bitcoin.
+</p>
+</section>
 
----
+<section>
+<h2>Loi de la rareté</h2>
+<p>Comment les ressources limitées sont réparties et convoitées.</p>
+<ul>
+<li><strong>UNE MONNAIE QU'ON IMPRIME À VOLONTÉ, C'EST UNE VALEUR QU'ON EFFACE À VOLONTÉ.</strong></li>
+<li>Quand la monnaie cesse d’être rare, on cherche celle qui l’est.</li>
+<li>Là où la rareté crée la valeur, Bitcoin crée la rareté.</li>
+</ul>
+</section>
 
-## LOI DE LA RARETÉ
-Comment les ressources limitées sont réparties et convoitées.
+<section>
+<h2>Concept de prime monétaire</h2>
+<ul>
+<li>La prime monétaire comble le vide. Bitcoin supprime le vide.</li>
+<li>La rareté crée la prime. La certitude crée le standard.</li>
+<li>La prime monétaire récompense l’incertitude. Bitcoin la rend inutile.</li>
+<li>Les monnaies aspirent au pouvoir. Bitcoin l’exerce.</li>
+<li>Là où le vide dictait le prix, le code dicte la valeur.</li>
+</ul>
+</section>
 
-- **UNE MONNAIE QU'ON IMPRIME A VOLONTÉ, C'EST UNE VALEUR QU'ON EFFACE A VOLONTÉ.**
-- Quand la monnaie cesse d’être rare, on cherche celle qui l’est.
-- Là où la rareté crée la valeur, Bitcoin crée la rareté.
+<section>
+<h2>La loi de Gresham</h2>
+<ul>
+<li>Lorsque deux monnaies sont décrétées équivalentes, la plus précieuse disparaît.</li>
+<li>Là où la monnaie se dégrade, Gresham s’applique. Là où Bitcoin apparaît, Gresham s’arrête.</li>
+<li>Quand l’État impose la mauvaise monnaie, le marché choisit Bitcoin.</li>
+</ul>
+</section>
 
----
+<section>
+<h2>La loi de Thiers</h2>
+<ul>
+<li>Toute monnaie que le peuple refuse cesse d’être monnaie.</li>
+<li>On peut imposer l’inflation, jamais empêcher la fuite vers une monnaie supérieure.</li>
+<li>La loi peut forcer l’usage, jamais la préférence.</li>
+</ul>
+</section>
 
-## CONCEPT DE PRIME MONÉTAIRE
-La valeur supplémentaire d’un bien pour sa capacité à remplir les fonctions de la monnaie.
+<section>
+<h2>L’effet Cantillon</h2>
+<ul>
+<li>L’émission monétaire crée une inflation asymétrique.</li>
+<li>L’émission profite à ceux qui la reçoivent en premier.</li>
+<li>Là où l’on imprime, l’injustice commence.</li>
+<li>L’effet Cantillon disparaît avec une monnaie que personne ne peut créer.</li>
+</ul>
+</section>
 
-- La prime monétaire comble le vide. Bitcoin supprime le vide.
-- La rareté crée la prime. La certitude crée le standard.
-- La prime monétaire récompense l’incertitude. Bitcoin la rend inutile.
-- Les monnaies aspirent au pouvoir. Bitcoin l’exerce.
-- Là où le vide dictait le prix, le code dicte la valeur.
+<section>
+<h2>Point de Schelling</h2>
+<ul>
+<li>Solution choisie par défaut en l’absence de coordination.</li>
+<li>Bitcoin devient naturellement un point de Schelling monétaire.</li>
+<li>Quand tous anticipent la même issue, elle devient la norme.</li>
+<li>Une monnaie neutre et limitée devient point de ralliement.</li>
+</ul>
+</section>
 
----
+<section>
+<h2>Coût d’opportunité</h2>
+<ul>
+<li>Le vrai prix d’une action est l’alternative sacrifiée.</li>
+<li>Une monnaie saine élève la discipline.</li>
+<li>Ne pas acheter Bitcoin dans un système inflationniste est déjà une perte.</li>
+<li>Bitcoin révèle les coûts cachés.</li>
+</ul>
+</section>
 
-## LA LOI DE GRESHAM
-- Lorsque deux monnaies sont décrétées avec une valeur nominale équivalente, la plus précieuse disparaît.
-- Là où la monnaie se dégrade, Gresham s’applique. Là où Bitcoin apparaît, Gresham s’arrête.
-- Quand l’État impose la mauvaise monnaie, le marché choisit Bitcoin.
+<section>
+<h2>Préférence temporelle</h2>
+<ul>
+<li>L’importance accordée au présent face au futur.</li>
+<li>Une monnaie saine restitue le temps.</li>
+<li>Bitcoin allonge l’horizon temporel.</li>
+</ul>
+</section>
 
----
+<section>
+<h2>Triangle d’incompatibilité</h2>
+<ul>
+<li>Flux de capitaux libres, politique monétaire indépendante, taux de change fixe.</li>
+<li>Bitcoin ajoute la fuite instantanée du capital.</li>
+<li>La mobilité transforme les choix en contraintes.</li>
+</ul>
+</section>
 
-## LA LOI DE THIERS
-- Toute monnaie que le peuple refuse cesse d’être monnaie, quelle que soit la loi.
-- On peut imposer l’inflation, mais non empêcher la fuite vers une monnaie supérieure.
-- La loi peut forcer l’usage, jamais la préférence.
+<section>
+<h2>Paradoxe de Jevons</h2>
+<ul>
+<li>La productivité accrue augmente la consommation.</li>
+<li>Bitcoin révèle l’usage énergétique gaspillé.</li>
+<li>Bitcoin convertit l’énergie en confiance.</li>
+</ul>
+</section>
 
----
+<section>
+<h2>Lois du pouvoir</h2>
+<ul>
+<li>20% des holders captent 80% de l’effet Pareto.</li>
+<li>Bitcoin suit la loi de puissance.</li>
+<li>Le chaos devient courbe.</li>
+</ul>
+</section>
 
-## L’EFFET CANTILLON
-- Les nouvelles unités monétaires créent une inflation disproportionnée selon la façon dont elles sont dépensées.
-- L’émission profite à ceux qui la touchent ; elle coûte à ceux qui l’attendent.
-- Là où l’on imprime, l’injustice commence. Là où la monnaie est fixe, elle s’arrête.
-- L’effet Cantillon disparaît avec une monnaie que personne ne peut créer.
+<section>
+<h2>Lorsque le gagnant rafle la mise</h2>
+<ul>
+<li>Effet réseau : plus d’utilisateurs, plus de liquidité.</li>
+<li>La liquidité aime l’unité.</li>
+</ul>
+</section>
 
----
+<section>
+<h2>Biais de l’unité</h2>
+<ul>
+<li>Vouloir posséder une unité entière est un biais cognitif.</li>
+<li>Un satoshi vaut plus qu’une unité entière d’illusions inflationnistes.</li>
+</ul>
+</section>
 
-## POINT DE SCHELLING
-- Une solution choisie par défaut, en l’absence de communication.
-- Bitcoin deviendra naturellement un point de Schelling monétaire.
-- Quand tous anticipent la même issue, cette issue devient la norme.
-- Là où le signal est le plus clair, le marché converge.
-- Une monnaie neutre, limitée et incorruptible devient le point de ralliement.
+<section>
+<h2>Biens de Veblen</h2>
+<ul>
+<li>Demande croissante avec le prix.</li>
+<li>Bitcoin attire par sa rareté absolue.</li>
+</ul>
+</section>
 
----
+<section>
+<h2>Mauvais investissement</h2>
+<ul>
+<li>Les signaux faussés entraînent une mauvaise allocation.</li>
+<li>Bitcoin restaure les signaux de prix.</li>
+</ul>
+</section>
 
-## COÛT D’OPPORTUNITÉ
-- Mesure la différence relative entre deux décisions.
-- Le vrai prix d’une action, c’est l’alternative que l’on sacrifie.
-- Une monnaie saine élève le coût d’opportunité et la discipline.
-- Dans un système inflationniste, ne pas acheter Bitcoin est déjà une perte.
-- Le temps travaille contre le fiat, il travaille pour Bitcoin.
-- Bitcoin révèle les coûts cachés de chaque décision.
+<section>
+<h2>Gains asymétriques</h2>
+<ul>
+<li>Hausse potentielle disproportionnée.</li>
+<li>L’offre fixe crée une convexité stratégique.</li>
+</ul>
+</section>
 
----
+<section>
+<h2>Matrice d’Ansoff</h2>
+<ul>
+<li>Bitcoin traverse toutes les cases : produit, marché, innovation.</li>
+<li>Chaque évolution Lightning crée un nouveau marché.</li>
+</ul>
+</section>
 
-## LA PRÉFÉRENCE TEMPORELLE
-- Importance accordée au présent par rapport au futur.
-- Notre horizon façonne nos choix plus que nos choix ne façonnent notre horizon.
-- Une monnaie saine n’achète pas le temps : elle le restitue.
-- Le long terme renaît quand la monnaie arrête de nous presser.
-- Bitcoin allonge l’horizon et redonne du futur à chacun.
+<section>
+<p>
+Bitcoin n’est pas simplement une monnaie : c’est un <strong>miroir économique</strong>.<br>
+Il révèle la rareté, la valeur, l’asymétrie et les biais humains.<br>
+Il transforme la théorie en expérience et redonne au temps sa valeur.
+</p>
 
----
-
-## LE TRIANGLE D’INCOMPATIBILITÉ
-- Trois options : flux de capitaux libres, politique monétaire indépendante, taux de change fixe. Deux possibles.
-- Bitcoin ajoute un sommet invisible : la fuite instantanée du capital.
-- La mobilité du capital transforme les choix en contraintes.
-- Bitcoin montre les limites du contrôle étatique.
-
----
-
-## LE PARADOXE DE JEVONS
-- La consommation d’une ressource augmente lorsque des gains de productivité sont réalisés.
-- Chaque progrès énergétique ouvre la porte à une consommation plus vaste.
-- Le Proof-of-Work révèle où l’énergie était gaspillée.
-- Bitcoin convertit l’énergie en confiance.
-
----
-
-## LOIS DU POUVOIR
-- Les relations où les changements de l’une entraînent un changement proportionnel de l’autre.
-- 20% des holders captent 80% de la magie Pareto.
-- Bitcoin suit la loi de puissance : petit hash, gros empire.
-- Les lois de puissance transforment le chaos en courbe parfaite.
-
----
-
-## LORSQUE LE GAGNANT RAFLE LA MISE
-- Avantages marginaux permettent parfois de s’emparer de la majeure partie du marché.
-- Effet réseau Bitcoin : plus d’utilisateurs, plus de liquidité, un vainqueur émerge.
-- La liquidité aime l’unité ; le marché, la concentration.
-
----
-
-## LE BIAIS DE L’UNITÉ
-- Les gens veulent posséder une unité entière d’une chose.
-- Penser qu’un Bitcoin est cher parce qu’on ne peut pas en acheter un entier est une erreur.
-- La rareté de Bitcoin récompense la compréhension des fractions.
-- Un satoshi vaut plus qu’une unité entière d’illusions inflationnistes.
-
----
-
-## LES BIENS DE VEBLEN
-- Demande croissante lorsque le prix augmente.
-- Bitcoin : rareté absolue, impossible à reproduire, attire le désir.
-- Le marché le traque comme une espèce en voie d’extinction.
-
----
-
-## MAUVAIS INVESTISSEMENT
-- Les signaux de prix faussés entraînent une mauvaise allocation du capital.
-- Bitcoin redresse les signaux et protège l’investissement réel.
-
----
-
-## GAINS ASYMÉTRIQUES
-- Potentiel de hausse disproportionné par rapport au risque.
-- L’information rare crée des gains asymétriques.
-- Bitcoin révèle les potentiels plutôt que de cacher les risques.
-- L’offre fixe face à une demande croissante crée une convexité stratégique.
-
----
-
-## MATRICE D’ANSOFF
-- Cadre stratégique pour la croissance des produits et marchés.
-- Bitcoin ne se limite jamais : il multiplie les opportunités.
-- Chaque innovation du réseau Lightning transforme un produit en marché.
-- Bitcoin traverse toutes les cases de la matrice d’Ansoff : produit, marché, innovation, opportunité.
-
----
-
-Bitcoin n’est pas simplement une monnaie : c’est un révélateur des **lois économiques** et de la **psychologie humaine**.  
-Il incarne la rareté, la valeur, l’asymétrie et les effets des décisions financières, là où le fiat dilue et masque ces principes.  
-Chaque concept — coût d’opportunité, prime monétaire, biais comportementaux, effet Cantillon ou dynamique de pouvoir — prend vie dans son fonctionnement transparent et incorruptible.  
-Bitcoin transforme la théorie en expérience, favorise des choix réfléchis et valorise le temps, tout en montrant les limites des systèmes traditionnels.  
-En somme, il agit comme un **miroir économique** et un outil de compréhension, révélant les forces invisibles qui guident nos décisions et redéfinissant la manière dont nous concevons la valeur et la liberté.
-
-*Famas. 924733*
+<p><em>Famas. 924733</em></p>
+</section>
