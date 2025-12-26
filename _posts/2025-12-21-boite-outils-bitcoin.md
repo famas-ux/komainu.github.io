@@ -27,7 +27,7 @@ categories: [bitcoin, outils]
   }
   h1, h2 {
     text-align: center;
-    color: #f7931a; /* titre principal et h2 conservé */
+    color: #f7931a; /* titre principal et h2 */
   }
   nav {
     text-align: center;
@@ -104,6 +104,7 @@ categories: [bitcoin, outils]
   <a href="#bitzy">Bitzy</a>
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
+  <a href="#blitzwallet">Blitz Wallet</a>
 </nav>
 
 <!-- Temp-Mail -->
@@ -295,6 +296,23 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Blitz Wallet -->
+<div class="card" id="blitzwallet">
+  <h2>Blitz Wallet</h2>
+  <ul>
+    <li>Wallet Bitcoin non-custodial</li>
+    <li>Lightning natif pour paiements rapides</li>
+    <li>Orienté privacy et sécurité</li>
+    <li>Interface simple et intuitive</li>
+  </ul>
+  <p>
+    <a href="https://famas-ux.github.io/komainu.github.io/bitcoin/wallet/2025/12/23/blitz-wallet-points-cles.html" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Famas — « Blitz Wallet : points clés »</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -311,6 +329,7 @@ categories: [bitcoin, outils]
   <a href="#bitzy">Bitzy</a>
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
+  <a href="#blitzwallet">Blitz Wallet</a>
 </footer>
 
 </body>
