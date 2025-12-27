@@ -2,7 +2,7 @@
 layout: page
 title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
-date: 2025-12-26
+date: 2025-12-27
 categories: [bitcoin, outils]
 ---
 
@@ -99,6 +99,7 @@ categories: [bitcoin, outils]
   <a href="#protondrive">Proton Drive</a>
   <a href="#privacyguides">Privacy Guides</a>
   <a href="#onlineprivacy">Online Privacy 101</a>
+  <a href="#nca">National Cybersecurity Alliance</a>
 
   <!-- Wallets Bitcoin -->
   <a href="#protonwallet">Proton Wallet</a>
@@ -218,6 +219,28 @@ categories: [bitcoin, outils]
       Référence Nostr / Primal 🔗
     </a><br>
     <em>Formation propulsée par GitBook</em>
+  </p>
+</div>
+
+<div class="card" id="nca">
+  <h2>National Cybersecurity Alliance</h2>
+  <ul>
+    <li>Ressources en ligne sur la sécurité et la confidentialité numériques</li>
+    <li>Organisation de référence en sensibilisation à la cybersécurité</li>
+    <li>Guides sur la sécurité et la vie privée en ligne</li>
+    <li>Ressources éducation & carrières en cybersécurité</li>
+    <li>Bonnes pratiques pour entreprises et organisations</li>
+    <li>Glossaire clair des termes de la cybersécurité</li>
+    <li>Articles, vidéos et outils pédagogiques</li>
+  </ul>
+  <p>
+    <a href="https://staysafeonline.org/" target="_blank">
+      Site officiel 🔗
+    </a><br>
+    <a href="https://staysafeonline.org/resources/" target="_blank">
+      Ressources sécurité & confidentialité 🔗
+    </a><br>
+    <em>Source : National Cybersecurity Alliance</em>
   </p>
 </div>
 
@@ -445,6 +468,7 @@ categories: [bitcoin, outils]
   <a href="#protondrive">Proton Drive</a>
   <a href="#privacyguides">Privacy Guides</a>
   <a href="#onlineprivacy">Online Privacy 101</a>
+  <a href="#nca">National Cybersecurity Alliance</a>
 
   <!-- Wallets -->
   <a href="#protonwallet">Proton Wallet</a>
