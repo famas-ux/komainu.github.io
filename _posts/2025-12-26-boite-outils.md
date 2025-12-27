@@ -107,6 +107,7 @@ categories: [bitcoin, outils]
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#blitzwallet">Blitz Wallet</a>
   <a href="#p2pband">P2P.Band</a>
+  <a href="#krux">Krux</a>
 
   <!-- Réseaux décentralisés -->
   <a href="#nostr">Nostr</a>
@@ -333,6 +334,23 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<div class="card" id="krux">
+  <h2>Krux — Firmware open source pour signataires Bitcoin</h2>
+  <ul>
+    <li>Transforme des appareils Kendryte K210 (Maix Amigo, M5StickV, Yahboom, WonderMV, TZT) en signataires Bitcoin polyvalents</li>
+    <li>Plateforme flexible adaptée à différents facteurs de forme et kits de développement DIY</li>
+    <li>Outils pour création et récupération de sauvegardes mnémoniques avec cryptage pour sécurité renforcée</li>
+    <li>Interaction hors ligne avec portefeuilles via QR codes, cartes SD ou imprimantes thermiques</li>
+    <li>Appareils plug-and-play avec grands écrans tactiles, faciles et conviviaux</li>
+    <li>Idéal pour débutants et utilisateurs avancés recherchant sécurité et personnalisation</li>
+  </ul>
+  <p>
+    <a href="https://github.com/selfcustody/krux" target="_blank">Site officiel / GitHub 🔗</a><br>
+    <a href="https://github.com/selfcustody/krux#getting-started" target="_blank">Getting Started 🔗</a><br>
+    <em>Source : Krux GitHub</em>
+  </p>
+</div>
+
 <!-- Réseaux -->
 <div class="card" id="nostr">
   <h2>Nostr – Réseau social décentralisé</h2>
@@ -516,6 +534,7 @@ categories: [bitcoin, outils]
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#blitzwallet">Blitz Wallet</a>
   <a href="#p2pband">P2P.Band</a>
+  <a href="#krux">Krux</a>
 
   <!-- Réseaux -->
   <a href="#nostr">Nostr</a>
