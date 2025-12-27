@@ -98,6 +98,7 @@ categories: [bitcoin, outils]
   <a href="#protonauth">Authenticator</a>
   <a href="#protondrive">Proton Drive</a>
   <a href="#privacyguides">Privacy Guides</a>
+  <a href="#onlineprivacy">Online Privacy 101</a>
 
   <!-- Wallets Bitcoin -->
   <a href="#protonwallet">Proton Wallet</a>
@@ -195,6 +196,29 @@ categories: [bitcoin, outils]
     <li>Connaissances et guides de confidentialité et sécurité</li>
   </ul>
   <p><a href="https://www.privacyguides.org/fr/" target="_blank">Site officiel 🔗</a></p>
+</div>
+
+<div class="card" id="onlineprivacy">
+  <h2>OnlinePrivacy.io — Privacy 101</h2>
+  <ul>
+    <li>Formation gratuite à la confidentialité en ligne</li>
+    <li>Introduction aux menaces numériques</li>
+    <li>Principes fondamentaux de la vie privée</li>
+    <li>Architecture de confidentialité</li>
+    <li>Messagerie privée (Signal)</li>
+    <li>Navigation privée et anonyme</li>
+    <li>Chiffrement des données</li>
+    <li>Gestion identifiants et mots de passe</li>
+    <li>VPN : usages et limites</li>
+    <li>Courriel sécurisé</li>
+  </ul>
+  <p>
+    <a href="https://www.onlineprivacy.io/" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://primal.net/e/nevent1qqsf434sw2zs3vj8ypf94cmphk93ud3pfaufcxd96jzsja8gpdlt6mcwr4rrr" target="_blank">
+      Référence Nostr / Primal 🔗
+    </a><br>
+    <em>Formation propulsée par GitBook</em>
+  </p>
 </div>
 
 <!-- Wallets -->
@@ -420,6 +444,7 @@ categories: [bitcoin, outils]
   <a href="#protonauth">Authenticator</a>
   <a href="#protondrive">Proton Drive</a>
   <a href="#privacyguides">Privacy Guides</a>
+  <a href="#onlineprivacy">Online Privacy 101</a>
 
   <!-- Wallets -->
   <a href="#protonwallet">Proton Wallet</a>
