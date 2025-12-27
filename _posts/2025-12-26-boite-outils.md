@@ -100,6 +100,7 @@ categories: [bitcoin, outils]
   <a href="#privacyguides">Privacy Guides</a>
   <a href="#onlineprivacy">Online Privacy 101</a>
   <a href="#nca">National Cybersecurity Alliance</a>
+  <a href="#privacytools">PrivacyTools.io</a>
 
   <!-- Wallets Bitcoin -->
   <a href="#protonwallet">Proton Wallet</a>
@@ -241,6 +242,27 @@ categories: [bitcoin, outils]
       Ressources sécurité & confidentialité 🔗
     </a><br>
     <em>Source : National Cybersecurity Alliance</em>
+  </p>
+</div>
+
+<div class="card" id="privacytools">
+  <h2>PrivacyTools.io — Guide des outils de confidentialité</h2>
+  <ul>
+    <li>Guide de référence pour logiciels et applications chiffrés</li>
+    <li>Protection contre la surveillance de masse mondiale</li>
+    <li>Alternatives privacy-first aux services grand public</li>
+    <li>Recommandations pour navigation, messagerie, stockage et VPN</li>
+    <li>Guides pratiques pour limiter le pistage et la collecte de données</li>
+    <li>Adapté aux débutants comme aux utilisateurs avancés</li>
+  </ul>
+  <p>
+    <a href="https://www.privacytools.io/" target="_blank">
+      Site officiel 🔗
+    </a><br>
+    <em>
+      Créé en 2015 après les révélations d’Edward Snowden.<br>
+      Source : PrivacyTools.io
+    </em>
   </p>
 </div>
 
@@ -469,6 +491,7 @@ categories: [bitcoin, outils]
   <a href="#privacyguides">Privacy Guides</a>
   <a href="#onlineprivacy">Online Privacy 101</a>
   <a href="#nca">National Cybersecurity Alliance</a>
+  <a href="#privacytools">PrivacyTools.io</a>
 
   <!-- Wallets -->
   <a href="#protonwallet">Proton Wallet</a>
