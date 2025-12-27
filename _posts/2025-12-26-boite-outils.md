@@ -106,6 +106,7 @@ categories: [bitcoin, outils]
   <a href="#protonwallet">Proton Wallet</a>
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#blitzwallet">Blitz Wallet</a>
+  <a href="#p2pband">P2P.Band</a>
 
   <!-- Réseaux décentralisés -->
   <a href="#nostr">Nostr</a>
@@ -315,6 +316,23 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<div class="card" id="p2pband">
+  <h2>P2P.Band — Agrégateur décentralisé Bitcoin</h2>
+  <ul>
+    <li>Agrégateur P2P pour l’achat et la vente de Bitcoin</li>
+    <li>Centralise plusieurs places de marché décentralisées</li>
+    <li>Transactions peer-to-peer sécurisées sans intermédiaire central</li>
+    <li>Recherche et comparaison des meilleurs prix Bitcoin</li>
+    <li>Support multi‑plateformes et multi‑pays</li>
+    <li>Interface simple pour débutants et traders expérimentés</li>
+    <li>Escrow et réputation des utilisateurs pour plus de sécurité</li>
+  </ul>
+  <p>
+    <a href="https://p2p.band/" target="_blank">Site officiel 🔗</a><br>
+    <em>Source : P2P.Band</em>
+  </p>
+</div>
+
 <!-- Réseaux -->
 <div class="card" id="nostr">
   <h2>Nostr – Réseau social décentralisé</h2>
@@ -497,6 +515,7 @@ categories: [bitcoin, outils]
   <a href="#protonwallet">Proton Wallet</a>
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#blitzwallet">Blitz Wallet</a>
+  <a href="#p2pband">P2P.Band</a>
 
   <!-- Réseaux -->
   <a href="#nostr">Nostr</a>
