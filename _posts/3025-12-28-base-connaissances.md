@@ -98,6 +98,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#taxervoler">Taxer, c’est voler?</a>
   <a href="#bitcoindefinition">Bitcoin — Définition</a>
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
+  <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
 </nav>
 
@@ -234,6 +235,30 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="mysteresatoshi">
+  <h2>Le Mystère Satoshi — Série documentaire</h2>
+
+  <p>
+    Série documentaire en 6 épisodes de 10 minutes, retraçant les origines
+    de Bitcoin et le mouvement des Cypherpunks. La série explore les pionniers,
+    leur philosophie et leur influence sur le développement de la monnaie numérique.
+  </p>
+
+  <ul>
+    <li>6 épisodes × 10 minutes chacun</li>
+    <li>Histoire des Cypherpunks et de la cryptographie</li>
+    <li>Origines et principes de Bitcoin</li>
+    <li>Portraits de pionniers et développeurs clés</li>
+    <li>Approche pédagogique et accessible pour tous</li>
+  </ul>
+
+  <p>
+    <a href="https://youtu.be/RYFnKX8iM8k" target="_blank">
+      Source : Rémi Forte — Le Mystère Satoshi 🔗
+    </a>
+  </p>
+</div>
+
 <div class="card" id="bibliothequebitcoin">
   <h2>Ouvrages contemporains — Bitcoin & Économie autrichienne</h2>
 
@@ -268,6 +293,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bitcoininflation">Bitcoin & Inflation</a>
   <a href="#taxervoler">Taxer, c’est voler?</a>
   <a href="#bitcoindefinition">Bitcoin — Définition</a>
+  <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
 </footer>
