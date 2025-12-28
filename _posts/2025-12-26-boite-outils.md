@@ -139,6 +139,8 @@ categories: [bitcoin, outils]
   <a href="#drinkbob">Drink Bob</a>
   <a href="#sulinaderm">Sulina Derm</a>.
   <a href="#livres_enfants">Livres enfants</a>
+    <!-- Shop / Outils -->
+  <a href="#bebop">Be‑BOP</a>
 </nav>
 
 <!-- Sécurité & Privacy -->
@@ -674,6 +676,26 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Be-BOP -->
+<div class="card" id="bebop">
+  <h2>Be‑BOP — The ethical sales toolbox</h2>
+  <p>Solution open-source et libre de monétisation pour communautés, créateurs et commerçants, offrant indépendance, transparence et contrôle sur les ventes sans intermédiaires.</p>
+
+  <ul>
+    <li>Gestion de ventes en ligne, billetterie, abonnements, peerfunding, dons et paiement “pay what you want”</li>
+    <li>Compatible produits physiques et numériques</li>
+    <li>Self-hosted ou installations certifiées</li>
+    <li>Intégrations Bitcoin et Lightning via implémentations externes</li>
+    <li>Idéal pour créateurs, entrepreneurs et communautés</li>
+  </ul>
+
+  <p>
+    <a href="https://be-bop.io/home" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://x.com/bebopcommunity?s=21" target="_blank">Compte X @bebopcommunity 🔗</a><br>
+    <em>Source : Be‑BOP / X</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -725,4 +747,6 @@ categories: [bitcoin, outils]
   <a href="#drinkbob">Drink Bob</a>
   <a href="#sulinaderm">Sulina Derm</a>
   <a href="#livres_enfants">Livres enfants</a>
+    <!-- Shop / Outils -->
+  <a href="#bebop">Be‑BOP</a>
 </footer>
