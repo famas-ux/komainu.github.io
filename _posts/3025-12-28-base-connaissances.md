@@ -98,6 +98,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#taxervoler">Taxer, c’est voler?</a>
   <a href="#bitcoindefinition">Bitcoin — Définition</a>
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
+  <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -233,6 +234,31 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="bibliothequebitcoin">
+  <h2>Ouvrages contemporains — Bitcoin & Économie autrichienne</h2>
+
+  <p>
+    Cette sélection regroupe des ouvrages contemporains et classiques
+    sur Bitcoin et la théorie économique autrichienne. Les textes
+    abordent la monnaie, l’inflation, les marchés libres et la philosophie
+    monétaire derrière Bitcoin.
+  </p>
+
+  <ul>
+    <li>Sélection d’ouvrages contemporains sur Bitcoin</li>
+    <li>Références classiques de l’école autrichienne (Mises, Rothbard…)</li>
+    <li>Thèmes : monnaie saine, critique du système fiat, principes du marché libre</li>
+    <li>Approche éducative pour comprendre Bitcoin et économie monétaire</li>
+    <li>Ressources pour lecture approfondie et auto-formation</li>
+  </ul>
+
+  <p>
+    <a href="https://famas-ux.github.io/komainu.github.io/bibliotheque-bitcoin-autrichienne/" target="_blank">
+      Source : Bibliothèque Bitcoin — Famas UX 🔗
+    </a>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -243,6 +269,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#taxervoler">Taxer, c’est voler?</a>
   <a href="#bitcoindefinition">Bitcoin — Définition</a>
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
+  <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
 </footer>
 
 </body>
