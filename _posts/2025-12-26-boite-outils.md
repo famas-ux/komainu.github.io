@@ -124,6 +124,8 @@ categories: [bitcoin, outils]
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
   <a href="#aiscience">AI Science</a>
+  <!-- Outils techniques / Communication -->
+  <a href="#chitchatter">Chitchatter</a>
 
   <!-- Données réseau -->
   <a href="#mempool">Mempool.space</a>
@@ -517,6 +519,25 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Chitchatter -->
+<div class="card" id="chitchatter">
+  <h2>Chitchatter — Messagerie P2P open source</h2>
+  <p>Communication sécurisée, privée et éphémère, sans serveur central.</p>
+  <ul>
+    <li>Open source (GPL v2)</li>
+    <li>Peer-to-peer, end-to-end encrypté via WebRTC</li>
+    <li>Messages éphémères, non persistants</li>
+    <li>Fonctionne sans API serveur</li>
+    <li>Texte, audio, vidéo, partage d’écran</li>
+    <li>Embeddable via <code>&lt;chat-room /&gt;</code> ou iframe</li>
+    <li>Self-hostable, sans tracking ni collecte de données</li>
+  </ul>
+  <p>
+    <a href="https://chitchatter.im/" target="_blank">Site officiel 🔗</a><br>
+    <em>Source : Chitchatter GitHub — JeremyCKahn</em>
+  </p>
+</div>
+
 <!-- Données réseau -->
 <div class="card" id="mempool">
   <h2>Mempool.space</h2>
@@ -753,6 +774,8 @@ categories: [bitcoin, outils]
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
   <a href="#aiscience">AI Science</a>
+  <!-- Outils techniques / Communication -->
+  <a href="#chitchatter">Chitchatter</a>
 
   <!-- Données réseau -->
   <a href="#mempool">Mempool.space</a>
