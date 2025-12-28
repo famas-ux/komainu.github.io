@@ -94,6 +94,7 @@ categories: [bitcoin, monnaie, inflation]
 <nav>
   <a href="#probleme">Quel est le problème ?</a>
   <a href="#pricesrise">Why Do Prices Rise?</a>
+  <a href="#bitcoininflation">Bitcoin & Inflation</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -131,12 +132,37 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="bitcoininflation">
+  <h2>Bitcoin & Inflation</h2>
+
+  <p>
+    Bitcoin ne subit pas l’inflation monétaire au sens des monnaies fiat.
+    Son offre est strictement limitée et prévisible, contrairement aux devises
+    émises sans plafond par les États et banques centrales.
+  </p>
+
+  <ul>
+    <li>Inflation fiat = augmentation de la masse monétaire</li>
+    <li>Hausse des prix = perte de valeur de la monnaie</li>
+    <li>Offre Bitcoin plafonnée à 21 millions</li>
+    <li>Émission connue, programmée et non manipulable</li>
+    <li>Bitcoin protège contre la dilution monétaire</li>
+  </ul>
+
+  <p>
+    <a href="https://bitcoin.rocks/inflation" target="_blank">
+      Source : Bitcoin Rocks — Inflation 🔗
+    </a>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
   <a href="#pricesrise">Why Do Prices Rise?</a>
+  <a href="#bitcoininflation">Bitcoin & Inflation</a>
 </footer>
 
 </body>
