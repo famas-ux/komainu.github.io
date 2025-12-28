@@ -140,13 +140,11 @@ categories: [bitcoin, monnaie, inflation]
 
 <div class="card" id="bitcoininflation">
   <h2>Bitcoin & Inflation</h2>
-
   <p>
     Bitcoin ne subit pas l’inflation monétaire au sens des monnaies fiat.
     Son offre est strictement limitée et prévisible, contrairement aux devises
     émises sans plafond par les États et banques centrales.
   </p>
-
   <ul>
     <li>Inflation fiat = augmentation de la masse monétaire</li>
     <li>Hausse des prix = perte de valeur de la monnaie</li>
@@ -154,7 +152,6 @@ categories: [bitcoin, monnaie, inflation]
     <li>Émission connue, programmée et non manipulable</li>
     <li>Bitcoin protège contre la dilution monétaire</li>
   </ul>
-
   <p>
     <a href="https://bitcoin.rocks/inflation" target="_blank">
       Source : Bitcoin Rocks — Inflation 🔗
@@ -164,19 +161,16 @@ categories: [bitcoin, monnaie, inflation]
 
 <div class="card" id="taxervoler">
   <h2>Taxer, c’est voler?</h2>
-
   <p>
     La page soutient que l’impôt et les taxes obligatoires sont assimilables à un
     vol car ils sont prélevés de manière forcée sans consentement direct de chacun.
   </p>
-
   <ul>
     <li>Taxation forcée = prélèvement sans consentement</li>
     <li>L’impôt n’est pas perçu comme un échange volontaire</li>
     <li>Argument philosophique en faveur de la liberté individuelle</li>
     <li>Renvoi vers un site externe développant cette thèse</li>
   </ul>
-
   <p>
     <a href="https://churchofzer.com/TiT/" target="_blank">
       Source : Taxer, c’est voler? 🔗
@@ -186,13 +180,11 @@ categories: [bitcoin, monnaie, inflation]
 
 <div class="card" id="bitcoindefinition">
   <h2>Bitcoin — Définition</h2>
-
   <p>
     Bitcoin est une monnaie numérique décentralisée reposant sur un réseau pair-à-pair.
     Il permet d’échanger de la valeur sans intermédiaire, de manière transparente,
     vérifiable et résistante à la censure.
   </p>
-
   <ul>
     <li>Monnaie numérique sans autorité centrale</li>
     <li>Fonctionne sur une blockchain publique</li>
@@ -200,7 +192,6 @@ categories: [bitcoin, monnaie, inflation]
     <li>Offre limitée et prévisible</li>
     <li>Résistant à la censure et à la manipulation monétaire</li>
   </ul>
-
   <p>
     <a href="https://famas-ux.github.io/komainu.github.io/bitcoin/d%C3%A9finition/yorick%20de%20mombynes/2025/12/07/bitcoin-definition-ymombynes.html" target="_blank">
       Source : Yorick de Mombynes — Définition de Bitcoin 🔗
@@ -210,14 +201,12 @@ categories: [bitcoin, monnaie, inflation]
 
 <div class="card" id="bitcoinmonnaie">
   <h2>Pourquoi votre argent perd de la valeur</h2>
-
   <p>
     Cette vidéo pédagogique détaille le fonctionnement réel du système monétaire :
     création monétaire, rôle des banques, inflation et dérives des monnaies fiduciaires.
     Elle retrace l’évolution historique de la monnaie, de l’étalon-or au pétrodollar,
     jusqu’à l’émergence de Bitcoin.
   </p>
-
   <ul>
     <li>Naissance de la monnaie : troc, crédit et monnaie marchandise</li>
     <li>Or, banques et réserve fractionnaire</li>
@@ -228,7 +217,6 @@ categories: [bitcoin, monnaie, inflation]
     <li>Bitcoin vs stablecoins et MNBC</li>
     <li>Bitcoin comme tentative de réparation monétaire</li>
   </ul>
-
   <p>
     <a href="https://youtu.be/QYqX-VoMxiE" target="_blank">
       Source : How to Bitcoin — analyses monétaires inspirées notamment des travaux de Lyn Alden 🔗
@@ -238,13 +226,11 @@ categories: [bitcoin, monnaie, inflation]
 
 <div class="card" id="mysteresatoshi">
   <h2>Le Mystère Satoshi — Série documentaire</h2>
-
   <p>
     Série documentaire en 6 épisodes de 10 minutes, retraçant les origines
     de Bitcoin et le mouvement des Cypherpunks. La série explore les pionniers,
     leur philosophie et leur influence sur le développement de la monnaie numérique.
   </p>
-
   <ul>
     <li>6 épisodes × 10 minutes chacun</li>
     <li>Histoire des Cypherpunks et de la cryptographie</li>
@@ -252,7 +238,6 @@ categories: [bitcoin, monnaie, inflation]
     <li>Portraits de pionniers et développeurs clés</li>
     <li>Approche pédagogique et accessible pour tous</li>
   </ul>
-
   <p>
     <a href="https://youtu.be/RYFnKX8iM8k" target="_blank">
       Source : Rémi Forte — Le Mystère Satoshi 🔗
@@ -262,14 +247,12 @@ categories: [bitcoin, monnaie, inflation]
 
 <div class="card" id="bibliothequebitcoin">
   <h2>Ouvrages contemporains — Bitcoin & Économie autrichienne</h2>
-
   <p>
     Cette sélection regroupe des ouvrages contemporains et classiques
     sur Bitcoin et la théorie économique autrichienne. Les textes
     abordent la monnaie, l’inflation, les marchés libres et la philosophie
     monétaire derrière Bitcoin.
   </p>
-
   <ul>
     <li>Sélection d’ouvrages contemporains sur Bitcoin</li>
     <li>Références classiques de l’école autrichienne (Mises, Rothbard…)</li>
@@ -277,7 +260,6 @@ categories: [bitcoin, monnaie, inflation]
     <li>Approche éducative pour comprendre Bitcoin et économie monétaire</li>
     <li>Ressources pour lecture approfondie et auto-formation</li>
   </ul>
-
   <p>
     <a href="https://famas-ux.github.io/komainu.github.io/bibliotheque-bitcoin-autrichienne/" target="_blank">
       Source : Bibliothèque Bitcoin — Famas UX 🔗
@@ -285,7 +267,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
-<div class="card" id="planb-academy">
+<div class="card" id="formationsgratuites">
   <h2>Formations gratuites — PlanB Academy</h2>
   <ul>
     <li><a href="https://planb.academy/fr/courses/le-parcours-de-bitcoin-2b7dc507-81e3-4b70-88e6-41ed44239966" target="_blank">BTC101 — Le parcours de Bitcoin</a></li>
