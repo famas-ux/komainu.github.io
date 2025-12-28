@@ -135,6 +135,7 @@ categories: [bitcoin, outils]
     <!-- Shop -->
   <a href="#bitcoinbazar">Shop</a>
   <a href="#bitcoinbook">BitcoinBook</a>
+  <a href="#bitcoinstore">BitcoinStore</a>
 </nav>
 
 <!-- Sécurité & Privacy -->
@@ -594,6 +595,23 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Shop -->
+<div class="card" id="bitcoinstore">
+  <h2>BitcoinStore — Boutique Bitcoin France</h2>
+  <ul>
+    <li>Boutique française spécialisée Bitcoin et accessoires</li>
+    <li>Vente de hardware wallets, livres, accessoires de sécurité et cadeaux Bitcoin</li>
+    <li>Paiement en Bitcoin possible</li>
+    <li>Conseils pour débutants et utilisateurs avancés</li>
+    <li>Présence et annonces sur X (Twitter)</li>
+  </ul>
+  <p>
+    <a href="https://bitcoinstore.fr/" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://x.com/mill3sim3?s=21" target="_blank">Compte X @mill3sim3 🔗</a><br>
+    <em>Source : BitcoinStore France</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -641,4 +659,5 @@ categories: [bitcoin, outils]
     <!-- Shop -->
   <a href="#bitcoinbazar">Shop</a>
   <a href="#bitcoinbook">BitcoinBook</a>
+  <a href="#bitcoinstore">BitcoinStore</a>
 </footer>
