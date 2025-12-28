@@ -2,7 +2,7 @@
 layout: page
 title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
-date: 2025-12-27
+date: 2025-12-28
 categories: [bitcoin, outils]
 ---
 
@@ -112,6 +112,7 @@ categories: [bitcoin, outils]
 
   <!-- Réseaux décentralisés -->
   <a href="#nostr">Nostr</a>
+  <a href="#flare">Flare</a>
 
   <!-- Répertoires -->
   <a href="#btcdir">BTC Dir</a>
@@ -395,6 +396,27 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<div class="card" id="flare">
+  <h2>Flare — Agrégateur de réseaux sociaux décentralisés</h2>
+  <ul>
+    <li>Unifie plusieurs flux de réseaux sociaux dans une seule interface</li>
+    <li>Conçu pour le Web décentralisé (protocoles ouverts)</li>
+    <li>Compatible avec des réseaux comme Nostr, Mastodon ou Bluesky selon configuration</li>
+    <li>Réduit la fragmentation entre plateformes sociales</li>
+    <li>Respect de la vie privée et contrôle par l’utilisateur</li>
+    <li>Projet open source, transparent et auditable</li>
+  </ul>
+  <p>
+    <a href="https://flareapp.moe/" target="_blank">
+      Site officiel 🔗
+    </a><br>
+    <a href="https://github.com/DimensionDev/Flare/" target="_blank">
+      Code source / GitHub 🔗
+    </a><br>
+    <em>Source : DimensionDev — Flare</em>
+  </p>
+</div>
+
 <!-- Répertoires -->
 <div class="card" id="btcdir">
   <h2>BTC Directory</h2>
@@ -560,6 +582,7 @@ categories: [bitcoin, outils]
 
   <!-- Réseaux -->
   <a href="#nostr">Nostr</a>
+  <a href="#flare">Flare</a>#
 
   <!-- Répertoires -->
   <a href="#btcdir">BTC Dir</a>
