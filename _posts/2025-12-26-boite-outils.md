@@ -137,7 +137,8 @@ categories: [bitcoin, outils]
   <a href="#bitcoinbook">BitcoinBook</a>
   <a href="#bitcoinstore">BitcoinStore</a>
   <a href="#drinkbob">Drink Bob</a>
-  <a href="#sulinaderm">Sulina Derm</a>
+  <a href="#sulinaderm">Sulina Derm</a>.
+  <a href="#livres_enfants">Livres enfants</a>
 </nav>
 
 <!-- Sécurité & Privacy -->
@@ -648,6 +649,31 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Shop -->
+<div class="card" id="livres_enfants">
+  <h2>Livres pour enfants — Transmission de la liberté</h2>
+  <p>Ces livres ne sont pas des leçons, ce sont des graines pour que les enfants comprennent tôt : liberté, responsabilité, valeur et pourquoi Bitcoin n’est pas “juste un prix”.</p>
+
+  <ul>
+    <li><strong>T01 — Les marchands de chandelles :</strong> Liberté et créativité, ce qu’on voit et ce qu’on ne voit pas.</li>
+    <li><strong>T02 — La vitre magique :</strong> Choix, coût d’opportunité et conséquences invisibles.</li>
+    <li><strong>T03 — La grande fabrique des règles :</strong> Excès de règles et créativité étouffée.</li>
+    <li><strong>T04 — Le mystérieux argent de papier :</strong> Monnaie, valeur et illusions de l’argent facile.</li>
+  </ul>
+
+  <p><strong>Versions & disponibilité :</strong></p>
+  <ul>
+    <li>Version standard : <a href="https://www.amazon.com/" target="_blank">Amazon 🔗</a></li>
+    <li>Version premium : Bientôt sur Bitcoin Store de <a href="https://x.com/mill3sim3?s=21" target="_blank">@Mill3sim3 🔗</a> (paiement en Bitcoin, qualité supérieure)</li>
+  </ul>
+
+  <p>
+    <a href="https://linktr.ee/scuba_wizard" target="_blank">Linktree du projet 🔗</a><br>
+    <a href="https://x.com/scuba_wizard" target="_blank">Compte X @scuba_wizard 🔗</a><br>
+    <em>Source : X / Linktree</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -698,4 +724,5 @@ categories: [bitcoin, outils]
   <a href="#bitcoinstore">BitcoinStore</a>
   <a href="#drinkbob">Drink Bob</a>
   <a href="#sulinaderm">Sulina Derm</a>
+  <a href="#livres_enfants">Livres enfants</a>
 </footer>
