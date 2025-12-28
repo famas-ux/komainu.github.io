@@ -101,6 +101,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
+  <a href="#freecertifications">Free Certifications</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -287,6 +288,29 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="freecertifications">
+  <h2>Free Certifications — Cours gratuits avec certification</h2>
+
+  <p>
+    Une liste organisée de cours gratuits offrant des certifications. Idéal pour apprendre de nouvelles compétences
+    et obtenir des certificats sans frais.
+  </p>
+
+  <ul>
+    <li>Couvre divers domaines : Général, Sécurité, Bases de données, Gestion de projet, Marketing, Divers</li>
+    <li>Accessible en ligne, format utilisateur-friendly</li>
+    <li>Possibilité de s’inscrire à une newsletter pour recevoir les nouvelles opportunités de certification</li>
+    <li>Ressources supplémentaires pour : Nonprofits, Open Source, Startups, Éducation, Communautés</li>
+  </ul>
+
+  <p>
+    <a href="https://free-certifications.com" target="_blank">
+      Site officiel Free Certifications 🔗
+    </a><br>
+    <em>Source : GitHub — <a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">CloudCommunity/Free-Certifications 🔗</a></em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -300,6 +324,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
+  <a href="#freecertifications">Free Certifications</a>
 </footer>
 
 </body>
