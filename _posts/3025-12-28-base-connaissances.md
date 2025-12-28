@@ -100,7 +100,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
   <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
-  <a href="#parcoursbitcoin">Le Parcours de Bitcoin</a>
+  <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -285,27 +285,49 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
-<div class="card" id="parcoursbitcoin">
-  <h2>Le Parcours de Bitcoin — PlanB Academy</h2>
+<div class="card" id="formationsgratuites">
+  <h2>Formations gratuites — PlanB Academy</h2>
 
-  <p>
-    Cours en ligne interactif présentant l’histoire, la technologie et la philosophie de Bitcoin.
-    Destiné aux débutants et intermédiaires, il offre un parcours pédagogique complet pour comprendre
-    le fonctionnement du réseau, les concepts économiques et l’écosystème global.
-  </p>
+  <p>Parcours gratuits couvrant Bitcoin, sécurité numérique, développement et philosophie.</p>
 
   <ul>
-    <li>Historique de Bitcoin et contexte monétaire</li>
-    <li>Fonctionnement blockchain et réseau décentralisé</li>
-    <li>Concepts économiques : monnaie saine, inflation, réserves</li>
-    <li>Sécurité et gestion des wallets</li>
-    <li>Philosophie des Cypherpunks et vision Bitcoin</li>
-    <li>Parcours pédagogique structuré et interactif</li>
+    <li><a href="https://planb.academy/fr/courses/le-parcours-de-bitcoin-2b7dc507-81e3-4b70-88e6-41ed44239966" target="_blank">Le Parcours de Bitcoin</a> — Principes fondamentaux, mineurs, transactions, wallets</li>
+    <li><a href="https://planb.academy/fr/courses/obtenir-ses-premiers-bitcoins" target="_blank">Obtenir ses premiers bitcoins</a> — Débutant : acheter, sécuriser, gérer</li>
+    <li><a href="https://planb.academy/fr/courses/mettre-en-place-son-premier-noeud-bitcoin" target="_blank">Mettre en place son premier nœud Bitcoin</a> — Intermédiaire : installer, configurer, utiliser un nœud</li>
+    <li><a href="https://planb.academy/fr/courses/confidentialite-sur-bitcoin" target="_blank">La confidentialité sur Bitcoin</a> — Intermédiaire : protection de la vie privée</li>
+    <li><a href="https://planb.academy/fr/courses/philosophie-de-developpement-bitcoin" target="_blank">Philosophie de développement Bitcoin</a> — Avancé : conception et principes</li>
+    <li><a href="https://planb.academy/fr/courses/creer-une-communaute-bitcoin" target="_blank">Créer une communauté Bitcoin</a> — Avancé : organiser et animer</li>
+    <li><a href="https://planb.academy/fr/courses/securite-informatique-gestion-donnees" target="_blank">Sécurité informatique & gestion des données</a> — Débutant : mots de passe, backup, protection</li>
+    <li><a href="https://planb.academy/fr/courses/architecture-portefeuille-bitcoin" target="_blank">Architecture du portefeuille Bitcoin</a> — Intermédiaire : principes cryptographiques</li>
+    <li><a href="https://planb.academy/fr/courses/ameliorer-sa-securite-numerique-personnelle" target="_blank">Améliorer sa sécurité numérique personnelle</a> — Intermédiaire : environnement sécurisé</li>
+    <li><a href="https://planb.academy/fr/courses/bases-cryptographie-moderne" target="_blank">Bases de la cryptographie moderne</a> — Avancé</li>
+    <li><a href="https://planb.academy/fr/courses/histoire-philosophique-liberte" target="_blank">Une histoire philosophique de la liberté</a> — Débutant</li>
+    <li><a href="https://planb.academy/fr/courses/introduction-bitcoin-stablecoin" target="_blank">Introduction à Bitcoin & Stablecoin</a> — Débutant</li>
+    <li><a href="https://planb.academy/fr/courses/histoire-creation-bitcoin" target="_blank">L'histoire de la création de Bitcoin</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/fondamentaux-ecole-autrichienne-economie" target="_blank">Fondamentaux de l'école autrichienne d'économie</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/pensee-economique-bastiat" target="_blank">Pensée économique de Bastiat</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/etudes-cas-hyperinflation" target="_blank">Études de cas d'hyperinflation</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/origines-laissez-faire-economique" target="_blank">Les origines du Laissez-Faire économique</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/histoire-de-la-monnaie" target="_blank">Histoire de la Monnaie</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/spinoza-et-bitcoin" target="_blank">Spinoza et Bitcoin</a> — Avancé</li>
+    <li><a href="https://planb.academy/fr/courses/bitcoin-pour-les-entreprises" target="_blank">Bitcoin pour les entreprises</a> — Débutant</li>
+    <li><a href="https://planb.academy/fr/courses/biz-school-previous-editions" target="_blank">Biz School Previous Editions</a> — Débutant</li>
+    <li><a href="https://planb.academy/fr/courses/maitriser-btcpay-server" target="_blank">Maîtriser BTC Pay Server</a> — Avancé</li>
+    <li><a href="https://planb.academy/fr/courses/fondamentaux-developpement-bitcoin" target="_blank">Fondamentaux du développement Bitcoin</a> — Débutant</li>
+    <li><a href="https://planb.academy/fr/courses/principes-fondamentaux-javascript-nodejs" target="_blank">Principes fondamentaux de JavaScript et NodeJS</a> — Débutant</li>
+    <li><a href="https://planb.academy/fr/courses/theorie-lightning-network" target="_blank">Théorie du Lightning Network</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/programmation-bitcoin" target="_blank">Programmation Bitcoin</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/element-liquid-network" target="_blank">Construire avec Elements et Liquid Network</a> — Intermédiaire</li>
+    <li><a href="https://planb.academy/fr/courses/liquid-bootcamp-essentials" target="_blank">Liquid Bootcamp Essentials</a> — Avancé</li>
+    <li><a href="https://planb.academy/fr/courses/reseaux-ip-theorie-pratique" target="_blank">Réseaux IP de la théorie à la pratique</a> — Avancé</li>
+    <li><a href="https://planb.academy/fr/courses/apprendre-rust-bitcoin" target="_blank">Apprendre Rust avec Bitcoin</a> — Avancé</li>
+    <li><a href="https://planb.academy/fr/courses/programmation-rgb" target="_blank">Programmation RGB</a> — Expert</li>
+    <li><a href="https://planb.academy/fr/courses/introduction-au-minage-bitcoin" target="_blank">Introduction au Minage de Bitcoin</a> — Intermédiaire</li>
   </ul>
 
   <p>
-    <a href="https://planb.academy/fr/courses/le-parcours-de-bitcoin-2b7dc507-81e3-4b70-88e6-41ed44239966" target="_blank">
-      Source : PlanB Academy 🔗
+    <a href="https://planb.academy/fr/learn-anytime" target="_blank">
+      Source : PlanB Academy — Learn Anytime 🔗
     </a>
   </p>
 </div>
@@ -322,7 +344,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
-  <a href="#parcoursbitcoin">Le Parcours de Bitcoin</a>
+  <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
 </footer>
 
 </body>
