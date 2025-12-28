@@ -136,6 +136,7 @@ categories: [bitcoin, outils]
   <a href="#bitcoinbazar">Shop</a>
   <a href="#bitcoinbook">BitcoinBook</a>
   <a href="#bitcoinstore">BitcoinStore</a>
+  <a href="#drinkbob">Drink Bob</a>
 </nav>
 
 <!-- Sécurité & Privacy -->
@@ -612,6 +613,23 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Shop -->
+<div class="card" id="drinkbob">
+  <h2>Drink Bob — Boutique Bitcoin-friendly</h2>
+  <ul>
+    <li>Boutique en ligne proposant boissons et accessoires Bitcoin-friendly</li>
+    <li>Paiement en Bitcoin accepté</li>
+    <li>Produits originaux, lifestyle et culture Bitcoin</li>
+    <li>Présence et annonces sur X (Twitter)</li>
+    <li>Convient aux passionnés et aux curieux de l’univers Bitcoin</li>
+  </ul>
+  <p>
+    <a href="https://drink-bob.com/" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://x.com/drink_b0b?s=21" target="_blank">Compte X @drink_b0b 🔗</a><br>
+    <em>Source : Drink Bob</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -660,4 +678,5 @@ categories: [bitcoin, outils]
   <a href="#bitcoinbazar">Shop</a>
   <a href="#bitcoinbook">BitcoinBook</a>
   <a href="#bitcoinstore">BitcoinStore</a>
+  <a href="#drinkbob">Drink Bob</a>
 </footer>
