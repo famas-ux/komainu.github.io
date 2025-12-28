@@ -97,6 +97,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bitcoininflation">Bitcoin & Inflation</a>
   <a href="#taxervoler">Taxer, c’est voler?</a>
   <a href="#bitcoindefinition">Bitcoin — Définition</a>
+  <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -204,6 +205,34 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="bitcoinmonnaie">
+  <h2>Pourquoi votre argent perd de la valeur</h2>
+
+  <p>
+    Cette vidéo pédagogique détaille le fonctionnement réel du système monétaire :
+    création monétaire, rôle des banques, inflation et dérives des monnaies fiduciaires.
+    Elle retrace l’évolution historique de la monnaie, de l’étalon-or au pétrodollar,
+    jusqu’à l’émergence de Bitcoin.
+  </p>
+
+  <ul>
+    <li>Naissance de la monnaie : troc, crédit et monnaie marchandise</li>
+    <li>Or, banques et réserve fractionnaire</li>
+    <li>Banques centrales et abandon de l’étalon-or</li>
+    <li>Système monétaire mondial : Bretton Woods et pétrodollar</li>
+    <li>Inflation et crises des monnaies fiduciaires</li>
+    <li>Origines techniques de Bitcoin et preuve de travail</li>
+    <li>Bitcoin vs stablecoins et MNBC</li>
+    <li>Bitcoin comme tentative de réparation monétaire</li>
+  </ul>
+
+  <p>
+    <a href="https://youtu.be/QYqX-VoMxiE" target="_blank">
+      Source : How to Bitcoin — analyses monétaires inspirées notamment des travaux de Lyn Alden 🔗
+    </a>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -213,6 +242,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bitcoininflation">Bitcoin & Inflation</a>
   <a href="#taxervoler">Taxer, c’est voler?</a>
   <a href="#bitcoindefinition">Bitcoin — Définition</a>
+  <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
 </footer>
 
 </body>
