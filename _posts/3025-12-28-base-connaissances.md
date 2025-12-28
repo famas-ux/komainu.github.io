@@ -100,6 +100,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
   <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
+  <a href="#parcoursbitcoin">Le Parcours de Bitcoin</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -284,6 +285,31 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="parcoursbitcoin">
+  <h2>Le Parcours de Bitcoin — PlanB Academy</h2>
+
+  <p>
+    Cours en ligne interactif présentant l’histoire, la technologie et la philosophie de Bitcoin.
+    Destiné aux débutants et intermédiaires, il offre un parcours pédagogique complet pour comprendre
+    le fonctionnement du réseau, les concepts économiques et l’écosystème global.
+  </p>
+
+  <ul>
+    <li>Historique de Bitcoin et contexte monétaire</li>
+    <li>Fonctionnement blockchain et réseau décentralisé</li>
+    <li>Concepts économiques : monnaie saine, inflation, réserves</li>
+    <li>Sécurité et gestion des wallets</li>
+    <li>Philosophie des Cypherpunks et vision Bitcoin</li>
+    <li>Parcours pédagogique structuré et interactif</li>
+  </ul>
+
+  <p>
+    <a href="https://planb.academy/fr/courses/le-parcours-de-bitcoin-2b7dc507-81e3-4b70-88e6-41ed44239966" target="_blank">
+      Source : PlanB Academy 🔗
+    </a>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -296,6 +322,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
+  <a href="#parcoursbitcoin">Le Parcours de Bitcoin</a>
 </footer>
 
 </body>
