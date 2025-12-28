@@ -96,6 +96,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#pricesrise">Why Do Prices Rise?</a>
   <a href="#bitcoininflation">Bitcoin & Inflation</a>
   <a href="#taxervoler">Taxer, c’est voler?</a>
+  <a href="#bitcoindefinition">Bitcoin — Définition</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -179,6 +180,30 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="bitcoindefinition">
+  <h2>Bitcoin — Définition</h2>
+
+  <p>
+    Bitcoin est une monnaie numérique décentralisée reposant sur un réseau pair-à-pair.
+    Il permet d’échanger de la valeur sans intermédiaire, de manière transparente,
+    vérifiable et résistante à la censure.
+  </p>
+
+  <ul>
+    <li>Monnaie numérique sans autorité centrale</li>
+    <li>Fonctionne sur une blockchain publique</li>
+    <li>Sécurisé par la preuve de travail (Proof of Work)</li>
+    <li>Offre limitée et prévisible</li>
+    <li>Résistant à la censure et à la manipulation monétaire</li>
+  </ul>
+
+  <p>
+    <a href="https://famas-ux.github.io/komainu.github.io/bitcoin/d%C3%A9finition/yorick%20de%20mombynes/2025/12/07/bitcoin-definition-ymombynes.html" target="_blank">
+      Source : Yorick de Mombynes — Définition de Bitcoin 🔗
+    </a>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -187,6 +212,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#pricesrise">Why Do Prices Rise?</a>
   <a href="#bitcoininflation">Bitcoin & Inflation</a>
   <a href="#taxervoler">Taxer, c’est voler?</a>
+  <a href="#bitcoindefinition">Bitcoin — Définition</a>
 </footer>
 
 </body>
