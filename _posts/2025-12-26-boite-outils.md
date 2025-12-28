@@ -134,6 +134,7 @@ categories: [bitcoin, outils]
 
     <!-- Shop -->
   <a href="#bitcoinbazar">Shop</a>
+  <a href="#bitcoinbook">BitcoinBook</a>
 </nav>
 
 <!-- Sécurité & Privacy -->
@@ -577,6 +578,22 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Shop -->
+<div class="card" id="bitcoinbook">
+  <h2>BitcoinBook — Boutique Bitcoin & livres</h2>
+  <ul>
+    <li>Boutique en ligne spécialisée Bitcoin</li>
+    <li>Livres, guides et supports éducatifs en français</li>
+    <li>Produits physiques pour approfondir ses connaissances Bitcoin</li>
+    <li>Paiement possible en Bitcoin</li>
+    <li>Convient aux débutants comme aux passionnés</li>
+  </ul>
+  <p>
+    <a href="https://bitcoinbook.shop/collections/french" target="_blank">Site officiel 🔗</a><br>
+    <em>Source : BitcoinBook — Collection française</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -623,4 +640,5 @@ categories: [bitcoin, outils]
   
     <!-- Shop -->
   <a href="#bitcoinbazar">Shop</a>
+  <a href="#bitcoinbook">BitcoinBook</a>
 </footer>
