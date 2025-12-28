@@ -95,6 +95,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#probleme">Quel est le problème ?</a>
   <a href="#pricesrise">Why Do Prices Rise?</a>
   <a href="#bitcoininflation">Bitcoin & Inflation</a>
+  <a href="#taxervoler">Taxer, c’est voler?</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -156,6 +157,28 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<div class="card" id="taxervoler">
+  <h2>Taxer, c’est voler?</h2>
+
+  <p>
+    La page soutient que l’impôt et les taxes obligatoires sont assimilables à un
+    vol car ils sont prélevés de manière forcée sans consentement direct de chacun.
+  </p>
+
+  <ul>
+    <li>Taxation forcée = prélèvement sans consentement</li>
+    <li>L’impôt n’est pas perçu comme un échange volontaire</li>
+    <li>Argument philosophique en faveur de la liberté individuelle</li>
+    <li>Renvoi vers un site externe développant cette thèse</li>
+  </ul>
+
+  <p>
+    <a href="https://churchofzer.com/TiT/" target="_blank">
+      Source : Taxer, c’est voler? 🔗
+    </a>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -163,6 +186,7 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#probleme">Quel est le problème ?</a>
   <a href="#pricesrise">Why Do Prices Rise?</a>
   <a href="#bitcoininflation">Bitcoin & Inflation</a>
+  <a href="#taxervoler">Taxer, c’est voler?</a>
 </footer>
 
 </body>
