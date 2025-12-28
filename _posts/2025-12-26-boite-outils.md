@@ -582,7 +582,7 @@ categories: [bitcoin, outils]
 
   <!-- Réseaux -->
   <a href="#nostr">Nostr</a>
-  <a href="#flare">Flare</a>#
+  <a href="#flare">Flare</a>
 
   <!-- Répertoires -->
   <a href="#btcdir">BTC Dir</a>
