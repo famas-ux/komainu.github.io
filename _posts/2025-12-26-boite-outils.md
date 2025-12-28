@@ -117,6 +117,8 @@ categories: [bitcoin, outils]
   <!-- Répertoires -->
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
+    <!-- Répertoires / Privacy -->
+  <a href="#kycnot">KYCnot.me</a>
 
   <!-- Outils techniques -->
   <a href="#json2map">json2map</a>
@@ -448,6 +450,25 @@ categories: [bitcoin, outils]
   <p><a href="https://www.bitzy.com/" target="_blank">Accéder 🔗</a></p>
 </div>
 
+<!-- KYCnot.me -->
+<div class="card" id="kycnot">
+  <h2>KYCnot.me — Directory de services sans KYC</h2>
+  <p>Annuaire de services crypto sans procédure KYC pour préserver la confidentialité et la souveraineté financière.</p>
+
+  <ul>
+    <li>Répertorie échanges, services, VPN et outils crypto sans KYC</li>
+    <li>Filtrage par type de service et crypto (Bitcoin, Monero, etc.)</li>
+    <li>Respect de la vie privée : minimaliste, pas de tracking, pas de collecte d’informations personnelles</li>
+    <li>Option communautaire : suggestions et avis anonymes</li>
+    <li>Ressource complémentaire pour utilisateurs cherchant des alternatives décentralisées</li>
+  </ul>
+
+  <p>
+    <a href="https://kycnot.me/" target="_blank">Site officiel 🔗</a><br>
+    <em>Source : KYCnot.me</em>
+  </p>
+</div>
+
 <!-- Outils techniques -->
 <div class="card" id="json2map">
   <h2>json2map.com — Visualisation JSON</h2>
@@ -725,6 +746,8 @@ categories: [bitcoin, outils]
   <!-- Répertoires -->
   <a href="#btcdir">BTC Dir</a>
   <a href="#bitzy">Bitzy</a>
+    <!-- Répertoires / Privacy -->
+  <a href="#kycnot">KYCnot.me</a>
 
   <!-- Outils techniques -->
   <a href="#json2map">json2map</a>
