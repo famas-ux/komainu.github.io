@@ -124,6 +124,7 @@ categories: [bitcoin, outils]
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
   <a href="#aiscience">AI Science</a>
+  <a href="#tibillet">Tibillet</a>
   <!-- Outils techniques / Communication -->
   <a href="#chitchatter">Chitchatter</a>
 
@@ -519,6 +520,24 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Tibillet — Outil de billetterie -->
+<div class="card" id="tibillet">
+  <h2>Tibillet — Outil de billetterie coopératif</h2>
+  <p>Plateforme de billetterie en ligne simple, sécurisée et collaborative, adaptée aux événements et projets associatifs.</p>
+  <ul>
+    <li>Gestion d’événements et billets en ligne</li>
+    <li>Projet coopératif et open source</li>
+    <li>Adapté aux associations et projets citoyens</li>
+    <li>Interface simple et sécurisée</li>
+    <li>Intégration possible via blog / plateforme Ghost</li>
+  </ul>
+  <p>
+    <a href="https://tibillet.org/fr/" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://ghost.tibillet.coop/" target="_blank">Blog / Ghost 🔗</a><br>
+    <em>Source : Tibillet</em>
+  </p>
+</div>
+
 <!-- Chitchatter -->
 <div class="card" id="chitchatter">
   <h2>Chitchatter — Messagerie P2P open source</h2>
@@ -774,6 +793,7 @@ categories: [bitcoin, outils]
   <a href="#json2map">json2map</a>
   <a href="#omnitools">OmniTools</a>
   <a href="#aiscience">AI Science</a>
+  <a href="#tibillet">Tibillet</a>
   <!-- Outils techniques / Communication -->
   <a href="#chitchatter">Chitchatter</a>
 
