@@ -137,6 +137,7 @@ categories: [bitcoin, outils]
   <a href="#bitcoinbook">BitcoinBook</a>
   <a href="#bitcoinstore">BitcoinStore</a>
   <a href="#drinkbob">Drink Bob</a>
+  <a href="#sulinaderm">Sulina Derm</a>
 </nav>
 
 <!-- Sécurité & Privacy -->
@@ -630,6 +631,23 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Shop -->
+<div class="card" id="sulinaderm">
+  <h2>Sulina Derm — Soins naturels & artisanaux</h2>
+  <ul>
+    <li>Boutique artisanale de soins naturels pour la peau</li>
+    <li>Produits à base de suif, formulations simples et traditionnelles</li>
+    <li>Fabrication artisanale et approche minimaliste</li>
+    <li>Paiement en Bitcoin accepté</li>
+    <li>Présence et communication sur X (Twitter)</li>
+  </ul>
+  <p>
+    <a href="https://sulinaderm.com/" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://x.com/suif_et_praline?s=21" target="_blank">Compte X @suif_et_praline 🔗</a><br>
+    <em>Source : Sulina Derm</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -679,4 +697,5 @@ categories: [bitcoin, outils]
   <a href="#bitcoinbook">BitcoinBook</a>
   <a href="#bitcoinstore">BitcoinStore</a>
   <a href="#drinkbob">Drink Bob</a>
+  <a href="#sulinaderm">Sulina Derm</a>
 </footer>
