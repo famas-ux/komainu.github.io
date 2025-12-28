@@ -144,7 +144,6 @@ ul {
 <li>🔗 <a href="https://peachbitcoin.com/fr/kycfree-orderbook/">Orderbook sans KYC</a></li>
 <li>🔗 <a href="https://planb.academy/fr/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874">PlanB Academy – Tutoriel</a></li>
 <li>🔗 <a href="https://api.peachbitcoin.com/v1/market/tradePricePeaks">API Peach</a></li>
-<li>🔗 <a
-href="https://drive.google.com/file/d/1jwmXTZO4DtVbNVt32Py1ElcWo_YXKpHW/view>how to cash4sats – Tutoriel</a></li>
+<li>🔗 <a href="https://drive.google.com/file/d/1jwmXTZO4DtVbNVt32Py1ElcWo_YXKpHW/view">how to cash4sats – Tutoriel</a></li>
 </ul>
 </section>
