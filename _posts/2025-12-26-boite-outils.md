@@ -131,6 +131,9 @@ categories: [bitcoin, outils]
   <a href="#clarkmoody">Clark Moody</a>
   <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
   <a href="#bitbo">bitbo.io</a>
+
+    <!-- Shop -->
+  <a href="#bitcoinbazar">Shop</a>
 </nav>
 
 <!-- Sécurité & Privacy -->
@@ -558,6 +561,22 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Shop -->
+<div class="card" id="bitcoinbazar">
+  <h2>Bitcoin Bazar — Boutique Bitcoin à Paris</h2>
+  <ul>
+    <li>Boutique physique et en ligne dédiée exclusivement à Bitcoin</li>
+    <li>Vente de hardware wallets, backups métalliques, livres et objets Bitcoin</li>
+    <li>Paiement en Bitcoin via BTCPay Server</li>
+    <li>Livraison en point relais ou lockers pour préserver la confidentialité</li>
+    <li>Lieu d’échange et de conseils autour de Bitcoin</li>
+  </ul>
+  <p>
+    <a href="https://bitcoinbazar.fr/" target="_blank">Site officiel 🔗</a><br>
+    <em>Boutique Bitcoin — Paris 18ᵉ arrondissement</em>
+  </p>
+</div>
+
 </div>
 
 <!-- Footer -->
@@ -601,4 +620,7 @@ categories: [bitcoin, outils]
   <a href="#clarkmoody">Clark Moody</a>
   <a href="#wickedbitcoin">Wicked Smart Bitcoin</a>
   <a href="#bitbo">bitbo.io</a>
+  
+    <!-- Shop -->
+  <a href="#bitcoinbazar">Shop</a>
 </footer>
