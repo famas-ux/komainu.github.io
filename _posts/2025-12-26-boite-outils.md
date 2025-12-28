@@ -101,6 +101,7 @@ categories: [bitcoin, outils]
   <a href="#onlineprivacy">Online Privacy 101</a>
   <a href="#nca">National Cybersecurity Alliance</a>
   <a href="#privacytools">PrivacyTools.io</a>
+  <a href="#origamivault">OrigamiVault</a>
 
   <!-- Wallets Bitcoin -->
   <a href="#protonwallet">Proton Wallet</a>
@@ -265,6 +266,26 @@ categories: [bitcoin, outils]
       Créé en 2015 après les révélations d’Edward Snowden.<br>
       Source : PrivacyTools.io
     </em>
+  </p>
+</div>
+<div class="card" id="origamivault">
+  <h2>OrigamiVault — Chiffrer et stocker sur papier</h2>
+  <ul>
+    <li>Outil de chiffrement permettant de sauvegarder des données sensibles sur support papier</li>
+    <li>Conçu pour fonctionner hors ligne, sans dépendance à un service tiers</li>
+    <li>Protection contre les risques numériques : piratage, malware, cloud compromis</li>
+    <li>Adapté aux sauvegardes de phrases mnémoniques, secrets, clés ou informations critiques</li>
+    <li>Approche complémentaire aux sauvegardes numériques et hardware wallets</li>
+    <li>Stratégies avancées de sauvegarde avec séparation, redondance et récupération</li>
+  </ul>
+  <p>
+    <a href="https://origamivault.github.io/origamivault/encrypt.html" target="_blank">
+      Outil de chiffrement OrigamiVault 🔗
+    </a><br>
+    <a href="https://origamivault.github.io/origamivault/" target="_blank">
+      Documentation & stratégies de sauvegarde 🔗
+    </a><br>
+    <em>Source : OrigamiVault — Crypter et stocker sur papier</em>
   </p>
 </div>
 
@@ -528,6 +549,7 @@ categories: [bitcoin, outils]
   <a href="#onlineprivacy">Online Privacy 101</a>
   <a href="#nca">National Cybersecurity Alliance</a>
   <a href="#privacytools">PrivacyTools.io</a>
+  <a href="#origamivault">OrigamiVault</a>
 
   <!-- Wallets -->
   <a href="#protonwallet">Proton Wallet</a>
