@@ -107,6 +107,7 @@ categories: [bitcoin, outils]
   <a href="#protonwallet">Proton Wallet</a>
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#blitzwallet">Blitz Wallet</a>
+  <a href="#peachbitcoin">Peach Bitcoin</a>
   <a href="#p2pband">P2P.Band</a>
   <a href="#krux">Krux</a>
 
@@ -351,6 +352,25 @@ categories: [bitcoin, outils]
       Lire l’article complet 🔗
     </a><br>
     <em>Source : Famas — « Blitz Wallet : points clés »</em>
+  </p>
+</div>
+
+<div class="card" id="peachbitcoin">
+  <h2>Peach Bitcoin — P2P sans KYC</h2>
+  <ul>
+    <li>Achat et vente de bitcoin en peer-to-peer</li>
+    <li>Aucun KYC, aucune vérification d’identité</li>
+    <li>Self-custody : Peach ne détient jamais les fonds</li>
+    <li>Escrow Bitcoin intégré pour sécuriser les échanges</li>
+    <li>Carnet d’ordres public et transparent</li>
+    <li>Multiples moyens de paiement selon les offres</li>
+  </ul>
+  <p>
+    <a href="https://peachbitcoin.com" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://famas-ux.github.io/komainu.github.io/peach-bitcoin-p2p-sans-kyc/" target="_blank">
+      Lire la fiche détaillée 🔗
+    </a><br>
+    <em>Source : Peach Bitcoin / Famas</em>
   </p>
 </div>
 
@@ -776,6 +796,7 @@ categories: [bitcoin, outils]
   <a href="#protonwallet">Proton Wallet</a>
   <a href="#bullwallet">Bull Wallet / Bull Échanges</a>
   <a href="#blitzwallet">Blitz Wallet</a>
+  <a href="#peachbitcoin">Peach Bitcoin</a>
   <a href="#p2pband">P2P.Band</a>
   <a href="#krux">Krux</a>
 
