@@ -108,7 +108,7 @@ categories: [nostr, articles, bitcoin]
       <li><strong>Validation pratique :</strong> coordination et modération décentralisées, infrastructure résiliente et distribuée, alternative fonctionnelle aux plateformes centralisées</li>
     </ul>
     <p>
-      <a href="https://primal.net/maxhillebrand/0cdda9a44c6e161f" target="_blank">
+      <a href="https://yakihonne.com/article/s/franckb@blitzwalletapp.com/d6a096f1773f95a7" target="_blank">
         Lire l’article complet 🔗
       </a><br>
       <em>Source : Max Hillebrand — An Anarcho-Capitalist Analysis of Nostr</em>
