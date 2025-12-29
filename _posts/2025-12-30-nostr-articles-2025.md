@@ -92,7 +92,7 @@ categories: [nostr, articles, bitcoin]
 
   <!-- Carte 1 -->
   <div class="card" id="carte1">
-    <span class="badge">Lire réserve de bonnes surprises</span>
+    <span class="badge">Nostr : Liberté, propriété, marché</span>
     <h2>Nostr — Analyse anarcho-capitaliste</h2>
     <p>
       Nostr illustre concrètement les principes de l’anarcho-capitalisme de Murray Rothbard :
@@ -117,7 +117,7 @@ categories: [nostr, articles, bitcoin]
 
   <!-- Carte 2 -->
   <div class="card" id="carte2">
-    <span class="badge">En préparation</span>
+    <span class="badge">Bitcoin : Capital stable, énergie productive</span>
     <h2>Bitcoin — Infrastructure économique & énergétique</h2>
     <p>
       Bitcoin s’impose comme une infrastructure économique et énergétique pour les entreprises :
