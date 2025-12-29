@@ -2,7 +2,7 @@
 layout: page
 title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
-date: 2025-12-28
+date: 2025-12-29
 categories: [bitcoin, outils]
 ---
 
@@ -366,7 +366,7 @@ categories: [bitcoin, outils]
     <li>Multiples moyens de paiement selon les offres</li>
   </ul>
   <p>
-    <a href="https://peachbitcoin.com" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://peachbitcoin.com/referral/?code=PR5CE3" target="_blank">Site officiel 🔗</a><br>
     <a href="https://famas-ux.github.io/komainu.github.io/peach-bitcoin-p2p-sans-kyc/" target="_blank">
       Lire la fiche détaillée 🔗
     </a><br>
