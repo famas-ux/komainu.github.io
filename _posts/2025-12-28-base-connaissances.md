@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Base de Connaissances"
+permalink: /base-connaissances/
+date: 2025-12-30
+categories: [bitcoin, base connaissances]
+---
+
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
