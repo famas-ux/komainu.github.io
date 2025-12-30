@@ -95,6 +95,7 @@
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
+  <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -356,6 +357,33 @@
   <p><a href="https://edu.myfirstbitcoin.io/" target="_blank">edu.myfirstbitcoin.io 🔗</a></p>
 </div>
 
+<!-- Carte 12 -->
+<div class="card" id="cours-histoire-bitcoin">
+  <h2>Cours Histoire Bitcoin — Ludovic Lars</h2>
+  <p>
+    Auteur : Ludovic Lars, connu pour <em>L’élégance de Bitcoin</em>.<br>
+    Ce cours propose une approche pédagogique pour comprendre la naissance et le développement de Bitcoin à travers des vidéos et des ressources écrites.
+  </p>
+
+  <h3>Ressources vidéos</h3>
+  <ul>
+    <li>Playlist YouTube : <a href="https://youtube.com/playlist?list=PLPbyvqJ24GuPhOskiYdVGicRUnjBxIPrb&si=NXv1z7ofmRrRwVlp" target="_blank">L’histoire de Bitcoin 🔗</a></li>
+  </ul>
+
+  <h3>Ressources écrites / site officiel</h3>
+  <ul>
+    <li>Site : <a href="https://viresinnumeris.fr/" target="_blank">Vires in Numeris 🔗</a></li>
+  </ul>
+
+  <h3>Points clés abordés</h3>
+  <ul>
+    <li>Origines et contexte de la création de Bitcoin</li>
+    <li>Philosophie et principes fondamentaux derrière la monnaie numérique</li>
+    <li>Rôle des pionniers et influence sur l’écosystème cryptographique</li>
+    <li>Analyse pédagogique pour tous les niveaux</li>
+  </ul>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -369,6 +397,7 @@
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
+  <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
 </footer>
 
 </div>
