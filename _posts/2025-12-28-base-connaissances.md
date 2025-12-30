@@ -102,7 +102,6 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#freecertifications">Free Certifications</a>
-  <a href="#bitcoin-adoption-pro">Bitcoin pour les entreprises</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -312,34 +311,6 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
-<div class="card" id="bitcoin-adoption-pro">
-  <h2>Bitcoin pour les entreprises — Adoption et usages professionnels</h2>
-
-  <p>
-    Bitcoin s’impose comme une infrastructure économique et énergétique pour les entreprises :
-    il permet une diversification transparente du capital, un levier de dette basé sur des actifs
-    vérifiables, des paiements souverains et sécurisés, des systèmes de récompenses motivants,
-    et la valorisation de l’énergie excédentaire via le minage.
-  </p>
-
-  <ul>
-    <li>Stabilité monétaire et prévisibilité</li>
-    <li>Continuité technique et preuve de rareté</li>
-    <li>Colonne vertébrale économique et industrielle pour l’entreprise</li>
-    <li>Sécurité, indépendance et souveraineté dans un monde instable</li>
-    <li>Base technique pour gérer capital, paiements et énergie</li>
-  </ul>
-
-  <p>
-    <em>Source : Nicolas Cantu — Bitcoin pour les entreprises, Yakihonne 🔗</em><br>
-    <a href="https://yakihonne.com/note/nevent1qqsxnk9e97tt8e2mpzgh4pwz3yqm06z2m402290vj0x22klyzl6ny8spr3mhxue69uhkummnw3ez6vp39eukz6mfdphkumn99e3k7mgzyzee78cnx8086hpcxp5znns8vch2gqn0fkssq2yfmxawzr4ntt4lcqcyqqqqqqg45sfht" target="_blank">
-      Lire la note complète 🔗
-    </a>
-  </p>
-</div>
-
-</div>
-
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -352,7 +323,6 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#freecertifications">Free Certifications</a>
-  <a href="#bitcoin-adoption-pro">Bitcoin pour les entreprises</a>
 </footer>
 
 </body>
