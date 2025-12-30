@@ -109,6 +109,7 @@ categories: [bitcoin, outils]
   <a href="#blitzwallet">Blitz Wallet</a>
   <a href="#peachbitcoin">Peach Bitcoin</a>
   <a href="#p2pband">P2P.Band</a>
+  <a href="#vexl">Vexl</a>
   <a href="#krux">Krux</a>
 
   <!-- Réseaux décentralisés -->
@@ -388,6 +389,27 @@ categories: [bitcoin, outils]
   <p>
     <a href="https://p2p.band/" target="_blank">Site officiel 🔗</a><br>
     <em>Source : P2P.Band</em>
+  </p>
+</div>
+
+<div class="card" id="vexl">
+  <h2>Vexl — Trading Bitcoin P2P par réseau de confiance</h2>
+
+  <ul>
+    <li>Achat et vente de Bitcoin en peer-to-peer sans intermédiaire</li>
+    <li>Aucun KYC, aucune vérification d’identité</li>
+    <li>Réseau de confiance (web of trust) : amis et amis d’amis</li>
+    <li>Échanges on-chain et Lightning Network</li>
+    <li>Chat chiffré de bout en bout, clés stockées localement</li>
+    <li>Application mobile orientée confidentialité et souveraineté</li>
+  </ul>
+
+  <p>
+    <a href="https://vexl.it/" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://yakihonne.com/article/s/franckb@blitzwalletapp.com/683cd85394913338" target="_blank">
+      Lire l’article détaillé 🔗
+    </a><br>
+    <em>Source : Vexl Foundation · vexl.it · YouTube @vexlapp</em>
   </p>
 </div>
 
@@ -798,6 +820,7 @@ categories: [bitcoin, outils]
   <a href="#blitzwallet">Blitz Wallet</a>
   <a href="#peachbitcoin">Peach Bitcoin</a>
   <a href="#p2pband">P2P.Band</a>
+  <a href="#vexl">Vexl</a>
   <a href="#krux">Krux</a>
 
   <!-- Réseaux -->
