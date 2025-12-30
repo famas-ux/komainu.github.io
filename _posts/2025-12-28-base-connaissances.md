@@ -96,6 +96,7 @@
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
+  <a href="#bitcoinfr">Bitcoin.fr</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -384,6 +385,33 @@
   </ul>
 </div>
 
+<!-- Carte -->
+<div class="card" id="bitcoinfr">
+  <h2>Bitcoin.fr — Acteur historique francophone</h2>
+  <p>
+    Bitcoin.fr est l’un des acteurs historiques de l’écosystème Bitcoin francophone.
+    Le site propose des articles, des guides pratiques et des ressources éducatives
+    pour comprendre Bitcoin, l’utiliser et suivre son évolution.
+  </p>
+  <ul>
+    <li>Articles d’actualité et d’analyse sur Bitcoin</li>
+    <li>FAQ pédagogique pour débutants et utilisateurs intermédiaires</li>
+    <li>Ressources éducatives centralisées</li>
+    <li>Présentation de logiciels et applications (wallets Bitcoin)</li>
+    <li>Guides pour obtenir des bitcoins</li>
+    <li>Guides pour dépenser des bitcoins</li>
+  </ul>
+  <p>
+    <a href="https://bitcoin.fr/" target="_blank">Site principal 🔗</a><br>
+    <a href="https://bitcoin.fr/faq/" target="_blank">FAQ 🔗</a><br>
+    <a href="https://bitcoin.fr/ressources/" target="_blank">Ressources 🔗</a><br>
+    <a href="https://bitcoin.fr/bitcoin-wallets/" target="_blank">Wallets & applications 🔗</a><br>
+    <a href="https://bitcoin.fr/obtenir-des-bitcoins/" target="_blank">Obtenir des bitcoins 🔗</a><br>
+    <a href="https://bitcoin.fr/depenser-ses-bitcoins/" target="_blank">Dépenser des bitcoins 🔗</a><br>
+    <em>Source : Bitcoin.fr</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -398,6 +426,7 @@
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
+  <a href="#bitcoinfr">Bitcoin.fr</a>
 </footer>
 
 </div>
