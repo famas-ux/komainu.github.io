@@ -87,6 +87,7 @@ categories: [nostr, articles, bitcoin]
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
   <a href="#carte3">Bitcoin — Machine à preuves</a>
+  <a href="#carte4">Productivité & Liberté — France</a>
 </nav>
 
 <div class="grid">
@@ -171,12 +172,40 @@ categories: [nostr, articles, bitcoin]
   </p>
 </div>
 
+<!-- Carte 4 -->
+<div class="card" id="carte4">
+  <span class="badge">En préparation</span>
+  <h2>Productivité & Liberté — France</h2>
+  <p><em>Leitmotiv : « Créer, Conserver, Transmettre »</em></p>
+  <p>
+    L’auteur explique que la véritable productivité ne réside pas dans le flux ou la consommation, mais dans la capacité à créer de l’ordre durable et transmissible, que ce soit à travers le capital, le savoir ou les actifs.
+    Qualifier d’« improductif » ce qui est conservé ou différé revient à nier la valeur de la réserve et de la prudence.
+  </p>
+  <ul>
+    <li><strong>Liberté vs État :</strong> l’État définit ce qui est productif, mais la liberté individuelle garantit allocation efficace et prix réels</li>
+    <li><strong>Production réelle :</strong> créer ordre stable et traçable, transmettre patrimoine et capital durable</li>
+    <li><strong>Signal économique :</strong> prix et signaux non biaisés par taxes ou régulations</li>
+    <li><strong>Paradoxes français :</strong> liberté limitée par technocratie, État providence et morale budgétaire</li>
+    <li><strong>Systèmes alternatifs :</strong> Bitcoin et preuve de travail → transparence, valeur mesurable et ordre auto-stabilisant</li>
+    <li><strong>Transmission & durabilité :</strong> propriété = preuve de maîtrise et continuité, réserve et conservation = cœur du capital</li>
+    <li><strong>Consommation vs Production :</strong> consommation = flux dissipatif, production = ordre stable et transmissible</li>
+    <li><strong>Principes clés :</strong> acte juste = productif, acte injuste = improductif, prospérité durable = création, conservation, transmission</li>
+  </ul>
+  <p>
+    <a href="https://yakihonne.com/article/s/franckb@blitzwalletapp.com/f91c93e174586dba" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Nicolas Cantu — Productivité, liberté et preuve</em>
+  </p>
+</div>
+
 </div>
 
 <footer>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
   <a href="#carte3">Bitcoin — Machine à preuves</a>
+  <a href="#carte4">Productivité & Liberté — France</a>
   <p><em>Articles publiés tout au long de 2025</em></p>
 </footer>
 
