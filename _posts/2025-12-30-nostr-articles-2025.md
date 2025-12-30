@@ -114,10 +114,6 @@ categories: [nostr, articles, bitcoin]
     <li><strong>Sécurité :</strong> chat chiffré E2E, clés locales</li>
   </ul>
 
-  <img src="https://image.nostr.build/D48EE182-2E7D-4A45-9515-1F7E13047B7F.jpeg"
-       alt="Trading Bitcoin P2P sur Vexl — Web of Trust"
-       style="width:100%;border-radius:12px;margin:20px 0;">
-
   <p>
     <a href="https://yakihonne.com/article/s/franckb@blitzwalletapp.com/683cd85394913338" target="_blank">
       Lire l’article complet 🔗
