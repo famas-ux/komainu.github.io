@@ -146,9 +146,9 @@ categories: [nostr, articles, bitcoin]
 
 <!-- Carte 3 -->
 <div class="card" id="carte3">
-  <span class="badge">En préparation</span>
+  <span class="badge">Bitcoin — Machine à preuves</span>
   <h2>Bitcoin — Machine à preuves et sécurité</h2>
-  <p><em>Leitmotiv : « Vérifier, Refuser, Sécuriser »</em></p>
+  <p</em></p>
   <img src="https://image.nostr.build/8d758d8ff8570c268c6e95c2117c935f7a4594998f8b06d9d6588d9d0b598284.jpg" alt="Bitcoin Security" style="width:100%;border-radius:12px;margin:15px 0;">
   <p>
     Bitcoin répond à la question : comment produire, payer et vérifier la vérité sans privilège ni permission ? 
