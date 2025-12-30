@@ -98,6 +98,7 @@
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
   <a href="#bitcoinfr">Bitcoin.fr</a>
   <a href="#loicmorel">Loïc Morel</a>
+  <a href="#ulrichfromy">Café Viennois</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -435,6 +436,29 @@
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="ulrichfromy">
+  <h2>Café Viennois — Podcasts, articles & vidéos Bitcoin</h2>
+  <p>
+    Café Viennois est un ensemble de contenus produits par Ulrich Fromy,
+    comprenant des podcasts, des articles et des vidéos abordant Bitcoin
+    sous ses dimensions monétaires, économiques et culturelles.
+  </p>
+  <ul>
+    <li>Podcasts d’analyse Bitcoin et monétaire</li>
+    <li>Articles de fond et réflexions économiques</li>
+    <li>Vidéos pédagogiques et discussions</li>
+    <li>Série vidéo « Café Viennois »</li>
+    <li>Approche analytique et culturelle de Bitcoin</li>
+  </ul>
+  <p>
+    <a href="https://www.ufromy.com/" target="_blank">Site officiel 🔗</a><br>
+    <a href="https://www.ufromy.com/about" target="_blank">À propos 🔗</a><br>
+    <a href="https://m.youtube.com/@ufromy/videos" target="_blank">Vidéos Café Viennois 🔗</a><br>
+    <em>Source : Ulrich Fromy</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -451,6 +475,7 @@
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
   <a href="#bitcoinfr">Bitcoin.fr</a>
   <a href="#loicmorel">Loïc Morel</a>
+  <a href="#ulrichfromy">Café Viennois</a>
 </footer>
 
 </div>
