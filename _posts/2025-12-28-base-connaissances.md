@@ -94,6 +94,7 @@
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#freecertifications">Free Certifications</a>
+  <a href="#myfirstbitcoin">My First Bitcoin</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -311,6 +312,50 @@
   </p>
 </div>
 
+<!-- Carte 11 -->
+<div class="card" id="myfirstbitcoin">
+  <h2>My First Bitcoin — Éducation Bitcoin Open Source</h2>
+  <p>
+    Portée : mondiale. Objectif : rendre l’éducation Bitcoin accessible à tous grâce à des ressources open source.
+  </p>
+
+  <h3>Objectifs clés pour 2025</h3>
+  <ul>
+    <li>Embarquer plus de 20,000 étudiants à l’école en ligne MPB</li>
+    <li>Traduire le diplôme Bitcoin dans plus de 25 langues</li>
+    <li>Lancer la version 2026 du diplôme Bitcoin</li>
+    <li>Lancer la version à rythme libre du diplôme Bitcoin</li>
+    <li>Apporter une éducation Bitcoin open source au monde</li>
+  </ul>
+
+  <h3>Bénéficiaires cibles</h3>
+  <ul>
+    <li>Étudiants et enseignants : 8,232</li>
+    <li>Entrepreneurs et entreprises : 8,232</li>
+  </ul>
+
+  <h3>Le diplôme Bitcoin</h3>
+  <p>
+    L’éducation transforme des vies. Le diplôme Bitcoin a été lancé au Salvador en juin 2022 avec la première classe de 38 élèves d’une école publique, marquant la première éducation axée sur le Bitcoin dans un système scolaire public au monde. Depuis, des milliers d’étudiants ont obtenu leur diplôme, acquérant une compréhension approfondie de l’argent, de la souveraineté financière et de la technologie qui remodèle l’économie mondiale.
+  </p>
+  <p>
+    <a href="https://myfirstbitcoin.io/wp-content/uploads/2025/04/5.-Blink-English-version.pptx" target="_blank">Présentation Blink English version 2025 🔗</a>
+  </p>
+
+  <h3>Cours d’introduction au Bitcoin</h3>
+  <ul>
+    <li>Durée : 1 heure</li>
+    <li>Langues disponibles : 🇺🇸 Anglais & 🇪🇸 Espagnol</li>
+    <li><a href="https://github.com/MyFirstBitcoin/Translation" target="_blank">GitHub Translation 🔗</a></li>
+  </ul>
+
+  <h3>Hub open source de données éducatives</h3>
+  <p><a href="https://github.com/MyFirstBitcoin" target="_blank">GitHub My First Bitcoin 🔗</a></p>
+
+  <h3>École en ligne</h3>
+  <p><a href="https://edu.myfirstbitcoin.io/" target="_blank">edu.myfirstbitcoin.io 🔗</a></p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -323,6 +368,7 @@
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#freecertifications">Free Certifications</a>
+  <a href="#myfirstbitcoin">My First Bitcoin</a>
 </footer>
 
 </div>
