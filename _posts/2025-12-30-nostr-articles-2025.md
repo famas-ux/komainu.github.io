@@ -84,14 +84,47 @@ categories: [nostr, articles, bitcoin]
 <h1>Articles Nostr 2025</h1>
 
 <nav>
+  <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
   <a href="#carte3">Bitcoin — Machine à preuves</a>
   <a href="#carte4">Productivité & Liberté — France</a>
-  <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
 </nav>
 
 <div class="grid">
+
+<div class="card" id="carte-vexl">
+  <span class="badge">Bitcoin P2P — Sans KYC</span>
+  <h2>Vexl — Trading Bitcoin peer-to-peer par réseau de confiance</h2>
+
+  <p>
+    Vexl est une application mobile de trading Bitcoin peer-to-peer (P2P) permettant d’acheter et de vendre des BTC
+    directement entre particuliers, sans intermédiaire ni KYC. Les échanges reposent sur un réseau social de confiance
+    (web of trust) entre amis et amis d’amis.
+  </p>
+
+  <img src="https://image.nostr.build/1b34ddb8dd1065e7acfc2b5df65f55c4432219e5913e959d73100280eacb5a05.jpg"
+       alt="Vexl Bitcoin P2P"
+       style="width:100%;border-radius:12px;margin:15px 0;">
+
+  <ul>
+    <li><strong>Web of trust :</strong> visibilité limitée au réseau relationnel</li>
+    <li><strong>Trading P2P :</strong> on-chain et Lightning Network</li>
+    <li><strong>Confidentialité :</strong> aucune donnée personnelle stockée</li>
+    <li><strong>Sécurité :</strong> chat chiffré E2E, clés locales</li>
+  </ul>
+
+  <img src="https://image.nostr.build/D48EE182-2E7D-4A45-9515-1F7E13047B7F.jpeg"
+       alt="Trading Bitcoin P2P sur Vexl — Web of Trust"
+       style="width:100%;border-radius:12px;margin:20px 0;">
+
+  <p>
+    <a href="https://yakihonne.com/article/s/franckb@blitzwalletapp.com/683cd85394913338" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Sources : vexl.it · Vexl Foundation · YouTube @vexlapp</em>
+  </p>
+</div>
 
   <!-- Carte 1 -->
   <div class="card" id="carte1">
@@ -198,41 +231,13 @@ categories: [nostr, articles, bitcoin]
     <em>Source : Nicolas Cantu — Productivité, liberté et preuve</em>
   </p>
 </div>
-<div class="card" id="carte-vexl">
-  <span class="badge">Bitcoin P2P — Sans KYC</span>
-  <h2>Vexl — Trading Bitcoin peer-to-peer par réseau de confiance</h2>
-
-  <p>
-    Vexl est une application mobile de trading Bitcoin peer-to-peer (P2P) permettant d’acheter et de vendre des BTC
-    directement entre particuliers, sans intermédiaire ni KYC. Les échanges reposent sur un réseau social de confiance
-    (web of trust) entre amis et amis d’amis.
-  </p>
-
-  <img src="https://image.nostr.build/1b34ddb8dd1065e7acfc2b5df65f55c4432219e5913e959d73100280eacb5a05.jpg"
-       alt="Vexl Bitcoin P2P"
-       style="width:100%;border-radius:12px;margin:15px 0;">
-
-  <ul>
-    <li><strong>Web of trust :</strong> visibilité limitée au réseau relationnel</li>
-    <li><strong>Trading P2P :</strong> on-chain et Lightning Network</li>
-    <li><strong>Confidentialité :</strong> aucune donnée personnelle stockée</li>
-    <li><strong>Sécurité :</strong> chat chiffré E2E, clés locales</li>
-  </ul>
-  <p>
-    <a href="https://yakihonne.com/article/s/franckb@blitzwalletapp.com/683cd85394913338" target="_blank">
-      Lire l’article complet 🔗
-    </a><br>
-    <em>Sources : vexl.it · Vexl Foundation · YouTube @vexlapp</em>
-  </p>
-</div>
-</div>
 
 <footer>
+  <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
   <a href="#carte3">Bitcoin — Machine à preuves</a>
   <a href="#carte4">Productivité & Liberté — France</a>
-  <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
   <p><em>Articles publiés tout au long de 2025</em></p>
 </footer>
 
