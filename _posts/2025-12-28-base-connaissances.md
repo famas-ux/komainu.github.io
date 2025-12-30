@@ -97,6 +97,7 @@
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
   <a href="#bitcoinfr">Bitcoin.fr</a>
+  <a href="#loicmorel">Loïc Morel</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -412,6 +413,28 @@
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="loicmorel">
+  <h2>Loïc Morel — Tutoriels & pédagogie Bitcoin</h2>
+  <p>
+    Loïc Morel est un éducateur Bitcoin francophone reconnu pour son travail
+    de vulgarisation technique et pédagogique. À travers son site Pandul,
+    il propose des tutoriels, un dictionnaire Bitcoin et des contenus éducatifs
+    visant à renforcer l’autonomie et la compréhension des utilisateurs.
+  </p>
+  <ul>
+    <li>Tutoriels pratiques sur Bitcoin</li>
+    <li>Dictionnaire des termes et concepts Bitcoin</li>
+    <li>Ressources pédagogiques accessibles</li>
+    <li>Cours et interventions au sein du PlanB Network / PlanB Academy</li>
+    <li>Approche orientée compréhension et souveraineté individuelle</li>
+  </ul>
+  <p>
+    <a href="https://www.pandul.fr/" target="_blank">Site Pandul 🔗</a><br>
+    <em>Source : Pandul.fr — Loïc Morel</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -427,6 +450,7 @@
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
   <a href="#bitcoinfr">Bitcoin.fr</a>
+  <a href="#loicmorel">Loïc Morel</a>
 </footer>
 
 </div>
