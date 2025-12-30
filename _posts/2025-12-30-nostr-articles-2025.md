@@ -174,9 +174,8 @@ categories: [nostr, articles, bitcoin]
 
 <!-- Carte 4 -->
 <div class="card" id="carte4">
-  <span class="badge">En préparation</span>
+  <span class="badge">Créer, Conserver, Transmettre</span>
   <h2>Productivité & Liberté — France</h2>
-  <p><em>Leitmotiv : « Créer, Conserver, Transmettre »</em></p>
   <p>
     L’auteur explique que la véritable productivité ne réside pas dans le flux ou la consommation, mais dans la capacité à créer de l’ordre durable et transmissible, que ce soit à travers le capital, le savoir ou les actifs.
     Qualifier d’« improductif » ce qui est conservé ou différé revient à nier la valeur de la réserve et de la prudence.
