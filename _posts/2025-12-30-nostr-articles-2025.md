@@ -86,6 +86,7 @@ categories: [nostr, articles, bitcoin]
 <nav>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
+  <a href="#carte3">Bitcoin — Machine à preuves</a>
 </nav>
 
 <div class="grid">
@@ -143,12 +144,40 @@ categories: [nostr, articles, bitcoin]
     </p>
   </div>
 
+<!-- Carte 3 -->
+<div class="card" id="carte3">
+  <span class="badge">En préparation</span>
+  <h2>Bitcoin — Machine à preuves et sécurité</h2>
+  <p><em>Leitmotiv : « Vérifier, Refuser, Sécuriser »</em></p>
+  <img src="https://image.nostr.build/8d758d8ff8570c268c6e95c2117c935f7a4594998f8b06d9d6588d9d0b598284.jpg" alt="Bitcoin Security" style="width:100%;border-radius:12px;margin:15px 0;">
+  <p>
+    Bitcoin répond à la question : comment produire, payer et vérifier la vérité sans privilège ni permission ? 
+    Il constitue une machine minimaliste pour consigner des engagements vérifiables, sécuriser les réseaux et rémunérer cette sécurité avec des bitcoins.
+  </p>
+  <ul>
+    <li><strong>Neutralité et protocole :</strong> aucun droit d’exception, pas de privilège pour les opérateurs, auditable par tous</li>
+    <li><strong>Liberté de preuve :</strong> produire et vérifier les preuves universellement, sans licence ni délégation</li>
+    <li><strong>Économie de la preuve :</strong> coûts physiques pour produire, bon marché à vérifier, convertibilité en monnaie</li>
+    <li><strong>Ordre minimal :</strong> sécurité, antériorité et synchronisation dans des réseaux distribués</li>
+    <li><strong>Énergie :</strong> outil pour transformer entropie en signal public résistant à la falsification</li>
+    <li><strong>Impact :</strong> vérification et refus = liberté, protection contre la capture des infrastructures</li>
+    <li><strong>Simplicité robuste :</strong> moins de fonctions à la base, plus de services en périphérie, cycle sécurité-monnaie cohérent</li>
+  </ul>
+  <p>
+    <a href="https://yakihonne.com/article/s/fancy-wallaby-90@rizful.com/jOQk50KRM0lI5XRF0ISU-" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Nicolas Cantu — Bitcoin : preuve, sécurité et neutralité</em>
+  </p>
+</div>
+
 </div>
 
 <footer>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
-  <p><em>Articles publiés progressivement tout au long de 2025</em></p>
+  <a href="#carte3">Bitcoin — Machine à preuves</a>
+  <p><em>Articles publiés tout au long de 2025</em></p>
 </footer>
 
 </div>
