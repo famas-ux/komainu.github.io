@@ -1,11 +1,4 @@
----
-layout: page
-title: "Base de connaissances"
-permalink: /base-connaissances/
-date: 2025-12-28
-categories: [bitcoin, monnaie, inflation]
----
-
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -139,6 +132,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 3 -->
 <div class="card" id="bitcoininflation">
   <h2>Bitcoin & Inflation</h2>
   <p>
@@ -160,6 +154,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 4 -->
 <div class="card" id="taxervoler">
   <h2>Taxer, c’est voler?</h2>
   <p>
@@ -179,6 +174,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 5 -->
 <div class="card" id="bitcoindefinition">
   <h2>Bitcoin — Définition</h2>
   <p>
@@ -200,6 +196,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 6 -->
 <div class="card" id="bitcoinmonnaie">
   <h2>Pourquoi votre argent perd de la valeur</h2>
   <p>
@@ -225,6 +222,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 7 -->
 <div class="card" id="mysteresatoshi">
   <h2>Le Mystère Satoshi — Série documentaire</h2>
   <p>
@@ -246,6 +244,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 8 -->
 <div class="card" id="bibliothequebitcoin">
   <h2>Ouvrages contemporains — Bitcoin & Économie autrichienne</h2>
   <p>
@@ -268,6 +267,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 9 -->
 <div class="card" id="formationsgratuites">
   <h2>Formations gratuites — PlanB Academy</h2>
   <ul>
@@ -288,6 +288,7 @@ categories: [bitcoin, monnaie, inflation]
   </p>
 </div>
 
+<!-- Carte 10 -->
 <div class="card" id="freecertifications">
   <h2>Free Certifications — Cours gratuits avec certification</h2>
 
@@ -325,5 +326,6 @@ categories: [bitcoin, monnaie, inflation]
   <a href="#freecertifications">Free Certifications</a>
 </footer>
 
+</div>
 </body>
 </html>
