@@ -2,7 +2,7 @@
 layout: page
 title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
-date: 2025-12-29
+date: 2025-12-30
 categories: [bitcoin, outils]
 ---
 
