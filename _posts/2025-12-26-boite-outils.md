@@ -129,6 +129,7 @@ categories: [bitcoin, outils]
   <a href="#tibillet">Tibillet</a>
   <!-- Outils techniques / Communication -->
   <a href="#chitchatter">Chitchatter</a>
+  <a href="#aestycovers">Aesty Covers</a>
 
   <!-- Données réseau -->
   <a href="#mempool">Mempool.space</a>
@@ -599,6 +600,22 @@ categories: [bitcoin, outils]
   </p>
 </div>
 
+<!-- Container carte outil -->
+<div class="card" id="aestycovers">
+  <h2>Aesty Covers — Histoires de couverture</h2>
+  <ul>
+    <li>Génération automatique de visuels de couverture</li>
+    <li>Transforme textes ou idées en histoires visuelles</li>
+    <li>Modèles prêts à l’emploi pour création rapide</li>
+    <li>Interface simple, orientée storytelling et marketing</li>
+    <li>Usage créatif, éditorial ou promotionnel</li>
+  </ul>
+  <p>
+    <a href="https://covers.aesty.ai/" target="_blank">Site officiel 🔗</a><br>
+    <em>Source : Aesty AI — Histoires de couverture</em>
+  </p>
+</div>
+
 <!-- Données réseau -->
 <div class="card" id="mempool">
   <h2>Mempool.space</h2>
@@ -840,6 +857,7 @@ categories: [bitcoin, outils]
   <a href="#tibillet">Tibillet</a>
   <!-- Outils techniques / Communication -->
   <a href="#chitchatter">Chitchatter</a>
+  <a href="#aestycovers">Aesty Covers</a>
 
   <!-- Données réseau -->
   <a href="#mempool">Mempool.space</a>
