@@ -84,6 +84,7 @@ categories: [nostr, articles, bitcoin]
 <h1>Articles Nostr 2025</h1>
 
 <nav>
+  <a href="#carte5">Bitcoin — Légitimité technique</a>
   <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
@@ -92,6 +93,20 @@ categories: [nostr, articles, bitcoin]
 </nav>
 
 <div class="grid">
+
+<!-- Carte 5 -->
+<div class="card" id="carte5">
+  <span class="badge">Bitcoin — Valeur & légitimité</span>
+  <h2>Bitcoin : la légitimité technique de la valeur dans un monde instable</h2>
+  <p>
+    Bitcoin fonde sa légitimité sur la stabilité de ses règles,
+    la preuve cryptographique et une infrastructure décentralisée
+    résiliente face aux chocs politiques, financiers et numériques.
+  </p>
+  <a href="https://yakihonne.com/article/s/fancy-wallaby-90@rizful.com/vUkgiiHlpjOtIlvskLeuS" target="_blank">
+    Lire l’article complet 🔗
+  </a>
+</div>
 
 <div class="card" id="carte-vexl">
   <span class="badge">Bitcoin P2P — Sans KYC</span>
@@ -229,6 +244,7 @@ categories: [nostr, articles, bitcoin]
 </div>
 
 <footer>
+  <a href="#carte5">Bitcoin — Légitimité technique</a>
   <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
   <a href="#carte2">Bitcoin — Infrastructure</a>
