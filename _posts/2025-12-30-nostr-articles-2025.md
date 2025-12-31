@@ -2,7 +2,7 @@
 layout: post
 title: "Articles Nostr 2025"
 permalink: /articles-nostr-2025/
-date: 2025-12-30
+date: 2025-12-31
 categories: [nostr, articles, bitcoin]
 ---
 
@@ -84,6 +84,7 @@ categories: [nostr, articles, bitcoin]
 <h1>Articles Nostr 2025</h1>
 
 <nav>
+  <a href="#carte6">Bitcoin — Dureté & rareté adaptative</a>
   <a href="#carte5">Bitcoin — Légitimité technique</a>
   <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
@@ -93,6 +94,28 @@ categories: [nostr, articles, bitcoin]
 </nav>
 
 <div class="grid">
+
+<!-- Carte 6 -->
+<div class="card" id="carte6">
+  <span class="badge">Bitcoin — Dureté monétaire</span>
+  <h2>Bitcoin : la dureté monétaire comme moteur de la rareté adaptative</h2>
+
+  <img src="https://image.nostr.build/c5886c9e825135a7a26e307cefa27d0425b247ce4289df8e1a06c557a00db6fa.png" 
+       alt="Bitcoin Dureté & Rareté" 
+       style="width:100%;border-radius:12px;margin:15px 0;">
+
+  <p>
+    Bitcoin fonde sa valeur sur la contrainte de production, l’adaptation dynamique de la difficulté et un consensus décentralisé,
+    produisant une rareté émergente et un réseau résilient, où l’énergie et l’information créent une confiance vérifiable.
+  </p>
+
+  <p>
+    <a href="https://yakihonne.com/article/s/fancy-wallaby-90@rizful.com/nrX4I5IaW_Q813vJ7U5c9" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Yakihonne · Auteur : fancy-wallaby-90 (Nostr)</em>
+  </p>
+</div>
 
 <!-- Carte 5 -->
 <div class="card" id="carte5">
@@ -245,6 +268,7 @@ categories: [nostr, articles, bitcoin]
 </div>
 
 <footer>
+  <a href="#carte6">Bitcoin — Dureté & rareté adaptative</a>
   <a href="#carte5">Bitcoin — Légitimité technique</a>
   <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
   <a href="#carte1">Analyse anarcho-capitaliste</a>
