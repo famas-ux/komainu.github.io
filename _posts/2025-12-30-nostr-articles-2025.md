@@ -84,6 +84,7 @@ categories: [nostr, articles, bitcoin]
 <h1>Articles Nostr 2025</h1>
 
 <nav>
+  <a href="#carte7">Bitcoin — Réflexion & synthèse Cantu</a>
   <a href="#carte6">Bitcoin — Dureté & rareté adaptative</a>
   <a href="#carte5">Bitcoin — Légitimité technique</a>
   <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
@@ -94,6 +95,29 @@ categories: [nostr, articles, bitcoin]
 </nav>
 
 <div class="grid">
+
+<!-- Carte 7 -->
+<div class="card" id="carte7">
+  <span class="badge">Bitcoin — Réflexion & synthèse</span>
+  <h2>Réflexion d’après 2 articles de Nicolas Cantu</h2>
+
+  <img src="https://image.nostr.build/4e0f6700c972347de2939b79705e47c43660a84fbb8cc131a1c152affea95a4f.png"
+       alt="Bitcoin Réflexion Cantu"
+       style="width:100%;border-radius:12px;margin:15px 0;">
+
+  <p>
+    Synthèse sur les 2 articles de Nicolas Cantu sur Bitcoin : dureté monétaire, rareté adaptative, valeur et sécurité,
+    consensus communautaire et résilience globale. Bitcoin est présenté comme une infrastructure résiliente,
+    transparente et auto-régulée, combinant aspects techniques, économiques et sociaux.
+  </p>
+
+  <p>
+    <a href="https://primal.net/e/naddr1qqgrsdp4vvcrjvmxv56xycmy8q6rzq3qkw037ye3me74cwpsdq5uupmx96jqym6d5yqz3zwehtssav66a07qxpqqqp65w75facz" target="_blank">
+      Lire l’article complet 🔗
+    </a><br>
+    <em>Source : Primal.net · Auteur : f®@nO&lt; (synthèse de Nicolas Cantu)</em>
+  </p>
+</div>
 
 <!-- Carte 6 -->
 <div class="card" id="carte6">
@@ -268,6 +292,7 @@ categories: [nostr, articles, bitcoin]
 </div>
 
 <footer>
+  <a href="#carte7">Bitcoin — Réflexion & synthèse Cantu</a>
   <a href="#carte6">Bitcoin — Dureté & rareté adaptative</a>
   <a href="#carte5">Bitcoin — Légitimité technique</a>
   <a href="#carte-vexl">Vexl — Bitcoin P2P</a>
