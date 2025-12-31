@@ -22,8 +22,19 @@ permalink: /about/
 <!-- Suivre sur Nostr -->
 <div style="text-align:center; margin: 20px auto; max-width: 700px;">
     <p>
-        Me suivre sur Nostr ❓ 
+        Me suivre sur Nostr compte personnel ❓ 
         <a href="https://primal.net/famas" target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗</a>
+    </p>
+</div>
+
+<!-- Suivre sur Nostr -->
+<div style="text-align:center; margin: 20px auto; max-width: 700px;">
+    <p>
+        Me suivre sur Nostr ❓ 
+        <a href="https://primal.net/famas" target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗 Primal</a><br>
+        Ou sur YakiHonne « archives & articles » : 
+        <a href="https://yakihonne.com/profile/nprofile1qqst88clzvcaul2u8qcxs2wwqanzafqzdax6zqpg38vm4cgwkddwhlqzqqpsgqqqqqqqg8smwe" 
+           target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗 YakiHonne</a>
     </p>
 </div>
 
