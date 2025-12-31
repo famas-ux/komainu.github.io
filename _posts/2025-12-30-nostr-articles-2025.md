@@ -107,8 +107,6 @@ categories: [nostr, articles, bitcoin]
     Lire l’article complet 🔗
   </a><br>
   <em>Source : Yakihonne · Auteur : fancy-wallaby-90 (Nostr)</em>
-</p>
-  </a>
 </div>
 
 <div class="card" id="carte-vexl">
