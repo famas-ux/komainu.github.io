@@ -105,6 +105,9 @@ categories: [nostr, articles, bitcoin]
   </p>
   <a href="https://yakihonne.com/article/s/fancy-wallaby-90@rizful.com/vUkgiiHlpjOtIlvskLeuS" target="_blank">
     Lire l’article complet 🔗
+  </a><br>
+  <em>Source : Yakihonne · Auteur : fancy-wallaby-90 (Nostr)</em>
+</p>
   </a>
 </div>
 
