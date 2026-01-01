@@ -109,6 +109,7 @@ categories: [bitcoin, base connaissances]
   <a href="#ulrichfromy">Café Viennois</a>
   <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
   <a href="#BTC Touchpoint">Articles Bitcoin</a>
+  <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -515,6 +516,67 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="youtube-fr">
+  <h2>Chaînes YouTube francophones — Bitcoin</h2>
+
+  <p>
+    Sélection de chaînes YouTube francophones proposant des contenus pédagogiques,
+    analytiques et techniques autour de Bitcoin.
+  </p>
+
+  <ul>
+    <li>
+      <strong>Bull Bitcoin FR</strong> — Analyses monétaires, souveraineté financière,
+      économie et actualité Bitcoin.<br>
+      <a href="https://www.youtube.com/@BullBitcoinFr" target="_blank">Chaîne YouTube 🔗</a>
+    </li>
+    <li>
+      <strong>Découvre Bitcoin</strong> — Introduction pédagogique à Bitcoin,
+      concepts fondamentaux, économie et technologie.<br>
+      <a href="https://www.youtube.com/c/DécouvreBitcoin" target="_blank">Chaîne YouTube 🔗</a>
+    </li>
+    <li>
+      <strong>PlanB Network</strong> — Conférences, interviews et contenus éducatifs
+      produits par le réseau PlanB Academy.<br>
+      <a href="https://www.youtube.com/@PlanBNetwork" target="_blank">Chaîne YouTube 🔗</a>
+    </li>
+    <li>
+      <strong>Yorick de Mombynes</strong> — Série pédagogique sur Bitcoin :
+      monnaie, philosophie, économie et enjeux sociétaux.<br>
+      <a href="https://www.youtube.com/playlist?list=PLVmGckT_NEb45KjFMgdFud7RPjcEcLFug" target="_blank">
+        Playlist YouTube 🔗
+      </a>
+    </li>
+    <li>
+      <strong>How To Bitcoin</strong> — Vulgarisation claire des mécanismes monétaires,
+      techniques et économiques de Bitcoin.<br>
+      <a href="https://www.youtube.com/@howtobitcoin_fr" target="_blank">Chaîne YouTube 🔗</a>
+    </li>
+    <li>
+      <strong>BTC Touchpoint</strong> — Articles et analyses Bitcoin adaptés en formats
+      vidéo pédagogiques.<br>
+      <a href="https://www.youtube.com/playlist?list=PLAcIRCttBhvteGlKqO1BxrDUO1iS9fkcm" target="_blank">
+        Playlist YouTube 🔗
+      </a>
+    </li>
+    <li>
+      <strong>ProfEduStream</strong> — Chaîne éducative abordant Bitcoin,
+      économie, systèmes monétaires et pédagogie numérique.<br>
+      <a href="https://www.youtube.com/@ProfEduStream" target="_blank">Chaîne YouTube 🔗</a>
+    </li>
+    <li>
+      <strong>Café Viennois — Ulrich Fromy</strong> — Analyses économiques,
+      monétaires et culturelles autour de Bitcoin.<br>
+      <a href="https://www.youtube.com/@ufromy/videos" target="_blank">Chaîne YouTube 🔗</a>
+    </li>
+  </ul>
+
+  <p>
+    <em>Sélection de chaînes Bitcoin francophones — contenus éducatifs et analytiques</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -534,6 +596,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#ulrichfromy">Café Viennois</a>
   <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
   <a href="#BTC Touchpoint">Articles Bitcoin</a>
+  <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
 </footer>
 
 </div>
