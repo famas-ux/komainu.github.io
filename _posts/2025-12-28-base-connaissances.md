@@ -107,6 +107,7 @@ categories: [bitcoin, base connaissances]
   <a href="#bitcoinfr">Bitcoin.fr</a>
   <a href="#loicmorel">Loïc Morel</a>
   <a href="#ulrichfromy">Café Viennois</a>
+  <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -467,6 +468,29 @@ categories: [bitcoin, base connaissances]
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="HOW TO BITCOIN">
+<h2>Articles & tutoriels pédagogiques</h2>
+  <p>
+How To Bitcoin est un site francophone dédié à la compréhension de Bitcoin.
+      Il propose des articles et des tutoriels accessibles visant à expliquer le fonctionnement monétaire, technique 
+et économique de Bitcoin, avec une approche pédagogique orientée clarté 
+et autonomie.
+</p>
+
+  <ul>
+      <li>Articles explicatifs sur Bitcoin</li>
+      <li>Tutoriels pédagogiques</li>
+      <li>Vulgarisation des concepts monétaires et techniques</li>
+      <li>Ressources pour débutants et utilisateurs intermédiaires</li>
+    </ul>
+
+  <p>
+    <a href="https://howtobitcoin.fr/" target="_blank">How To Bitcoin 🔗</a><br>
+    <em>Source : How To Bitcoin</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -484,6 +508,7 @@ categories: [bitcoin, base connaissances]
   <a href="#bitcoinfr">Bitcoin.fr</a>
   <a href="#loicmorel">Loïc Morel</a>
   <a href="#ulrichfromy">Café Viennois</a>
+  <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
 </footer>
 
 </div>
