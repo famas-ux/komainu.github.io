@@ -2,7 +2,7 @@
 layout: page
 title: "Base de Connaissances"
 permalink: /base-connaissances/
-date: 2025-12-30
+date: 2026-12-01
 categories: [bitcoin, base connaissances]
 ---
 
