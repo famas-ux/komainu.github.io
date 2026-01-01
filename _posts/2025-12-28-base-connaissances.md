@@ -108,6 +108,7 @@ categories: [bitcoin, base connaissances]
   <a href="#loicmorel">Loïc Morel</a>
   <a href="#ulrichfromy">Café Viennois</a>
   <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
+  <a href="#BTC Touchpoint">Articles Bitcoin</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -491,6 +492,29 @@ et autonomie.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="BTC Touchpoint">
+<h2> Articles Bitcoin </h2>
+
+ <p>
+BTC Touchpoint est une plateforme francophone dédiée à l’information et à l’analyse autour de Bitcoin.
+Elle publie des articles pédagogiques et des contenus d’actualité visant à approfondir la compréhension
+des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
+</p>
+
+  <ul>
+      <li>Articles d’analyse sur Bitcoin</li>
+      <li>Réflexions économiques et monétaires</li>
+      <li>Actualité et adoption de Bitcoin</li>
+      <li>Ressources pour lecteurs curieux et utilisateurs intermédiaires</li>
+    </ul>
+
+  <p>
+    <a href="https://btctouchpoint.com/fr/home-fr/" target="_blank"> BTC Touchpoint 🔗</a><br>
+    <em>BTC Touchpoint — plateforme d’articles Bitcoin francophone</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -509,6 +533,7 @@ et autonomie.
   <a href="#loicmorel">Loïc Morel</a>
   <a href="#ulrichfromy">Café Viennois</a>
   <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
+  <a href="#BTC Touchpoint">Articles Bitcoin</a>
 </footer>
 
 </div>
