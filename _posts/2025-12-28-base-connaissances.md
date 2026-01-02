@@ -2,7 +2,7 @@
 layout: page
 title: "Base de Connaissances"
 permalink: /base-connaissances/
-date: 2026-01-01
+date: 2026-01-02
 categories: [bitcoin, base connaissances]
 ---
 
@@ -110,6 +110,7 @@ categories: [bitcoin, base connaissances]
   <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
   <a href="#BTC Touchpoint">Articles Bitcoin</a>
   <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
+  <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -577,6 +578,33 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="institut-national-bitcoin">
+  <h2>Institut National du Bitcoin (INBi)</h2>
+
+  <p>
+    L’Institut National du Bitcoin (INBi) est une initiative française dédiée
+    à l’éducation, à la sensibilisation et à la structuration des connaissances
+    autour de Bitcoin. Son objectif est de favoriser une compréhension claire
+    et responsable des enjeux monétaires, économiques et sociétaux liés à Bitcoin.
+  </p>
+
+  <ul>
+    <li>Éducation et pédagogie Bitcoin</li>
+    <li>Sensibilisation aux enjeux monétaires et économiques</li>
+    <li>Interventions publiques, conférences et ateliers</li>
+    <li>Production de contenus éducatifs</li>
+    <li>Participation au débat public autour de Bitcoin</li>
+  </ul>
+
+  <p>
+    <a href="https://inbi.fr/" target="_blank">Site officiel INBi 🔗</a><br>
+    <a href="https://inbi.fr/nos-actions/" target="_blank">Nos actions 🔗</a><br>
+    <a href="https://inbi.fr/blog/" target="_blank">Blog & articles 🔗</a><br>
+    <em>Source : Institut National du Bitcoin</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -597,6 +625,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#HOW TO BITCOIN">Articles & tutoriels pédagogiques</a>
   <a href="#BTC Touchpoint">Articles Bitcoin</a>
   <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
+  <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
 </footer>
 
 </div>
