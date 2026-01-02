@@ -111,6 +111,7 @@ categories: [bitcoin, base connaissances]
   <a href="#BTC Touchpoint">Articles Bitcoin</a>
   <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
   <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
+  <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -605,6 +606,29 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="enigma-nakamoto-podcast">
+  <h2>Enigma Nakamoto — Podcast Bitcoin</h2>
+
+  <p>
+    Podcast francophone dédié à Bitcoin, explorant son histoire, sa technologie
+    et ses implications économiques et sociales. Épisodes pédagogiques pour comprendre
+    Bitcoin de manière approfondie et accessible.
+  </p>
+
+  <ul>
+    <li>Épisodes réguliers sur Bitcoin et l’écosystème crypto</li>
+    <li>Analyse technique, économique et philosophique</li>
+    <li>Format audio pour écoute flexible</li>
+    <li>Public cible : débutants et intermédiaires francophones</li>
+  </ul>
+
+  <p>
+    <a href="https://bitcoin.fr/enigma-nakamoto-podcast/" target="_blank">Accéder au podcast 🔗</a><br>
+    <em>Source : Bitcoin.fr — Enigma Nakamoto</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -626,6 +650,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#BTC Touchpoint">Articles Bitcoin</a>
   <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
   <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
+  <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
 </footer>
 
 </div>
