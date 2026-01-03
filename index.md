@@ -4,10 +4,9 @@ title: Journal de bord
 permalink: /
 ---
 
-
 <!-- Pastille Komainu centrée -->
 <p style="text-align:center;">
-  <img src="Komainu.PNG" alt="Komainu" style="width:150px;height:150px; solid #000;margin-bottom:20px;">
+  <img src="Komainu.PNG" alt="Komainu" style="width:150px;height:150px;border:1px solid #000;margin-bottom:20px;">
 </p>
 
 # Journal de bord
@@ -47,3 +46,16 @@ setInterval(updateBTCPrice, 60000);
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%d %B %Y" }}
 {% endfor %}
+
+## Nostr Feed
+
+<div id="nostr-widget" style="max-width:600px;margin:0 auto;"></div>
+
+<script src="https://unpkg.com/nostr-blog-widget@latest/dist/index.js"></script>
+<script>
+  new NostrBlogWidget({
+    el: document.getElementById('nostr-widget'),
+    pubkey: 'npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l',
+    limit: 5
+  });
+</script>
