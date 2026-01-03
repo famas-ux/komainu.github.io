@@ -49,18 +49,12 @@ setInterval(updateBTCPrice, 60000);
 
 ## Nostr Feed
 
-<div id="nostr-widget" style="max-width:600px;margin:0 auto;"></div>
+<div style="max-width:600px;margin:0 auto;">
+  <!-- Conteneur du feed Nostr -->
+  <nostr-container relays='["wss://relay.damus.io","wss://relay.nostr.info"]'>
+    <nostr-list filters='[{"kinds":[1],"authors":["npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l"],"limit":5}]'></nostr-list>
+  </nostr-container>
+</div>
 
-<script>
-  // Charger dynamiquement la version correcte du widget
-  const script = document.createElement('script');
-  script.src = "https://unpkg.com/nostr-blog-widget@0.3.6/dist/index.umd.js";
-  script.onload = () => {
-    new NostrBlogWidget({
-      el: document.getElementById('nostr-widget'),
-      pubkey: 'npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l',
-      limit: 5
-    });
-  };
-  document.head.appendChild(script);
-</script>
+<!-- Script web components Nostr -->
+<script src="https://cdn.jsdelivr.net/npm/@konemono/nostr-web-components@latest/dist/nostr-web-components.iife.js"></script>
