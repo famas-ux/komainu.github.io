@@ -49,9 +49,9 @@ setInterval(updateBTCPrice, 60000);
 
 ## Nostr Feed
 
-<!-- Embed direct du nouveau profil Yakihonne -->
+<!-- Embed direct du profil Yakihonne -->
 <iframe
-  src="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutqzyqjat53vz4f2qd87jhn7yzrcp2dl4v64949cksf5f9s2vsf2w2lzcqcyqqqqqqq4fu9p5/embed"
+  src="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutq7hxjv4/embed"
   style="width:100%;max-width:600px;height:400px;border:none;"
   loading="lazy">
 </iframe>
