@@ -52,9 +52,9 @@ setInterval(updateBTCPrice, 60000);
 <div id="nostr-widget" style="max-width:600px;margin:0 auto;"></div>
 
 <script>
-  // Charger le script dynamiquement
+  // Charger dynamiquement la version correcte du widget
   const script = document.createElement('script');
-  script.src = "https://unpkg.com/nostr-blog-widget@latest/dist/index.js";
+  script.src = "https://unpkg.com/nostr-blog-widget@0.3.6/dist/index.umd.js";
   script.onload = () => {
     new NostrBlogWidget({
       el: document.getElementById('nostr-widget'),
