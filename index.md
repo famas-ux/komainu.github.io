@@ -49,9 +49,9 @@ setInterval(updateBTCPrice, 60000);
 
 ## Nostr Feed
 
-<!-- Embed simple Yakihonne profile -->
+<!-- Embed direct du profil Primal.net -->
 <iframe
-  src="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutqzqqpsgqqqqqqqshrkxa/embed"
+  src="https://primal.net/famas/embed"
   style="width:100%;max-width:600px;height:400px;border:none;"
   loading="lazy">
 </iframe>
