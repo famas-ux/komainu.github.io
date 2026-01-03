@@ -50,8 +50,8 @@ setInterval(updateBTCPrice, 60000);
 ## Nostr Feed
 
 <div style="max-width:600px;margin:0 auto;">
-  <!-- Conteneur du feed Nostr -->
-  <nostr-container relays='["wss://relay.damus.io","wss://relay.nostr.info"]'>
+  <!-- Conteneur du feed Nostr sur relay Primal.net -->
+  <nostr-container relays='["wss://relay.primal.net"]'>
     <nostr-list filters='[{"kinds":[1],"authors":["npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l"],"limit":5}]'></nostr-list>
   </nostr-container>
 </div>
