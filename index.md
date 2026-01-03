@@ -51,11 +51,16 @@ setInterval(updateBTCPrice, 60000);
 
 <div id="nostr-widget" style="max-width:600px;margin:0 auto;"></div>
 
-<script src="https://unpkg.com/nostr-blog-widget@latest/dist/index.js"></script>
 <script>
-  new NostrBlogWidget({
-    el: document.getElementById('nostr-widget'),
-    pubkey: 'npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l',
-    limit: 5
-  });
+  // Charger le script dynamiquement
+  const script = document.createElement('script');
+  script.src = "https://unpkg.com/nostr-blog-widget@latest/dist/index.js";
+  script.onload = () => {
+    new NostrBlogWidget({
+      el: document.getElementById('nostr-widget'),
+      pubkey: 'npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l',
+      limit: 5
+    });
+  };
+  document.head.appendChild(script);
 </script>
