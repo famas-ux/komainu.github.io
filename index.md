@@ -49,21 +49,9 @@ setInterval(updateBTCPrice, 60000);
 
 ## Nostr Feed
 
-<div style="max-width:600px;margin:0 auto;">
-  <!-- Conteneur du feed Nostr avec tous les relays disponibles -->
-  <nostr-container relays='[
-    "wss://cache1.primal.net/v1",
-    "wss://lang.relays.land/fr",
-    "wss://nos.lol",
-    "wss://nostr-pub.wellorder.net",
-    "wss://nostr.wine",
-    "wss://purplepag.es",
-    "wss://relay.azzamo.net",
-    "wss://relay.noswhere.com"
-  ]'>
-    <nostr-list filters='[{"kinds":[1],"authors":["npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l"],"limit":5}]'></nostr-list>
-  </nostr-container>
-</div>
-
-<!-- Script web components Nostr -->
-<script src="https://cdn.jsdelivr.net/npm/@konemono/nostr-web-components@latest/dist/nostr-web-components.iife.js"></script>
+<!-- Embed simple Yakihonne profile -->
+<iframe
+  src="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutqzqqpsgqqqqqqqshrkxa/embed"
+  style="width:100%;max-width:600px;height:400px;border:none;"
+  loading="lazy">
+</iframe>
