@@ -53,22 +53,21 @@ setInterval(updateBTCPrice, 60000);
   <em>Chargement du feed Nostr…</em>
 </div>
 
+{% raw %}
 <script src="https://cdn.jsdelivr.net/npm/@konemono/nostr-web-components@latest/dist/nostr-web-components.iife.js"></script>
 <script>
 const feedEl = document.getElementById('nostr-feed');
-
 try {
   new NostrBlogWidget({
     el: feedEl,
     pubkey: 'npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l', // ton npub
     limit: 5,
     relays: ["wss://nos.lol"], // relay fiable
-    fallback: () => { 
-      feedEl.innerHTML = '<em>Aucun post trouvé pour le moment.</em>';
-    }
+    fallback: () => { feedEl.innerHTML = '<em>Aucun post trouvé pour le moment.</em>'; }
   });
 } catch(e) {
   feedEl.innerHTML = '<em>Impossible de charger le feed Nostr.</em>';
   console.error(e);
 }
 </script>
+{% endraw %}
