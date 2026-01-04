@@ -47,3 +47,24 @@ setInterval(updateBTCPrice, 60000);
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%d %B %Y" }}
 {% endfor %}
+
+
+## Nostr Feed
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/nostr-blog-widget@latest/dist/nostr-blog.css"
+/>
+
+<div
+  id="nostr-blog"
+  data-pubkey='["npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l"]'
+  data-relays='["wss://nos.lol", "wss://relay.damus.io"]'
+  data-layout="list"
+  data-content-type="all"
+  data-posts-per-page="5"
+  data-show-controls="false"
+  data-theme="auto"
+></div>
+
+<script src="https://unpkg.com/nostr-blog-widget@latest/dist/nostr-blog.js"></script>
