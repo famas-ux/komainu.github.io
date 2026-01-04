@@ -49,18 +49,26 @@ setInterval(updateBTCPrice, 60000);
 
 ## Nostr Feed
 
-<!-- Feed Nostr conforme NIPs -->
-<div id="nostr-feed" style="max-width:600px;margin:0 auto;"></div>
+<div id="nostr-feed" style="max-width:600px;margin:0 auto;padding:10px;border:1px solid #ccc;border-radius:8px;">
+  <em>Chargement du feed Nostr…</em>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/@konemono/nostr-web-components@latest/dist/nostr-web-components.iife.js"></script>
 <script>
+const feedEl = document.getElementById('nostr-feed');
+
+try {
   new NostrBlogWidget({
-    el: document.getElementById('nostr-feed'),
+    el: feedEl,
     pubkey: 'npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l', // ton npub
     limit: 5,
-    relays: [
-      "wss://cache1.primal.net/v1",
-      "wss://relay.primal.net"
-    ]
+    relays: ["wss://nos.lol"], // relay fiable
+    fallback: () => { 
+      feedEl.innerHTML = '<em>Aucun post trouvé pour le moment.</em>';
+    }
   });
+} catch(e) {
+  feedEl.innerHTML = '<em>Impossible de charger le feed Nostr.</em>';
+  console.error(e);
+}
 </script>
