@@ -49,9 +49,18 @@ setInterval(updateBTCPrice, 60000);
 
 ## Nostr Feed
 
-<!-- Embed direct du profil Yakihonne -->
-<iframe
-  src="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutq7hxjv4/embed"
-  style="width:100%;max-width:600px;height:400px;border:none;"
-  loading="lazy">
-</iframe>
+<!-- Feed Nostr conforme NIPs -->
+<div id="nostr-feed" style="max-width:600px;margin:0 auto;"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/@konemono/nostr-web-components@latest/dist/nostr-web-components.iife.js"></script>
+<script>
+  new NostrBlogWidget({
+    el: document.getElementById('nostr-feed'),
+    pubkey: 'npub1yh2aytq422srfl54ul3qs7q2n0atx4fdfw95zdzfvznyz2njhckqg6l33l', // ton npub
+    limit: 5,
+    relays: [
+      "wss://cache1.primal.net/v1",
+      "wss://relay.primal.net"
+    ]
+  });
+</script>
