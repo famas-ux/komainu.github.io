@@ -2,7 +2,7 @@
 layout: post
 title: "Bibliothèque PDF et EPUB autrichienne"
 permalink: /bibliotheque-bitcoin-autrichienne/
-date: 2025-12-26
+date: 2026-01-07
 categories: [livres, école autrichienne d'économie]
 ---
 
@@ -118,6 +118,9 @@ categories: [livres, école autrichienne d'économie]
 
 <h2>📚 Autres ouvrages contemporains</h2>
 <ul>
+<li><a href="https://pdfhost.io/fr-FR/v/khKerzkjvY_Bitcoin-totem-et-tabou-fevrier-2018">Bitcoin Totem et Tabou- Yorick de Mombynes et Gonzague Granval</a></li>   
+<li><a href="https://pdfhost.io/fr-FR/v/jwBnfKsy3K_Antifragile__Les_Bienfaits_Du_Desordre"> Antifragile
+les bienfaits du désordre - Nassim Nicholas Taleb</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/mGc3sBPgDL_Dieu_merci_pour_bitcoin_Lyle_Pratt__George_Mekhail__Jimmy_Song_">Dieu merci pour bitcoin - Lyle Pratt</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/MaAJqBJzjm_Bitcoin__Everything_divided_by_21_million__French_">L’infini divisé par 21 millions - Knut Svanholm</a></li>
 <li><a href="https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan">L’Etat Réseau - Balaji Srinivasan</a></li>
