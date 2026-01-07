@@ -55,7 +55,7 @@ ul {
 <h2>Expériences professionnelles</h2>
 <ul>
 <li>Comptabilité : 5 ans (entreprise et cabinet d’expertises)</li>
-<li>Gérant du Bar Tabac Presse Jeux Bimbeloterie <strong>« La Pipe »</strong> (Roanne) : 12 ans</li>
+<li>Gérant du Bar Tabac Presse Jeux Bimbeloterie <strong>« La Pipe »</strong> : 12 ans</li>
 <li>Vendeur – Rayon Brico Dépôt : 5 ans</li>
 <li>Mandataire Immobilier (Select83 Immo) : 3 ans</li>
 <li>Ouvrier qualifié en tannerie, emploi alimentaire : toujours en poste</li>
