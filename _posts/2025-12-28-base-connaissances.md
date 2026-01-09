@@ -122,6 +122,7 @@ categories: [bitcoin, base connaissances]
   <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
   <a href="#sha256-algorithm">SHA-256 — Algorithme interactif</a>
   <a href="#learn-me-a-bitcoin">LEARN ME A BITCOIN — Base de connaissances complète</a>
+  <a href="#bitcoin-dev-project">The Bitcoin Dev Project — Base de connaissances complète</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -858,6 +859,41 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="bitcoin-dev-project">
+  <h2>The Bitcoin Dev Project — Base de connaissances complète</h2>
+  <p>
+    The Bitcoin Dev Project propose une vaste bibliothèque de ressources pour apprendre Bitcoin de manière approfondie, adaptée aux développeurs et passionnés.
+    Le site inclut des infographies interactives, des outils et des guides pédagogiques.
+  </p>
+
+  <ul>
+    <li>Ressources pour débutants et développeurs avancés</li>
+    <li>Infographies interactives et guides pratiques</li>
+    <li>Outils éducatifs et projets open source</li>
+    <li>Riche en ressources pédagogiques et techniques</li>
+  </ul>
+
+  <p>
+    <a href="https://savingsatoshi.com/" target="_blank">Savingsatoshi 🔗</a><br>
+    <a href="https://bitcoindevs.xyz/decoding" target="_blank">Decoding Bitcoin 🔗</a><br>
+    <a href="https://github.com/bitcoin-dev-project/decoding-bitcoin" target="_blank">GitHub — Decoding Bitcoin 🔗</a><br>
+    <a href="https://github.com/lnbook/lnbook" target="_blank">GitHub — LNBook 🔗</a><br>
+    <a href="https://github.com/bitcoinbook/bitcoinbook" target="_blank">GitHub — Mastering Bitcoin 🔗</a><br>
+    <a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line" target="_blank">GitHub — Learning Bitcoin CLI 🔗</a><br>
+    <a href="https://github.com/chaincodelabs/bitcoin-tx-tutorial" target="_blank">GitHub — Bitcoin TX Tutorial 🔗</a><br>
+    <a href="https://github.com/LarryRuane/minesim" target="_blank">GitHub — MineSim 🔗</a><br>
+    <a href="https://github.com/willcl-ark/tinybitcoinpeer" target="_blank">GitHub — Tiny Bitcoin Peer 🔗</a><br>
+    <a href="https://bitcoinops.org/en/schnorr-taproot-workshop/" target="_blank">Schnorr & Taproot Workshop 🔗</a><br>
+    <a href="https://learning.chaincode.com/#seminars" target="_blank">Chaincode Learning 🔗</a><br>
+    <a href="https://bitcoindevphilosophy.com/" target="_blank">Bitcoin Dev Philosophy 🔗</a><br>
+    <a href="https://buildonln.com/" target="_blank">Build on LN 🔗</a><br>
+    <a href="https://bitcoinsearch.xyz/" target="_blank">Bitcoin Search 🔗</a><br>
+    <a href="https://ldk.reviews/" target="_blank">LDK Reviews 🔗</a><br>
+    <em>Sources : The Bitcoin Dev Project — ressources pédagogiques, outils et guides open source</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -890,6 +926,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
   <a href="#sha256-algorithm">SHA-256 — Algorithme interactif</a>
   <a href="#learn-me-a-bitcoin">LEARN ME A BITCOIN — Base de connaissances complète</a>
+  <a href="#bitcoin-dev-project">The Bitcoin Dev Project — Base de connaissances complète</a>
 </footer>
 
 </div>
