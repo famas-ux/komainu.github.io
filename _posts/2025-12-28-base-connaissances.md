@@ -115,6 +115,7 @@ categories: [bitcoin, base connaissances]
   <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
   <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
   <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
+  <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -696,6 +697,27 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="bitcoin-explorama">
+  <h2>Bitcoin Explorama — Interactif</h2>
+  <p>
+    Bitcoin Explorama est un site interactif qui permet de découvrir Bitcoin de manière ludique et pédagogique.
+    Les utilisateurs explorent les concepts monétaires, techniques et économiques à travers des expériences interactives.
+  </p>
+
+  <ul>
+    <li>Exploration interactive des concepts Bitcoin</li>
+    <li>Apprentissage ludique et pédagogique</li>
+    <li>Illustrations, schémas et animations interactives</li>
+    <li>Accessibilité pour débutants et curieux</li>
+  </ul>
+
+  <p>
+    <a href="https://bitcoin-explorama.com/?lang=fr" target="_blank">Accéder à Bitcoin Explorama 🔗</a><br>
+    <em>Source : Bitcoin Explorama — site interactif éducatif</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -721,6 +743,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
   <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
   <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
+  <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
 </footer>
 
 </div>
