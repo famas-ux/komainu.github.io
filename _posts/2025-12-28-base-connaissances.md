@@ -114,6 +114,7 @@ categories: [bitcoin, base connaissances]
   <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
   <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
   <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
+  <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -674,6 +675,27 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="anil-patel">
+  <h2>Anil Patel — Le boss des infographies</h2>
+  <p>
+    Anil Patel est spécialisé dans la création d’infographies pédagogiques et visuelles,
+    permettant de comprendre facilement des concepts complexes liés à Bitcoin et à l’économie.
+  </p>
+
+  <ul>
+    <li>Infographies pédagogiques et explicatives</li>
+    <li>Visualisation claire de concepts complexes</li>
+    <li>Supports pour éducation et vulgarisation Bitcoin</li>
+    <li>Accès aux ressources via Gumroad</li>
+  </ul>
+
+  <p>
+    <a href="https://anilsaidso.gumroad.com/" target="_blank">Site officiel Anil Patel 🔗</a><br>
+    <em>Source : Anil Patel — Gumroad</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -698,6 +720,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
   <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
   <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
+  <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
 </footer>
 
 </div>
