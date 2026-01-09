@@ -119,6 +119,7 @@ categories: [bitcoin, base connaissances]
   <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
   <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
   <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
+  <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -789,6 +790,27 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="trybitcoin">
+  <h2>Les 1ères commandes Bitcoin — Tutoriel interactif débutant</h2>
+  <p>
+    Ce site propose un tutoriel interactif pour débutants afin d’apprendre les premières commandes Bitcoin
+    et comprendre le codage de manière pratique et ludique.
+  </p>
+
+  <ul>
+    <li>Niveau débutant — accessible à tous</li>
+    <li>Tutoriel interactif pour apprendre le codage Bitcoin</li>
+    <li>Exercices pratiques et pédagogiques</li>
+    <li>Approche ludique pour renforcer la compréhension</li>
+  </ul>
+
+  <p>
+    <a href="https://trybitcoin.satsie.dev/" target="_blank">TryBitcoin — Tutoriel interactif 🔗</a><br>
+    <em>Source : TryBitcoin.saisie.dev — apprentissage pratique des commandes Bitcoin</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -818,6 +840,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
   <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
   <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
+  <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
 </footer>
 
 </div>
