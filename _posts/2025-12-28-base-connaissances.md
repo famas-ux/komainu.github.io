@@ -117,6 +117,7 @@ categories: [bitcoin, base connaissances]
   <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
   <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
   <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
+  <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -744,6 +745,28 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="school-of-bitcoin">
+  <h2>School of Bitcoin — Jeu interactif éducatif</h2>
+  <p>
+    School of Bitcoin propose un parcours interactif pour découvrir l’argent, Bitcoin et comment acquérir son premier Bitcoin de manière ludique et pédagogique.
+  </p>
+
+  <ul>
+    <li>Comprendre l’argent et son fonctionnement</li>
+    <li>Introduction à Bitcoin et à la blockchain</li>
+    <li>Apprendre à obtenir et gérer son premier Bitcoin</li>
+    <li>Approche interactive et accessible pour tous</li>
+  </ul>
+
+  <p>
+    <a href="https://schoolofbitcoin.com/what-is-money/" target="_blank">What is Money? 🔗</a><br>
+    <a href="https://schoolofbitcoin.com/what-is-bitcoin/" target="_blank">What is Bitcoin? 🔗</a><br>
+    <a href="https://schoolofbitcoin.com/your-first-bitcoin/" target="_blank">Your First Bitcoin 🔗</a><br>
+    <em>Sources : School of Bitcoin — parcours éducatif interactif</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -771,6 +794,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
   <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
   <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
+  <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
 </footer>
 
 </div>
