@@ -2,7 +2,7 @@
 layout: page
 title: "Base de Connaissances"
 permalink: /base-connaissances/
-date: 2026-01-02
+date: 2026-01-09
 categories: [bitcoin, base connaissances]
 ---
 
@@ -112,6 +112,7 @@ categories: [bitcoin, base connaissances]
   <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
   <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
   <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
+  <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -629,6 +630,28 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="archives-satoshi">
+  <h2>Les Archives — Satoshi Nakamoto Institute</h2>
+  <p>
+    Le Satoshi Nakamoto Institute centralise les archives, articles et discussions autour de Bitcoin et de son créateur présumé, Satoshi Nakamoto.
+    Il propose notamment la conservation des emails historiques, publications et réflexions des pionniers de la cryptographie et des Cypherpunks.
+  </p>
+
+  <ul>
+    <li>Accès aux emails originaux de la mailing list Cryptography (Metzdowd)</li>
+    <li>Articles et recherches historiques sur Bitcoin et la cryptographie</li>
+    <li>Ressources pédagogiques et documents originaux sur le développement de Bitcoin</li>
+    <li>Centralisation des archives pour étude et consultation</li>
+  </ul>
+
+  <p>
+    <a href="https://nakamotoinstitute.org/" target="_blank">Site officiel Satoshi Nakamoto Institute 🔗</a><br>
+    <a href="https://www.mail-archive.com/cryptography@metzdowd.com/info.html" target="_blank">Archives email Cryptography@Metzdowd 🔗</a><br>
+    <em>Source : Satoshi Nakamoto Institute — archives et mailing list Metzdowd</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -651,6 +674,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#youtube-fr">Chaînes YouTube 🇫🇷</a>
   <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
   <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
+  <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
 </footer>
 
 </div>
