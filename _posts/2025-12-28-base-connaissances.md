@@ -116,6 +116,7 @@ categories: [bitcoin, base connaissances]
   <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
   <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
   <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
+  <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -718,6 +719,31 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="bitcoiners-africa">
+  <h2>Bitcoiners Africa & Machankura — Guide de l’argent libre</h2>
+  <p>
+    Projet éducatif et communautaire dédié à Bitcoin en Afrique, proposant des ressources, guides et informations sur la souveraineté financière et l’adoption de Bitcoin.
+  </p>
+
+  <ul>
+    <li>Guide pratique pour comprendre et utiliser Bitcoin en Afrique</li>
+    <li>Ressources éducatives pour la souveraineté financière</li>
+    <li>Initiatives locales et communautaires</li>
+    <li>Accès à des plateformes interactives et informations sur Machankura</li>
+  </ul>
+
+  <p>
+    <a href="https://bitcoiners.africa/bitcoin-africas-guide-to-freedom-money/" target="_blank">
+      Bitcoiners Africa — Guide 🔗
+    </a><br>
+    <a href="https://8333.mobi/" target="_blank">
+      Machankura 🔗
+    </a><br>
+    <em>Sources : Bitcoiners Africa & Machankura</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -744,6 +770,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
   <a href="#anil-patel">Anil Patel — Le boss des infographies</a>
   <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
+  <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
 </footer>
 
 </div>
