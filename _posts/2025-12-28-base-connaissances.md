@@ -120,6 +120,7 @@ categories: [bitcoin, base connaissances]
   <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
   <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
   <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
+  <a href="#sha256-algorithm">SHA-256 — Algorithme interactif</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -811,6 +812,27 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="sha256-algorithm">
+  <h2>SHA-256 — Algorithme interactif</h2>
+  <p>
+    Ce site permet de comprendre et expérimenter l’algorithme de hachage SHA-256, utilisé dans Bitcoin et la blockchain,
+    grâce à une interface interactive et pédagogique.
+  </p>
+
+  <ul>
+    <li>Découverte du fonctionnement de SHA-256</li>
+    <li>Algorithme utilisé dans Bitcoin et blockchain</li>
+    <li>Expérimentation interactive en temps réel</li>
+    <li>Approche éducative pour tous les niveaux</li>
+  </ul>
+
+  <p>
+    <a href="https://sha256algorithm.com/" target="_blank">SHA-256 Algorithme interactif 🔗</a><br>
+    <em>Source : SHA256Algorithm.com — apprentissage interactif de SHA-256</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -841,6 +863,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
   <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
   <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
+  <a href="#sha256-algorithm">SHA-256 — Algorithme interactif</a>
 </footer>
 
 </div>
