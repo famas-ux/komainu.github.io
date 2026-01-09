@@ -2,7 +2,7 @@
 layout: page
 title: "Boîte à outils"
 permalink: /boite-outils-bitcoin/
-date: 2025-12-31
+date: 2026-01-09
 categories: [bitcoin, outils]
 ---
 
@@ -102,6 +102,7 @@ categories: [bitcoin, outils]
   <a href="#nca">National Cybersecurity Alliance</a>
   <a href="#privacytools">PrivacyTools.io</a>
   <a href="#origamivault">OrigamiVault</a>
+  <a href="#fuitesinfos">Fuites d’infos</a>
 
   <!-- Wallets Bitcoin -->
   <a href="#protonwallet">Proton Wallet</a>
@@ -305,6 +306,25 @@ categories: [bitcoin, outils]
       Documentation & stratégies de sauvegarde 🔗
     </a><br>
     <em>Source : OrigamiVault — Crypter et stocker sur papier</em>
+  </p>
+</div>
+
+<div class="card" id="fuitesinfos">
+  <h2>Fuites d’infos — Comprendre et se protéger</h2>
+
+  <ul>
+    <li>Explication claire des mécanismes de fuites de données personnelles</li>
+    <li>Panorama des sources courantes de compromission (services en ligne, bases de données, négligences humaines)</li>
+    <li>Impacts concrets : usurpation d’identité, phishing ciblé, revente de données</li>
+    <li>Bonnes pratiques pour limiter l’exposition numérique</li>
+    <li>Approche pédagogique, accessible aux non-techniciens</li>
+  </ul>
+
+  <p>
+    <a href="https://christopheboutry.com/fuites-infos/" target="_blank">
+      Article source — christopheboutry.com 🔗
+    </a><br>
+    <em>Source : Christophe Boutry — relayé par Renaud Lifchitz</em>
   </p>
 </div>
 
@@ -830,6 +850,7 @@ categories: [bitcoin, outils]
   <a href="#nca">National Cybersecurity Alliance</a>
   <a href="#privacytools">PrivacyTools.io</a>
   <a href="#origamivault">OrigamiVault</a>
+  <a href="#fuitesinfos">Fuites d’infos</a>
 
   <!-- Wallets -->
   <a href="#protonwallet">Proton Wallet</a>
