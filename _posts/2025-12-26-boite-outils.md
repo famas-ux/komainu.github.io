@@ -104,6 +104,7 @@ categories: [bitcoin, outils]
   <a href="#origamivault">OrigamiVault</a>
   <a href="#fuitesinfos">Fuites d’infos</a>
   <a href="#haveibeenpwned">Have I Been Pwned</a>
+  <a href="#cybersecuriteorange">CyberSécurité Orange</a>
 
   <!-- Wallets Bitcoin -->
   <a href="#protonwallet">Proton Wallet</a>
@@ -346,6 +347,25 @@ categories: [bitcoin, outils]
       Site officiel — haveibeenpwned.com 🔗
     </a><br>
     <em>Source : Have I Been Pwned — Troy Hunt</em>
+  </p>
+</div>
+
+<div class="card" id="cybersecuriteorange">
+  <h2>CyberSécurité — Orange</h2>
+
+  <ul>
+    <li>Portail de sensibilisation grand public à la cybersécurité</li>
+    <li>Guides pratiques contre phishing, arnaques et vols de données</li>
+    <li>Conseils concrets pour sécuriser comptes, mots de passe et appareils</li>
+    <li>Explications pédagogiques des menaces numériques courantes</li>
+    <li>Ressources adaptées aux particuliers, familles et petites structures</li>
+  </ul>
+
+  <p>
+    <a href="https://cybersecurite.orange.fr/" target="_blank">
+      Site officiel — cybersecurite.orange.fr 🔗
+    </a><br>
+    <em>Source : Orange CyberSécurité — relayé par Renaud Lifchitz</em>
   </p>
 </div>
 
@@ -873,6 +893,7 @@ categories: [bitcoin, outils]
   <a href="#origamivault">OrigamiVault</a>
   <a href="#fuitesinfos">Fuites d’infos</a>
   <a href="#haveibeenpwned">Have I Been Pwned</a>
+  <a href="#cybersecuriteorange">CyberSécurité Orange</a>
 
   <!-- Wallets -->
   <a href="#protonwallet">Proton Wallet</a>
