@@ -118,6 +118,7 @@ categories: [bitcoin, base connaissances]
   <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
   <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
   <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
+  <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -767,6 +768,27 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="guides-darthcoin">
+  <h2>Guides de DarthCoin — Éducation Bitcoin et crypto</h2>
+  <p>
+    DarthCoin propose une série de guides pédagogiques pour comprendre Bitcoin et les cryptomonnaies,
+    en mettant l’accent sur l’aspect éducatif et pratique pour les utilisateurs francophones.
+  </p>
+
+  <ul>
+    <li>Guides détaillés sur Bitcoin et cryptomonnaies</li>
+    <li>Ressources pédagogiques pour débutants et intermédiaires</li>
+    <li>Approche claire et structurée</li>
+    <li>Accessibilité en ligne et gratuit</li>
+  </ul>
+
+  <p>
+    <a href="https://darth-coin.github.io/index-fr.html" target="_blank">Accéder aux guides DarthCoin 🔗</a><br>
+    <em>Source : DarthCoin — Guides éducatifs Bitcoin et crypto</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -795,6 +817,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#bitcoin-explorama">Bitcoin Explorama — Interactif</a>
   <a href="#bitcoiners-africa">Bitcoiners Africa & Machankura — Guide</a>
   <a href="#school-of-bitcoin">School of Bitcoin — Jeu interactif éducatif</a>
+  <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
 </footer>
 
 </div>
