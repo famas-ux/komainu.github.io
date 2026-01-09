@@ -103,6 +103,7 @@ categories: [bitcoin, outils]
   <a href="#privacytools">PrivacyTools.io</a>
   <a href="#origamivault">OrigamiVault</a>
   <a href="#fuitesinfos">Fuites d’infos</a>
+  <a href="#haveibeenpwned">Have I Been Pwned</a>
 
   <!-- Wallets Bitcoin -->
   <a href="#protonwallet">Proton Wallet</a>
@@ -325,6 +326,26 @@ categories: [bitcoin, outils]
       Article source — christopheboutry.com 🔗
     </a><br>
     <em>Source : Christophe Boutry — relayé par Renaud Lifchitz</em>
+  </p>
+</div>
+
+<div class="card" id="haveibeenpwned">
+  <h2>Have I Been Pwned — Vérification de fuites de données</h2>
+
+  <ul>
+    <li>Service de référence pour vérifier si une adresse email ou un mot de passe a été compromis</li>
+    <li>Base de données regroupant des milliards de comptes issus de fuites publiques</li>
+    <li>Recherche par email, nom de domaine ou mot de passe (k-Anonymity)</li>
+    <li>Alertes automatiques en cas de nouvelle compromission</li>
+    <li>Outil utilisé par particuliers, entreprises et chercheurs en sécurité</li>
+    <li>Respect de la vie privée : aucun mot de passe transmis en clair</li>
+  </ul>
+
+  <p>
+    <a href="https://haveibeenpwned.com/" target="_blank">
+      Site officiel — haveibeenpwned.com 🔗
+    </a><br>
+    <em>Source : Have I Been Pwned — Troy Hunt</em>
   </p>
 </div>
 
@@ -851,6 +872,7 @@ categories: [bitcoin, outils]
   <a href="#privacytools">PrivacyTools.io</a>
   <a href="#origamivault">OrigamiVault</a>
   <a href="#fuitesinfos">Fuites d’infos</a>
+  <a href="#haveibeenpwned">Have I Been Pwned</a>
 
   <!-- Wallets -->
   <a href="#protonwallet">Proton Wallet</a>
