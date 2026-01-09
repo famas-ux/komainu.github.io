@@ -121,6 +121,7 @@ categories: [bitcoin, base connaissances]
   <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
   <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
   <a href="#sha256-algorithm">SHA-256 — Algorithme interactif</a>
+  <a href="#learn-me-a-bitcoin">LEARN ME A BITCOIN — Base de connaissances complète</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -833,6 +834,30 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="learn-me-a-bitcoin">
+  <h2>LEARN ME A BITCOIN — Base de connaissances complète</h2>
+  <p>
+    LEARN ME A BITCOIN propose une ressource complète pour découvrir Bitcoin,
+    adaptée aux débutants et aux profils techniques. Le site inclut des infographies interactives,
+    des outils et une riche bibliothèque de ressources pédagogiques.
+  </p>
+
+  <ul>
+    <li>Contenu accessible pour débutants et utilisateurs avancés</li>
+    <li>Infographies interactives pour mieux comprendre Bitcoin</li>
+    <li>Outils pratiques pour explorer et utiliser Bitcoin</li>
+    <li>Riche en ressources éducatives et guides</li>
+  </ul>
+
+  <p>
+    <a href="https://learnmeabitcoin.com/" target="_blank">Accueil LEARN ME A BITCOIN 🔗</a><br>
+    <a href="https://learnmeabitcoin.com/technical/" target="_blank">Section technique 🔗</a><br>
+    <a href="https://learnmeabitcoin.com/tools/" target="_blank">Outils Bitcoin 🔗</a><br>
+    <em>Sources : LearnMeABitcoin.com — ressources pédagogiques et techniques</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -864,6 +889,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#guides-darthcoin">Guides de DarthCoin — Éducation Bitcoin et crypto</a>
   <a href="#trybitcoin">Les 1ères commandes Bitcoin — Tutoriel interactif débutant</a>
   <a href="#sha256-algorithm">SHA-256 — Algorithme interactif</a>
+  <a href="#learn-me-a-bitcoin">LEARN ME A BITCOIN — Base de connaissances complète</a>
 </footer>
 
 </div>
