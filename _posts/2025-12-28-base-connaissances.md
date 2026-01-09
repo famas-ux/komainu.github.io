@@ -113,6 +113,7 @@ categories: [bitcoin, base connaissances]
   <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
   <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
   <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
+  <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
 </nav>
 
 <!-- Carte 1 -->
@@ -652,6 +653,27 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   </p>
 </div>
 
+<!-- Carte -->
+<div class="card" id="voicepaper">
+  <h2>Le VoicePaper — Hommage au Livre Blanc de Satoshi</h2>
+  <p>
+    « Le VoicePaper » est un projet où 159 Bitcoiners racontent chacun un bloc du livre blanc original de Satoshi Nakamoto.
+    Il rend hommage aux idées, à la vision et aux événements qui ont déclenché la révolution Bitcoin.
+  </p>
+
+  <ul>
+    <li>159 contributeurs racontent le livre blanc original</li>
+    <li>Approche collective et pédagogique</li>
+    <li>Hommage à Satoshi Nakamoto et à l’esprit pionnier du Bitcoin</li>
+    <li>Projet interactif et accessible en ligne</li>
+  </ul>
+
+  <p>
+    <a href="http://dimzayan.com/voicepaper.html" target="_blank">Accéder au VoicePaper 🔗</a><br>
+    <em>Source : VoicePaper — hommage collaboratif au livre blanc de Satoshi</em>
+  </p>
+</div>
+
 <!-- Footer -->
 <footer>
   <a href="#probleme">Quel est le problème ?</a>
@@ -675,6 +697,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#institut-national-bitcoin">Institut National du Bitcoin</a>
   <a href="#enigma-nakamoto-podcast">Enigma Nakamoto — Podcast</a>
   <a href="#archives-satoshi">Les Archives — Satoshi Nakamoto Institute</a>
+  <a href="#voicepaper">Le VoicePaper — Hommage au Livre Blanc</a>
 </footer>
 
 </div>
