@@ -2,7 +2,7 @@
 layout: post
 title: "Bibliothèque PDF et EPUB autrichienne"
 permalink: /bibliotheque-bitcoin-autrichienne/
-date: 2026-01-07
+date: 2026-01-10
 categories: [livres, école autrichienne d'économie]
 ---
 
@@ -49,6 +49,7 @@ categories: [livres, école autrichienne d'économie]
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-le-chaos-du-planisme/">Le chaos du planisme</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-linterventionnisme/">Ludwig von Mises – L’interventionnisme</a></li>
 <li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-memoires-souvenirs-deurope/">Ludwig von Mises – Mémoires souvenirs d’Europe</a></li>
+<li><a href="https://editions.institutcoppet.org/produit/ludwig-von-mises-planifier-la-liberte/">Ludwig von Mises – Planifier la liberté 1952</a></li>
 </ul>
 
 <hr>
