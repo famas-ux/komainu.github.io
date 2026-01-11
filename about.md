@@ -22,18 +22,16 @@ permalink: /about/
 <!-- Suivre sur Nostr -->
 <div style="text-align:center; margin: 20px auto; max-width: 700px;">
     <p>
-        Me suivre sur Nostr❓ 
-        <a href="https://primal.net/famas" target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗</a>
-    </p>
-</div>
 
-<!-- Suivre sur Nostr -->
+<!-- Profils Nostr -->
 <div style="text-align:center; margin: 20px auto; max-width: 700px;">
     <p>
-        Me suivre sur Nostr❓ 
-        <a href="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutqzqqpsgqqqqqqqshrkxa" target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗 Yakihonne</a><br>
+        Me suivre sur Nostr :
+        <a href="https://primal.net/famas" target="_blank" style="font-weight:bold;">Primal</a> ·
+        <a href="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutqzqqpsgqqqqqqqshrkxa"
+           target="_blank" style="font-weight:bold;">Yakihonne</a>
     </p>
-</div>
+</div>    
 
 <!-- Contact mail & Bitcoin -->
 <div style="text-align:center; margin: 20px auto; max-width: 700px;">
@@ -53,6 +51,16 @@ permalink: /about/
         https://pay.blitzwalletapp.com/komainu
     </a>
 </p> 
+    </p>
+</div>
+
+<div style="text-align:center; margin: 20px auto; max-width: 700px;">
+    <p>
+        <a href="https://yakihonne.com/article/s/famas@blitzwalletapp.com/1f369d07f6a82877"
+           target="_blank"
+           style="font-weight:bold; color:#1c1c1e;">
+            En savoir plus sur les possibilités de contributions
+        </a>
     </p>
 </div>
 
