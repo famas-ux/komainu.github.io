@@ -31,7 +31,7 @@ permalink: /about/
 <div style="text-align:center; margin: 20px auto; max-width: 700px;">
     <p>
         Me suivre sur Nostr❓ 
-        <a href="https://primal.net/famas" target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗 Primal</a><br>
+        <a href="https://yakihonne.com/profile/nprofile1qqszt4wj9s249gp5l6270csg0q9fh74n25k5hz6px3ykpfjp9fetutqzqqpsgqqqqqqqshrkxa" target="_blank" style="font-weight:bold; color:#1c1c1e;">🔗 Yakihonne</a><br>
     </p>
 </div>
 
