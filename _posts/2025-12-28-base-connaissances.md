@@ -102,7 +102,7 @@ categories: [bitcoin, base connaissances]
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#bitcoin-score">Bitcoin Score — Quiz interactif éducatif</a>
-  <a href="#vivre-en-bitcoin-tutoriel">Vivre en Bitcoin — Tutoriel que votre banquier ne veut pas que vous voyiez</a>
+  <a href="#vivre-en-bitcoin-tutoriel">Vivre en Bitcoin — Tutoriel (SpeakerDeck)</a>
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
@@ -344,25 +344,31 @@ categories: [bitcoin, base connaissances]
 <!-- Carte -->
 <div class="card" id="vivre-en-bitcoin-tutoriel">
   <h2>Vivre en Bitcoin — Le tutoriel que votre banquier ne veut pas que vous voyiez</h2>
+
   <p>
     Présentation pédagogique par Renaud Lifchitz expliquant comment vivre avec Bitcoin au quotidien,
     gérer ses bitcoins de manière autonome, payer factures et achats, sécuriser ses fonds et
-    réduire la dépendance au système bancaire traditionnel.  [oai_citation:1‡Speaker Deck](https://speakerdeck.com/rlifchitz/vivre-en-bitcoin-le-tutoriel-que-votre-banquier-ne-veut-pas-que-vous-voyiez?utm_source=chatgpt.com)
+    réduire la dépendance au système bancaire traditionnel
+    (<a href="https://speakerdeck.com/rlifchitz/vivre-en-bitcoin-le-tutoriel-que-votre-banquier-ne-veut-pas-que-vous-voyiez" target="_blank">
+      speakerdeck.com
+    </a>).
   </p>
 
   <ul>
-    <li>Pourquoi vivre en Bitcoin et gérer ses fonds sans banque traditionnelle</li>
-    <li>Fondations : gestion des portefeuilles et choix des wallets</li>
-    <li>Payer factures, charges et achats avec Bitcoin</li>
-    <li>Utilisation du réseau Lightning et commerçants acceptant Bitcoin</li>
+    <li>Pourquoi vivre en Bitcoin et réduire la dépendance bancaire</li>
+    <li>Gestion autonome des wallets et des clés privées</li>
+    <li>Paiement des factures et achats en Bitcoin</li>
+    <li>Utilisation du réseau Lightning au quotidien</li>
     <li>Sécurité, vie privée et bonnes pratiques</li>
   </ul>
 
   <p>
-    <a href="https://speakerdeck.com/rlifchitz/vivre-en-bitcoin-le-tutoriel-que-votre-banquier-ne-veut-pas-que-vous-voyiez" target="_blank">
-      Vivre en Bitcoin — Présentation complète 🔗
-    </a><br>
-    <em>Source : Renaud Lifchitz — SpeakerDeck</em>
+    Présentation complète :
+    (<a href="https://speakerdeck.com/rlifchitz/vivre-en-bitcoin-le-tutoriel-que-votre-banquier-ne-veut-pas-que-vous-voyiez" target="_blank">
+      https://speakerdeck.com/rlifchitz/vivre-en-bitcoin-le-tutoriel-que-votre-banquier-ne-veut-pas-que-vous-voyiez
+    </a>)
+    <br>
+    <em>Source et auteur : Renaud Lifchitz</em>
   </p>
 </div>
 
@@ -956,7 +962,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
   <a href="#bitcoin-score">Bitcoin Score — Quiz interactif éducatif</a>
-  <a href="#vivre-en-bitcoin-tutoriel">Vivre en Bitcoin — Tutoriel que votre banquier ne veut pas que vous voyiez</a>
+  <a href="#vivre-en-bitcoin-tutoriel">Vivre en Bitcoin — Tutoriel (SpeakerDeck)</a>
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
