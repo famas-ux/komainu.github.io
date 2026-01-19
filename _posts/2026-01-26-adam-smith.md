@@ -2,7 +2,7 @@
 layout: post
 title: "Abrégé de La Richesse des Nations — Adam Smith"
 permalink: /adam-smith-abrege-richesse-des-nations/
-date: 2026-01-25
+date: 2026-01-26
 categories: [economie, liberalisme, philosophie, nostr]
 ---
 
