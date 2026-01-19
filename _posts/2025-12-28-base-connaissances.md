@@ -2,7 +2,7 @@
 layout: page
 title: "Base de Connaissances"
 permalink: /base-connaissances/
-date: 2026-01-09
+date: 2026-01-19
 categories: [bitcoin, base connaissances]
 ---
 
@@ -101,6 +101,7 @@ categories: [bitcoin, base connaissances]
   <a href="#mysteresatoshi">Le Mystère Satoshi</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
+  <a href="#bitcoin-score">Bitcoin Score — Quiz interactif éducatif</a>
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
@@ -313,6 +314,29 @@ categories: [bitcoin, base connaissances]
   </ul>
   <p>
     <em>Source : PlanB Academy — <a href="https://planb.academy/fr/learn-anytime" target="_blank">Toutes les formations gratuites 🔗</a></em>
+  </p>
+</div>
+
+<!-- Carte -->
+<div class="card" id="bitcoin-score">
+  <h2>Bitcoin Score — Quiz interactif éducatif</h2>
+  <p>
+    Bitcoin Score est une plateforme interactive pour tester et renforcer vos connaissances sur Bitcoin.
+    À travers des questions adaptées à votre niveau, vous apprenez les concepts clés du protocole,
+    de l’histoire, de l’économie et des usages de Bitcoin.
+  </p>
+
+  <ul>
+    <li>Quiz interactif pour apprendre Bitcoin de façon ludique</li>
+    <li>Modes Challenge (avec minuterie & classement) et Practice (sans pression)</li>
+    <li>Score ajusté selon vos performances</li>
+    <li>Classement dans le Hall of Fame des meilleurs joueurs</li>
+    <li>Idéal pour débutants & apprenants souhaitant réviser</li>
+  </ul>
+
+  <p>
+    <a href="https://bitcoin-score.zaup.org/" target="_blank">Bitcoin Score — Quiz éducatif 🔗</a><br>
+    <em>Source : Bitcoin Score — bitcoin-score.zaup.org</em>
   </p>
 </div>
 
@@ -905,6 +929,7 @@ des enjeux économiques, monétaires et sociétaux liés à Bitcoin.
   <a href="#bitcoinmonnaie">Pourquoi votre argent perd de la valeur</a>
   <a href="#bibliothequebitcoin">Ouvrages contemporains</a>
   <a href="#formationsgratuites">Formations gratuites PlanB Academy</a>
+  <a href="#bitcoin-score">Bitcoin Score — Quiz interactif éducatif</a>
   <a href="#freecertifications">Free Certifications</a>
   <a href="#myfirstbitcoin">My First Bitcoin</a>
   <a href="#cours-histoire-bitcoin">Cours Histoire Bitcoin</a>
