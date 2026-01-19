@@ -26,7 +26,7 @@ img { max-width: 100%; height: auto; margin: 10px 0; }
 <li><a href="https://www.institutcoppet.org/wp-content/uploads/2011/01/La-Loi.pdf">Téléchargement direct PDF</a></li>
 </ul>
 
-<h2>Résumé ASCII / Mind Map</h2>
+<h2>Mind Map</h2>
 <pre>
 LA LOI
 Frédéric Bastiat (1850)
