@@ -26,7 +26,7 @@ img { max-width: 100%; height: auto; margin: 10px 0; }
 <li><a href="https://pdfhost.io/fr-FR/v/FkKfTXgUZB_L_Etat_Reseau--_Balaji_Srinivasan">L’État-Réseau — version PDF</a></li>
 </ul>
 
-<h2>Résumé ASCII / Mind Map</h2>
+<h2>Mind Map</h2>
 <pre>
 L’ÉTAT-RÉSEAU
 Balaji Srinivasan
