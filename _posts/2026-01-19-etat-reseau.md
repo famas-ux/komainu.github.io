@@ -2,7 +2,7 @@
 layout: post
 title: "L’État-Réseau — Balaji Srinivasan"
 permalink: /etat-reseau-balaji/
-date: 2026-01-19
+date: 2026-01-18
 categories: [etat-reseau, balaji-srinivasan, nostr]
 ---
 
