@@ -2,7 +2,7 @@
 layout: post
 title: "Commerce vs Gouvernement — Essai sur Condillac (Jérémie Rostan)"
 permalink: /condillac-commerce-vs-gouvernement/
-date: 2026-01-24
+date: 2026-01-25
 categories: [economie, liberalisme, philosophie, nostr]
 ---
 
